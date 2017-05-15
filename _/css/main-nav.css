@@ -1,0 +1,152 @@
+/* Top level Unordered list */
+
+.lt-ie9 ul.main-nav {
+	padding-right: 0;
+}
+
+ul.main-nav {
+	list-style:none;
+	float:right;
+	padding: 0 27px 0 36px;
+}
+ 
+ul.main-nav li{
+	float:left; /* makes horiz list */
+	 /* hey Submenu ULs, appear below! */
+}
+ 
+ul.main-nav > li > a {
+	padding:8px 8px 46px 8px; /*space the items, occupy entire height too.*/
+	line-height: 31px;
+	color: #292929;
+	display: block;
+	font-weight: 700;
+	text-transform: uppercase;
+	text-shadow: 0px 1px 1px #fff;
+}
+
+ul.main-nav > li.ur-icon > a { 
+	text-indent: -999em;
+	background: url('../../img/ur-icon.gif') no-repeat center center;
+	width: 26px;
+	height: 27px;
+	padding: 8px;
+}
+ 
+/* Style the link hover */
+ul.main-nav > li:hover > a {
+	background: url('../../img/pattern.png') repeat top left #444;
+	color: white;
+	text-shadow: none;
+}
+
+ul.main-nav > li.ur-icon:hover > a {
+	background: url('../../img/ur-icon.gif') no-repeat center center;
+}
+ 
+/* Displays the link as blocks. */
+ul.main-nav > li > ul > a {
+	display:block;
+}
+ 
+/* sub menus!!  */
+ 
+ul.main-nav > li > ul {
+	list-style: none;
+	margin:0; /* Appear just below the hovering list */
+	padding:20px 10px 0 10px;
+	width:960px; /* specify the width. */
+	position:absolute; /* needed */
+	z-index:2000; /* specify the order */
+	left: 0;
+	top:215px; /* Positioning:Calc with top level horz list height */
+	-webkit-box-shadow:  0px 2px 10px rgba(0, 0, 0, 0.5);
+    -moz-box-shadow:  0px 2px 10px rgba(0, 0, 0, 0.5);
+    box-shadow:  0px 2px 10px rgba(0, 0, 0, 0.5);
+        
+	background: url('../../img/pattern.png') repeat top left #444;
+}
+ 
+ul.main-nav > li > ul > li > ul {
+	top:0;
+	left:100%; /* Position the sub menus to right. */
+	padding-left: 10px;
+	
+}
+
+ul.main-nav > li > ul > li > ul > li {
+	margin-bottom: 8px;
+	width: 100%;
+}
+
+ul.main-nav > li > ul > li > ul > li:last-child {
+	margin-bottom: 30px;
+	width: 100%;
+}
+
+ul.main-nav > li > ul > li > ul > li > a {
+ 	color: white;
+ 	display: block;
+ 	width: 100%;
+ 	font-size: 0.85em;
+ 	font-weight: 600;
+ }
+ 
+ 
+ul.main-nav > li > ul > li {
+	float:left; /* umm.. Appear below the previous one. mmkay? */
+	width: 220px;
+	margin: 0 10px 0 10px;
+	
+}
+
+ul.main-nav > li > ul > li > a {
+	font-size: 1em;
+	font-weight: 600;
+	padding-left: 10px;
+	padding-bottom: 8px;
+	margin-bottom: 8px;
+	color: #fec300;
+	text-transform: uppercase;
+	border-bottom: 1px solid rgba(255,255,255,0.5);
+	display: block;
+}
+
+ul.main-nav > li > ul > li > a:hover {
+	color: white;
+	text-decoration: underline;
+}
+ 
+/* Drop Down! */
+
+/* Hide all the dropdowns (submenus) */
+ul.main-nav ul
+{}
+
+ul.main-nav li:hover {
+visibility: inherit; /* fixes IE7 'sticky bug' */
+}
+
+/* Display the submenus only when li are hovered */
+ul.main-nav li:hover ul, 
+ul.main-nav li.sfHover ul
+{} 
+ul.main-nav li * a:hover {
+/* Change color of links when hovered */
+	color: #fec300;
+	text-decoration: underline;
+}
+
+
+/*
+ul.main-nav > li > ul > li > ul {
+	visibility: visible!important;
+}
+*/
+.current_page_item{} // Class for Current Page
+.current-cat{} // Class for Current Category
+.current-menu-item{} // Class for any other current Menu Item
+.menu-item-type-taxonomy{} // Class for a Category
+.menu-item-type-post_type{} // Class for Pages
+.menu-item-type-custom{} // Class for any custom item that you added
+.menu-item-home{} // Class for the Home Link

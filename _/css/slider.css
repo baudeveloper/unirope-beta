@@ -1,0 +1,129 @@
+/* Main Banner Slider 
+------------------------------------*/
+
+#main-slider .pagination {
+  z-index: 900;
+  position: absolute;
+  bottom: 10px;
+  right: 15px;
+}
+#main-slider .pagination li {
+  float: left;
+  margin: 0 3px;
+  list-style: none;
+}
+#main-slider .pagination li a {
+  width:10px;
+  height:10px;
+  display:block;
+  -moz-border-radius:5px;
+  -webkit-border-radius:5px;
+  -khtml-border-radius:5px;
+  border-radius:5px;
+  line-height: 1;
+  background-color: rgb(255,231,140);
+  background-color: rgba(255, 255, 255, 0.65);
+  float: left;
+  overflow: hidden;
+  text-indent: -9999px;
+}
+#main-slider .pagination li.current a {
+  background-color: white;
+}
+#main-slider .slides_container {
+  width: 980px;
+  height: 318px;
+  position: relative;
+  display: none;
+  overflow: hidden;
+}
+#main-slider .slides_container .slide {
+  width: 980px;
+  height: 318px;
+  display: block;
+  position: relative;
+}
+#main-slider .slides_container .slide .caption-bg {
+	background: url('../../img/slider-bg.png') no-repeat top right;
+	height: 318px;
+	width: 340px;
+	position: absolute;
+	top:0;
+	right: 0;
+}
+#main-slider .slides_container .slide .main-caption {
+  position: absolute;
+  bottom: -15px;
+  right: 0;
+  width: 210px;
+  padding: 44px 50px 44px 60px;
+  margin-left: 20px;
+  height: 230px;
+  z-index: 800;
+}
+#main-slider .slides_container .slide .main-caption h2 {
+  color: #b21616;
+  text-shadow: 0px 1px 1px #ffff33;
+}
+
+#main-slider .slides_container .slide .main-caption p {
+  font-size: 0.9em;
+}
+
+#main-slider .slides_container .slide .main-caption a {
+  color: #444;
+  display: block;
+  text-transform: uppercase;
+  font-size: 0.75em;
+  font-weight: 700;
+}
+
+#main-slider .slides_container .slide .main-caption a:hover {
+	color: #b21616;
+	text-decoration: underline;
+}
+
+/* Products In Use Slider 
+------------------------------------*/
+
+#product-slider .slides_container {
+  width: 320px;
+  height: 248px;
+  position: relative;
+  display: none;
+  overflow: hidden;
+}
+#product-slider .slides_container .slide {
+  width: 320px;
+  height: 248px;
+  display: block;
+  position: relative;
+}
+
+#product-slider .slides_container .slide .caption {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 300px;
+  padding: 10px;
+  height: 60px;
+  z-index: 800;
+  background-color: #000;
+}
+
+#product-slider .slides_container .slide .caption p {
+  color: #fff;
+  font-size: 0.9em;
+}
+
+#product-slider .slides_container .slide .caption a {
+  color: #fec300;
+  text-transform: uppercase;
+  font-size: 0.75em;
+  font-weight: 700;
+}
+
+#product-slider .slides_container .slide .caption a:hover {
+	color: #fff;
+	text-decoration: underline;
+}

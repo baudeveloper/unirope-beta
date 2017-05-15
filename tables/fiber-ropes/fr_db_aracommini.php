@@ -1,0 +1,107 @@
+<div class="table-full">
+  <table class="data" border="0" cellspacing="0" cellpadding="0" width="100%">
+    <thead>
+    <tr>
+    	<th colspan="4">&nbsp;</th>
+    </tr>
+      <tr>
+        <th>Nominal Diam. Inches</th>
+        <th>Decimal Diam.</th>
+        <th>Weight Pounds per 100 ft.</th>
+        <th>Average Break Strength Pounds</th>
+      </tr>
+      </thead>
+      <tbody>
+<tr>
+        <td>1/16</td>
+        <td>0.063</td>
+        <td>0.15</td>
+        <td>450</td>
+      </tr>
+      <tr>
+        <td>3/32</td>
+        <td>0.095</td>
+        <td>0.31</td>
+        <td>850</td>
+      </tr>
+      <tr>
+        <td>1/8</td>
+        <td>0.132</td>
+        <td>0.61</td>
+        <td>1,650</td>
+      </tr>
+      <tr>
+        <td>5/32</td>
+        <td>0.160</td>
+        <td>0.92</td>
+        <td>2,400</td>
+      </tr>
+      <tr>
+        <td>3/16</td>
+        <td>0.205</td>
+        <td>1.20</td>
+        <td>4,000</td>
+      </tr>
+      <tr>
+        <td>1/4</td>
+        <td>0.273</td>
+        <td>2.10</td>
+        <td>6,000</td>
+      </tr>
+      <tr>
+        <td>5/16</td>
+        <td>0.313</td>
+        <td>3.30</td>
+        <td>8,000</td>
+      </tr>
+      <tr>
+        <td>3/8</td>
+        <td>0.355</td>
+        <td>4.70</td>
+        <td>12,800</td>
+      </tr>
+      <tr>
+        <td>7/16</td>
+        <td>0.433</td>
+        <td>6.30</td>
+        <td>16,900</td>
+      </tr>
+      <tr>
+        <td>1/2</td>
+        <td>0.470</td>
+        <td>7.50</td>
+        <td>22,000</td>
+      </tr>
+      <tr>
+        <td>9/16</td>
+        <td>0.550</td>
+        <td>10.60</td>
+        <td>30,500</td>
+      </tr>
+      <tr>
+        <td>5/8</td>
+        <td>0.650</td>
+        <td>13.10</td>
+        <td>36,000</td>
+      </tr>
+      <tr>
+        <td>3/4</td>
+        <td>0.770</td>
+        <td>18.90</td>
+        <td>56,000</td>
+      </tr>
+      <tr>
+        <td>7/8</td>
+        <td>0.875</td>
+        <td>25.90</td>
+        <td>78,000</td>
+      </tr>
+      <tr>
+        <td>1</td>
+        <td>1.030</td>
+        <td>35.00</td>
+        <td>100,000</td>
+      </tr>
+</tbody>
+  </table>
+</div>

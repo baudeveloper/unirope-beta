@@ -1,0 +1,94 @@
+#breadcrumbs-nav #primary-cat {
+	color: white;
+	float: left;
+}
+
+#breadcrumbs-nav #primary-cat a {
+	color: white;
+	font-size: 1.5em;
+}
+
+#breadcrumbs-nav #primary-cat a:hover {
+	color: #fec300;
+	/* text-decoration: underline; */
+}
+
+#breadcrumbs-nav #product-group {
+	color: white;
+	float: left;
+}
+
+#breadcrumbs-nav #product-group a {
+	color: white;
+	font-size: 1em;	
+}
+
+#breadcrumbs-nav #product-group a:hover {
+	color: #fec300;
+	text-decoration: underline;
+}
+
+#breadcrumbs-nav #secondary-cat {
+	float: right;
+	text-align: right;
+	padding: 0 35px 0 20px;
+	background-color: #fec300;
+	color: #444;
+	height: 100%;
+	min-width: 265px;
+}
+
+#breadcrumbs-nav #secondary-cat ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	float: right;
+}
+
+#breadcrumbs-nav #secondary-cat ul li {
+	display: block;
+	float: left;
+	padding-left: 3px;
+}
+
+#breadcrumbs-nav #secondary-cat ul li:after {
+	content: ' /';
+}
+
+#breadcrumbs-nav #secondary-cat ul li:last-child:after {
+	content: ''!important;
+}
+
+#breadcrumbs-nav #secondary-cat a {
+	color: #960000;
+}
+
+#breadcrumbs-nav #secondary-cat a:hover {
+	color: #444;
+	/* text-decoration: underline; */
+}
+
+#breadcrumbs-nav .breadcrumbs a:first-child {
+	display: none;
+}
+
+/*
+#breadcrumbs-nav .breadcrumbs a:nth-child(2) {
+	display: none;
+}
+*/
+
+#breadcrumbs-nav .breadcrumbs a:last-child {
+	color: #444!important;
+	cursor: default;
+}
+
+#breadcrumbs-nav .breadcrumbs a:after {
+	content: " / "
+}
+
+/*
+#breadcrumbs-nav .breadcrumbs a:nth-last-child(2):after {
+	content: ""
+}
+*/

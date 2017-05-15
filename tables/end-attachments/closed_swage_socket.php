@@ -1,0 +1,173 @@
+<div class="table-full">
+<table class="data" border="0" cellspacing="0" cellpadding="0" width="100%">
+  <thead>
+  <tr>
+  	<th colspan="7">Dimensions (inch) for Closed Swage Socket</th>
+  </tr>
+<tr>
+    <th>Wire Rope diameter</th>
+    <th>AS max. B</th>
+    <th>C</th>
+    <th>D</th>
+    <th>H</th>
+    <th>O</th>
+    <th>lbs each</th>
+  </tr>
+</thead>
+  <tbody>
+<tr>
+    <td>1/4</td>
+    <td>0.46</td>
+    <td>1.38</td>
+    <td>0.75</td>
+    <td>0.50</td>
+    <td>0.81</td>
+    <td>0.32</td>
+  </tr>
+  <tr>
+    <td>5/16</td>
+    <td>0.71</td>
+    <td>1.62</td>
+    <td>0.88</td>
+    <td>0.67</td>
+    <td>0.94</td>
+    <td>0.77</td>
+  </tr>
+  <tr>
+    <td>3/8</td>
+    <td>0.71</td>
+    <td>1.62</td>
+    <td>0.88</td>
+    <td>0.67</td>
+    <td>0.94</td>
+    <td>0.72</td>
+  </tr>
+  <tr>
+    <td>7/16</td>
+    <td>0.91</td>
+    <td>2.00</td>
+    <td>1.06</td>
+    <td>0.86</td>
+    <td>1.16</td>
+    <td>1.42</td>
+  </tr>
+  <tr>
+    <td>1/2</td>
+    <td>0.91</td>
+    <td>2.00</td>
+    <td>1.06</td>
+    <td>0.86</td>
+    <td>1.16</td>
+    <td>1.35</td>
+  </tr>
+  <tr>
+    <td>9/16</td>
+    <td>1.16</td>
+    <td>2.38</td>
+    <td>1.25</td>
+    <td>1.13</td>
+    <td>1.41</td>
+    <td>2.92</td>
+  </tr>
+  <tr>
+    <td>5/8</td>
+    <td>1.16</td>
+    <td>2.38</td>
+    <td>1.25</td>
+    <td>1.13</td>
+    <td>1.41</td>
+    <td>2.85</td>
+  </tr>
+  <tr>
+    <td>3/4</td>
+    <td>1.42</td>
+    <td>2.75</td>
+    <td>1.44</td>
+    <td>1.31</td>
+    <td>1.65</td>
+    <td>4.90</td>
+  </tr>
+  <tr>
+    <td>7/8</td>
+    <td>1.55</td>
+    <td>3.13</td>
+    <td>1.69</td>
+    <td>1.50</td>
+    <td>1.81</td>
+    <td>7.28</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>1.80</td>
+    <td>3.63</td>
+    <td>2.06</td>
+    <td>1.75</td>
+    <td>2.06</td>
+    <td>10.30</td>
+  </tr>
+  <tr>
+    <td>1-1/8</td>
+    <td>2.05</td>
+    <td>4.00</td>
+    <td>2.31</td>
+    <td>2.00</td>
+    <td>2.28</td>
+    <td>15.40</td>
+  </tr>
+  <tr>
+    <td>1-1/4</td>
+    <td>2.30</td>
+    <td>4.50</td>
+    <td>2.56</td>
+    <td>2.25</td>
+    <td>2.56</td>
+    <td>21.40</td>
+  </tr>
+  <tr>
+    <td>1-3/8</td>
+    <td>2.56</td>
+    <td>5.00</td>
+    <td>2.56</td>
+    <td>2.25</td>
+    <td>2.88</td>
+    <td>27.90</td>
+  </tr>
+  <tr>
+    <td>1-1/2</td>
+    <td>2.81</td>
+    <td>5.50</td>
+    <td>2.81</td>
+    <td>2.50</td>
+    <td>3.12</td>
+    <td>36.00</td>
+  </tr>
+  <tr>
+    <td>1-3/4</td>
+    <td>3.06</td>
+    <td>6.25</td>
+    <td>3.56</td>
+    <td>3.00</td>
+    <td>3.56</td>
+    <td>51.00</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>3.56</td>
+    <td>7.25</td>
+    <td>3.81</td>
+    <td>3.25</td>
+    <td>4.62</td>
+    <td>90.00</td>
+  </tr>
+</tbody>
+<tfoot>
+	<tr>
+		<td colspan="7">
+		<div class="footnote">
+            <p><b>Note:</b> Socket strength is equal to Class 6x19/6x37 IWRC EEIPS wire rope. For installation on Python® wire rope call for details.</p>
+		</div>
+		</td>
+	</tr>
+</tfoot>
+</table>
+</div>

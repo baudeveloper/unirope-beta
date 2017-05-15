@@ -1,0 +1,71 @@
+<div class="table-full">
+  <table class="data" border="0" cellspacing="0" cellpadding="0" width="100%">
+    <thead>
+    <tr>
+        <th colspan="3">&nbsp;</th>
+      </tr>
+      <tr>
+        <th>Diam. Inches</th>
+        <th>Average Break Strength Pounds</th>
+        <th>Minimum Break Strength Pounds</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1/8</td>
+        <td>0.5</td>
+        <td>2,000</td>
+      </tr>
+      <tr>
+        <td>3/16</td>
+        <td>1.2</td>
+        <td>4,500</td>
+      </tr>
+      <tr>
+        <td>1/4</td>
+        <td>2.2</td>
+        <td>8,000</td>
+      </tr>
+      <tr>
+        <td>5/16</td>
+        <td>3.3</td>
+        <td>11,500</td>
+      </tr>
+      <tr>
+        <td>3/8</td>
+        <td>4.7</td>
+        <td>16,000</td>
+      </tr>
+      <tr>
+        <td>7/16</td>
+        <td>6.3</td>
+        <td>21,500</td>
+      </tr>
+      <tr>
+        <td>1/2</td>
+        <td>7.6</td>
+        <td>26,000</td>
+      </tr>
+      <tr>
+        <td>9/16</td>
+        <td>10.3</td>
+        <td>35,000</td>
+      </tr>
+      <tr>
+        <td>5/8</td>
+        <td>18.0</td>
+        <td>48,500</td>
+      </tr>
+      <tr>
+        <td>7/8</td>
+        <td>24.1</td>
+        <td>62,500</td>
+      </tr>
+      <tr>
+        <td>1</td>
+        <td>33.0</td>
+        <td>85,000</td>
+      </tr>
+    </tbody>
+  </table>
+</div>

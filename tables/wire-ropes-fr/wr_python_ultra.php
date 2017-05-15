@@ -1,0 +1,271 @@
+<div class="tabber clearfix">
+<div class="tabbertab" title="Impérial">
+<div class="table-3-4">
+<table class="data" border="0" cellspacing="0" cellpadding="0" width="100%">
+  <thead>
+<tr>
+    <th colspan="4">Python® Ultra</th>
+  </tr>
+  <tr>
+    <th></th>
+    <th colspan="2">Résistance minimale en tonnes de 2,000 livres</th>
+    <th></th>
+  </tr>
+  <tr>
+    <th>Diam. du câble pouces</th>
+    <th>Ultra<br />
+    EIPS</th>
+    <th>Ultra<br />
+    EEIPS</th>
+    <th>Poids par pied livres</th>
+  </tr>
+</thead>
+  <tbody>
+<tr>
+    <td>1/2</td>
+    <td>18.0</td>
+    <td>20.4</td>
+    <td>0.59</td>
+  </tr>
+  <tr>
+    <td>9/16</td>
+    <td>22.8</td>
+    <td>25.8</td>
+    <td>0.74</td>
+  </tr>
+  <tr>
+    <td>5/8</td>
+    <td>28.5</td>
+    <td>31.7</td>
+    <td>0.93</td>
+  </tr>
+  <tr>
+    <td>3/4</td>
+    <td>40.2</td>
+    <td>45.2</td>
+    <td>1.31</td>
+  </tr>
+  <tr>
+    <td>7/8</td>
+    <td>53.9</td>
+    <td>61.2</td>
+    <td>1.73</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>71.9</td>
+    <td>79.6</td>
+    <td>2.31</td>
+  </tr>
+  <tr>
+    <td>1-1/8</td>
+    <td>91.1</td>
+    <td>100.5</td>
+    <td>2.93</td>
+  </tr>
+  <tr>
+    <td>1-1/4</td>
+    <td>114.1</td>
+    <td>125.8</td>
+    <td>3.66</td>
+  </tr>
+  <tr>
+    <td>1-3/8</td>
+    <td>135.7</td>
+    <td>149.6</td>
+    <td>4.36</td>
+  </tr>
+  <tr>
+    <td>1-1/2</td>
+    <td>160.9</td>
+    <td>177.3</td>
+    <td>5.17</td>
+  </tr>
+  <tr>
+    <td>1-5/8</td>
+    <td>190.0</td>
+    <td>209.5</td>
+    <td>6.10</td>
+  </tr>
+  <tr>
+    <td>1-3/4</td>
+    <td>215.7</td>
+    <td>237.8</td>
+    <td>6.93</td>
+  </tr>
+  <tr>
+    <td>1-7/8</td>
+    <td>252.4</td>
+    <td><p>278.3</p></td>
+    <td>8.11</td>
+  </tr>
+</tbody>
+</table>
+</div>
+</div>
+
+<div class="tabbertab" title="Métrique">
+<div class="table-3-4">
+<table class="data" border="0" cellspacing="0" cellpadding="0" width="100%">
+  <thead>
+<tr>
+    <th colspan="4">Python® Ultra</th>
+  </tr>
+  <tr>
+    <th></th>
+    <th colspan="2">Force Minimale en kN</th>
+    <th></th>
+  </tr>
+  <tr>
+    <th>Diam. du câble mm</th>
+    <th>Ultra<br />
+    1,960 N/mm&sup2;</th>
+    <th>Ultra<br />
+    2,160 N/mm&sup2;</th>
+    <th>Poids par mètre kg</th>
+  </tr>
+</thead>
+  <tbody>
+<tr>
+    <td>12</td>
+    <td>142.8</td>
+    <td>161.1</td>
+    <td>0.78</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>167.6</td>
+    <td>190.2</td>
+    <td>0.91</td>
+  </tr>
+  <tr>
+    <td>14</td>
+    <td>194.4</td>
+    <td>220.6</td>
+    <td>1.06</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>223.1</td>
+    <td>253.3</td>
+    <td>1.22</td>
+  </tr>
+  <tr>
+    <td>16</td>
+    <td>253.9</td>
+    <td>288.2</td>
+    <td>1.38</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td>286.6</td>
+    <td>325.4</td>
+    <td>1.56</td>
+  </tr>
+  <tr>
+    <td>18</td>
+    <td>321.3</td>
+    <td>361.2</td>
+    <td>1.75</td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>358.0</td>
+    <td>402.5</td>
+    <td>1.95</td>
+  </tr>
+  <tr>
+    <td>20</td>
+    <td>396.7</td>
+    <td>445.9</td>
+    <td>2.16</td>
+  </tr>
+  <tr>
+    <td>22</td>
+    <td>480.0</td>
+    <td>544.9</td>
+    <td>2.57</td>
+  </tr>
+  <tr>
+    <td>24</td>
+    <td>571.3</td>
+    <td>632.6</td>
+    <td>3.06</td>
+  </tr>
+  <tr>
+    <td>26</td>
+    <td>670.4</td>
+    <td>742.5</td>
+    <td>3.60</td>
+  </tr>
+  <tr>
+    <td>28</td>
+    <td>777.5</td>
+    <td>856.9</td>
+    <td>4.17</td>
+  </tr>
+  <tr>
+    <td>30</td>
+    <td>892.6</td>
+    <td>983.7</td>
+    <td>4.79</td>
+  </tr>
+  <tr>
+    <td>32</td>
+    <td>1,015.6</td>
+    <td>1,119.2</td>
+    <td>5.45</td>
+  </tr>
+  <tr>
+    <td>34</td>
+    <td>1,146.5</td>
+    <td>1,263.5</td>
+    <td>6.15</td>
+  </tr>
+  <tr>
+    <td>36</td>
+    <td>1,285.3</td>
+    <td>1,416.5</td>
+    <td>6.89</td>
+  </tr>
+  <tr>
+    <td>38</td>
+    <td>1,432.1</td>
+    <td>1,578.2</td>
+    <td>7.68</td>
+  </tr>
+  <tr>
+    <td>40</td>
+    <td>1,586.8</td>
+    <td>1,748.7</td>
+    <td>8.51</td>
+  </tr>
+  <tr>
+    <td>42</td>
+    <td>1,749.5</td>
+    <td>1,928.0</td>
+    <td>9.38</td>
+  </tr>
+  <tr>
+    <td>44</td>
+    <td>1,920.0</td>
+    <td>2,116.0</td>
+    <td>10.30</td>
+  </tr>
+  <tr>
+    <td>46</td>
+    <td>2,098.6</td>
+    <td>2,312.7</td>
+    <td>11.26</td>
+  </tr>
+  <tr>
+    <td>48</td>
+    <td>2,285.0</td>
+    <td>2,518.2</td>
+    <td>12.26</td>
+  </tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>

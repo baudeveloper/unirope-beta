@@ -1,0 +1,119 @@
+<div class="table-full">
+<table class="data" border="0" cellspacing="0" cellpadding="0" width="100%">
+  <thead>
+  <tr>
+  	<th colspan="9">Dimensions (inch) for TERMINATOR™ Wedge Socket</th>
+  </tr>
+<tr>
+    <th>Wire Rope dia.</th>
+    <th>A</th>
+    <th>C</th>
+    <th>D Pin</th>
+    <th>J</th>
+    <th>L</th>
+    <th>P</th>
+    <th>R</th>
+    <th>lbs each</th>
+  </tr>
+</thead>
+  <tbody>
+<tr>
+    <td>3/8</td>
+    <td>5.63</td>
+    <td>2.77</td>
+    <td>0.81</td>
+    <td>7.38</td>
+    <td>0.88</td>
+    <td>1.56</td>
+    <td>0.44</td>
+    <td>3.18</td>
+  </tr>
+  <tr>
+    <td>1/2</td>
+    <td>6.81</td>
+    <td>3.55</td>
+    <td>1.00</td>
+    <td>8.75</td>
+    <td>1.06</td>
+    <td>1.94</td>
+    <td>0.50</td>
+    <td>6.15</td>
+  </tr>
+  <tr>
+    <td>5/8</td>
+    <td>8.16</td>
+    <td>4.36</td>
+    <td>1.19</td>
+    <td>10.34</td>
+    <td>1.22</td>
+    <td>2.25</td>
+    <td>0.56</td>
+    <td>9.70</td>
+  </tr>
+  <tr>
+    <td>3/4</td>
+    <td>9.78</td>
+    <td>4.81</td>
+    <td>1.38</td>
+    <td>12.03</td>
+    <td>1.40</td>
+    <td>2.62</td>
+    <td>0.66</td>
+    <td>14.50</td>
+  </tr>
+  <tr>
+    <td>7/8</td>
+    <td>11.16</td>
+    <td>4.65</td>
+    <td>1.63</td>
+    <td>14.00</td>
+    <td>1.66</td>
+    <td>3.12</td>
+    <td>0.75</td>
+    <td>21.50</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>12.75</td>
+    <td>5.08</td>
+    <td>2.00</td>
+    <td>15.86</td>
+    <td>2.00</td>
+    <td>3.75</td>
+    <td>0.88</td>
+    <td>30.75</td>
+  </tr>
+  <tr>
+    <td>1-1/8</td>
+    <td>14.38</td>
+    <td>5.51</td>
+    <td>2.25</td>
+    <td>17.70</td>
+    <td>2.25</td>
+    <td>4.25</td>
+    <td>1.00</td>
+    <td>45.30</td>
+  </tr>
+  <tr>
+    <td>1-1/4</td>
+    <td>16.00</td>
+    <td>7.94</td>
+    <td>2.50</td>
+    <td>n/a</td>
+    <td>2.50</td>
+    <td>4.75</td>
+    <td>1.00</td>
+    <td>57.50</td>
+  </tr>
+</tbody>
+<tfoot>
+	<tr>
+		<td colspan="9">
+		<div class="footnote">
+            <p>*&emsp;For intermediate wire rope sizes use next larger size socket.</p>
+		</div>
+		</td>
+	</tr>
+</tfoot>
+</table>
+</div>

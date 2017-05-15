@@ -1,0 +1,128 @@
+<div class="table-half">
+<table class="data" border="0" cellspacing="0" cellpadding="0" width="100%">
+  <thead>
+  <tr>
+  	<th colspan="10">Dimensions (inch) for Crosby S 412 Solid Thimbles</th>
+  </tr>
+<tr>
+    <th>Wire Rope dia.</th>
+    <th>A</th>
+    <th>B</th>
+    <th>D</th>
+    <th>E</th>
+    <th>F</th>
+    <th>H</th>
+    <th>J</th>
+    <th>K</th>
+    <th>lbs each</th>
+  </tr>
+</thead>
+  <tbody>
+<tr>
+    <td>1/2</td>
+    <td>2.81</td>
+    <td>1.75</td>
+    <td>1.06</td>
+    <td>0.75</td>
+    <td>0.56</td>
+    <td>0.88</td>
+    <td>2.13</td>
+    <td>1.63</td>
+    <td>0.61</td>
+  </tr>
+  <tr>
+    <td>5/8</td>
+    <td>4.69</td>
+    <td>3.00</td>
+    <td>1.31</td>
+    <td>1.06</td>
+    <td>0.81</td>
+    <td>1.13</td>
+    <td>3.38</td>
+    <td>2.25</td>
+    <td>2.21</td>
+  </tr>
+  <tr>
+    <td>3/4</td>
+    <td>4.69</td>
+    <td>3.00</td>
+    <td>1.50</td>
+    <td>1.06</td>
+    <td>0.81</td>
+    <td>1.38</td>
+    <td>3.38</td>
+    <td>2.25</td>
+    <td>2.32</td>
+  </tr>
+  <tr>
+    <td>7/8</td>
+    <td>6.06</td>
+    <td>3.81</td>
+    <td>1.75</td>
+    <td>1.38</td>
+    <td>1.06</td>
+    <td>1.63</td>
+    <td>4.50</td>
+    <td>3.25</td>
+    <td>5.45</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>6.06</td>
+    <td>3.81</td>
+    <td>2.13</td>
+    <td>1.38</td>
+    <td>1.06</td>
+    <td>1.81</td>
+    <td>4.50</td>
+    <td>3.25</td>
+    <td>5.25</td>
+  </tr>
+  <tr>
+    <td>1-1/8</td>
+    <td>7.25</td>
+    <td>4.56</td>
+    <td>2.38</td>
+    <td>1.75</td>
+    <td>1.31</td>
+    <td>2.06</td>
+    <td>5.38</td>
+    <td>3.88</td>
+    <td>9.29</td>
+  </tr>
+  <tr>
+    <td>1-1/4</td>
+    <td>7.25</td>
+    <td>4.56</td>
+    <td>2.63</td>
+    <td>1.94</td>
+    <td>1.53</td>
+    <td>2.31</td>
+    <td>5.38</td>
+    <td>3.88</td>
+    <td>9.81</td>
+  </tr>
+  <tr>
+    <td>1-3/8</td>
+    <td>7.25</td>
+    <td>4.56</td>
+    <td>2.63</td>
+    <td>1.94</td>
+    <td>1.53</td>
+    <td>2.31</td>
+    <td>5.38</td>
+    <td>3.88</td>
+    <td>9.81</td>
+  </tr>
+</tbody>
+<tfoot>
+	<tr>
+		<td colspan="10">
+		<div class="footnote">
+            <p>For other dimensions please refer to our catalogue "Wire Rope Lifting Slings" page 44. Solid thimble bores can be bushed or bored out. The width can be milled down. Please ask for our specific advise.</p>
+		</div>
+		</td>
+	</tr>
+</tfoot>
+</table>
+</div>

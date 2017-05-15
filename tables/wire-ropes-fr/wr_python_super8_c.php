@@ -1,0 +1,308 @@
+<div class="tabber clearfix">
+<div class="tabbertab" title="Impérial">
+<div class="table-3-4">
+<table class="data" border="0" cellspacing="0" cellpadding="0" width="100%">
+  <thead>
+<tr>
+    <th colspan="5">Python&reg; Super 8C Impérial</th>
+  </tr>
+  <tr>
+    <th></th>
+    <th colspan="3">R&eacute;sistance minimale en tonnes de 2,000 livres</th>
+    <th></th>
+  </tr>
+  <tr>
+    <th>Diam. c&acirc;ble pouces</th>
+    <th>Super 8C<br />IPS</th>
+    <th>Super 8C<br />EIPS</th>
+    <th>Super 8C<br />EEIPS</th>
+    <th>Poids par pied livres</th>
+  </tr>
+</thead>
+  <tbody>
+<tr>
+    <td>7/16</td>
+    <td>10.9</td>
+    <td>12.4</td>
+    <td>12.7</td>
+    <td>0.37</td>
+  </tr>
+  <tr>
+    <td>1/2</td>
+    <td>14.2</td>
+    <td>16.2</td>
+    <td>16.6</td>
+    <td>0.47</td>
+  </tr>
+  <tr>
+    <td>9/16</td>
+    <td>18.0</td>
+    <td>20.5</td>
+    <td>21.0</td>
+    <td>0.61</td>
+  </tr>
+  <tr>
+    <td>5/8</td>
+    <td>22.3</td>
+    <td>25.3</td>
+    <td>26.0</td>
+    <td>0.76</td>
+  </tr>
+  <tr>
+    <td>3/4</td>
+    <td>32.0</td>
+    <td>36.5</td>
+    <td>37.3</td>
+    <td>1.06</td>
+  </tr>
+  <tr>
+    <td>7/8</td>
+    <td>43.6</td>
+    <td>49.6</td>
+    <td>50.9</td>
+    <td>1.46</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>57.0</td>
+    <td>64.8</td>
+    <td>66.4</td>
+    <td>1.88</td>
+  </tr>
+  <tr>
+    <td>1-1/8</td>
+    <td>72.1</td>
+    <td>82.1</td>
+    <td>84.1</td>
+    <td>2.41</td>
+  </tr>
+  <tr>
+    <td>1-1/4</td>
+    <td>89.0</td>
+    <td>101.3</td>
+    <td>103.7</td>
+    <td>2.98</td>
+  </tr>
+  <tr>
+    <td>1-3/8</td>
+    <td>107.7</td>
+    <td>122.6</td>
+    <td>125.6</td>
+    <td>3.61</td>
+  </tr>
+  <tr>
+    <td>1-1/2</td>
+    <td>128.2</td>
+    <td>145.8</td>
+    <td>149.4</td>
+    <td>4.28</td>
+  </tr>
+  <tr>
+    <td>1-5/8</td>
+    <td>150.5</td>
+    <td>171.2</td>
+    <td>175.4</td>
+    <td>4.99</td>
+  </tr>
+  <tr>
+    <td>1-3/4</td>
+    <td>174.5</td>
+    <td>198.5</td>
+    <td>203.3</td>
+    <td>5.81</td>
+  </tr>
+</tbody>
+</table>
+</div>
+</div>
+
+<div class="tabbertab" title="Métrique">
+<div class="table-3-4">
+<table class="data" border="0" cellspacing="0" cellpadding="0" width="100%">
+  <thead>
+<tr>
+    <th colspan="5">Python&reg; Super 8C Métrique</th>
+  </tr>
+  <tr>
+    <th></th>
+    <th colspan="3">R&eacute;sistance minimale en kN</th>
+    <th></th>
+  </tr>
+  <tr>
+    <th>Diam. c&acirc;ble mm</th>
+    <th>Super 8C <br />
+      1,770 N/mm&sup2;</th>
+    <th>Super 8C <br />
+      1,960 N/mm&sup2;</th>
+    <th>Super 8C <br />
+      2,160 N/mm&sup2;</th>
+    <th>Poids par mètre kg</th>
+  </tr>
+</thead>
+  <tbody>
+<tr>
+    <td>12</td>
+    <td>113.2</td>
+    <td>128.8</td>
+    <td>132.0</td>
+    <td>0.63</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>131.4</td>
+    <td>149.5</td>
+    <td>153.1</td>
+    <td>0.74</td>
+  </tr>
+  <tr>
+    <td>14</td>
+    <td>154.1</td>
+    <td>175.4</td>
+    <td>179.6</td>
+    <td>0.87</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>175.7</td>
+    <td>199.9</td>
+    <td>204.8</td>
+    <td>0.98</td>
+  </tr>
+  <tr>
+    <td>16</td>
+    <td>203.3</td>
+    <td>231.3</td>
+    <td>237.0</td>
+    <td>1.14</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td>225.7</td>
+    <td>256.8</td>
+    <td>263.0</td>
+    <td>1.27</td>
+  </tr>
+  <tr>
+    <td>18</td>
+    <td>254.6</td>
+    <td>289.7</td>
+    <td>296.8</td>
+    <td>1.42</td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>282.4</td>
+    <td>321.3</td>
+    <td>329.2</td>
+    <td>1.57</td>
+  </tr>
+  <tr>
+    <td>20</td>
+    <td>313.9</td>
+    <td>357.1</td>
+    <td>365.9</td>
+    <td>1.76</td>
+  </tr>
+  <tr>
+    <td>22</td>
+    <td>381.7</td>
+    <td>434.2</td>
+    <td>444.8</td>
+    <td>2.13</td>
+  </tr>
+  <tr>
+    <td>24</td>
+    <td>450.4</td>
+    <td>512.4</td>
+    <td>524.9</td>
+    <td>2.51</td>
+  </tr>
+  <tr>
+    <td>26</td>
+    <td>527.3</td>
+    <td>599.9</td>
+    <td>614.5</td>
+    <td>2.94</td>
+  </tr>
+  <tr>
+    <td>28</td>
+    <td>617.9</td>
+    <td>702.9</td>
+    <td>720.1</td>
+    <td>3.44</td>
+  </tr>
+  <tr>
+    <td>30</td>
+    <td>701.7</td>
+    <td>798.4</td>
+    <td>817.9</td>
+    <td>3.92</td>
+  </tr>
+  <tr>
+    <td>32</td>
+    <td>809.9</td>
+    <td>921.4</td>
+    <td>943.9</td>
+    <td>4.51</td>
+  </tr>
+  <tr>
+    <td>34</td>
+    <td>907.7</td>
+    <td>1,032.7</td>
+    <td>1,058.0</td>
+    <td>5.09</td>
+  </tr>
+  <tr>
+    <td>36</td>
+    <td>1,019.7</td>
+    <td>1,160.1</td>
+    <td>1,188.5</td>
+    <td>5.69</td>
+  </tr>
+  <tr>
+    <td>38</td>
+    <td>1,131.6</td>
+    <td>1,287.4</td>
+    <td>1,318.9</td>
+    <td>6.34</td>
+  </tr>
+  <tr>
+    <td>40</td>
+    <td>1,256.5</td>
+    <td>1,429.5</td>
+    <td>1,464.5</td>
+    <td>7.00</td>
+  </tr>
+  <tr>
+    <td>42</td>
+    <td>1,380.9</td>
+    <td>1,571.0</td>
+    <td>1,609.4</td>
+    <td>7.69</td>
+  </tr>
+  <tr>
+    <td>44</td>
+    <td>1,513.9</td>
+    <td>1,722.3</td>
+    <td>1,764.4</td>
+    <td>8.47</td>
+  </tr>
+  <tr>
+    <td>46</td>
+    <td>1,659.2</td>
+    <td>1,887.7</td>
+    <td>1,933.8</td>
+    <td>9.29</td>
+  </tr>
+  <tr>
+    <td>48</td>
+    <td>1,801.4</td>
+    <td>2,049.4</td>
+    <td>2,099.5</td>
+    <td>10.10</td>
+  </tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>

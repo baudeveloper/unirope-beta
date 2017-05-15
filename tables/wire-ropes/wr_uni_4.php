@@ -1,0 +1,128 @@
+<blockquote>&nbsp;</blockquote>
+<div class="table-3-4">
+<table class="data" border="0" cellspacing="0" cellpadding="0" width="100%">
+  <thead>
+<tr>
+    <th colspan="6">Python® UNI-4 4x40 rotation resistant</th>
+  </tr>
+  <tr>
+    <th rowspan="2">Rope dia. mm</th>
+    <th rowspan="2">Rope dia. inch</th>
+    <th colspan="2">Nominal Strength</th>
+    <th colspan="2">Weight per foot</th>
+  </tr>
+  <tr>
+    <th>kN</th>
+    <th>tons of 2,000 lbs</th>
+    <th>kg/m</th>
+    <th>lbs/ft</th>
+  </tr>
+</thead>
+  <tbody>
+<tr>
+    <td>18</td>
+    <td>&nbsp;</td>
+    <td>224</td>
+    <td>22.9</td>
+    <td>1.30</td>
+    <td>0.87</td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>3/4</td>
+    <td>250</td>
+    <td>25.5</td>
+    <td>1.45</td>
+    <td>0.97</td>
+  </tr>
+  <tr>
+    <td>20</td>
+    <td>&nbsp;</td>
+    <td>277</td>
+    <td>28.2</td>
+    <td>1.61</td>
+    <td>1.08</td>
+  </tr>
+  <tr>
+    <td>22</td>
+    <td>7/8</td>
+    <td>335</td>
+    <td>34.2</td>
+    <td>1.95</td>
+    <td>1.31</td>
+  </tr>
+  <tr>
+    <td>24</td>
+    <td>&nbsp;</td>
+    <td>399</td>
+    <td>40.7</td>
+    <td>2.32</td>
+    <td>1.55</td>
+  </tr>
+  <tr>
+    <td>25</td>
+    <td>1</td>
+    <td>433</td>
+    <td>44.1</td>
+    <td>2.51</td>
+    <td>1.68</td>
+  </tr>
+  <tr>
+    <td>26</td>
+    <td>&nbsp;</td>
+    <td>468</td>
+    <td>47.7</td>
+    <td>2.72</td>
+    <td>1.82</td>
+  </tr>
+  <tr>
+    <td>28</td>
+    <td>1-1/8</td>
+    <td>543</td>
+    <td>55.4</td>
+    <td>3.15</td>
+    <td>2.11</td>
+  </tr>
+  <tr>
+    <td>30</td>
+    <td>&nbsp;</td>
+    <td>623</td>
+    <td>63.5</td>
+    <td>3.62</td>
+    <td>2.43</td>
+  </tr>
+  <tr>
+    <td>32</td>
+    <td>1-1/4</td>
+    <td>709</td>
+    <td>72.3</td>
+    <td>4.12</td>
+    <td>2.76</td>
+  </tr>
+  <tr>
+    <td>33.5</td>
+    <td>&nbsp;</td>
+    <td>777</td>
+    <td>79.2</td>
+    <td>4.51</td>
+    <td>3.02</td>
+  </tr>
+  <tr>
+    <td>34</td>
+    <td>&nbsp;</td>
+    <td>800</td>
+    <td>81.6</td>
+    <td>4.65</td>
+    <td>3.12</td>
+  </tr>
+  <tr>
+    <td>36</td>
+    <td>&nbsp;</td>
+    <td>884</td>
+    <td>90.2</td>
+    <td>5.07</td>
+    <td>3.40</td>
+  </tr>
+</tbody>
+</table>
+</div>

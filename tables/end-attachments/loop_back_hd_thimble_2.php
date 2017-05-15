@@ -1,0 +1,89 @@
+<div class="table-half">
+<table class="data" border="0" cellspacing="0" cellpadding="0" width="100%">
+ <thead>
+<tr>
+ <th colspan="4">Dimensions for DIN 3090 Thimble Splice</th>
+</tr>
+ <tr>
+    <th>Nominal<br>wire rope diameter<br>mm</th>
+    <th>Nominal<br>wire rope diameter<br>inch</th>
+    <th>Nominal<br>thimble size #</th>
+    <th>Largest pin diameter<br>mm D</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>14</td>
+    <td>N/A</td>
+    <td>14</td>
+    <td>34</td>
+  </tr>
+  <tr>
+    <td>16</td>
+    <td>N/A</td>
+    <td>16</td>
+    <td>38</td>
+  </tr>
+  <tr>
+    <td>18</td>
+    <td>N/A</td>
+    <td>18</td>
+    <td>44</td>
+  </tr>
+  <tr>
+    <td>20</td>
+    <td>N/A</td>
+    <td>20</td>
+    <td>48</td>
+  </tr>
+  <tr>
+    <td>22</td>
+    <td>N/A</td>
+    <td>22</td>
+    <td>52</td>
+  </tr>
+  <tr>
+    <td>24</td>
+    <td>N/A</td>
+    <td>24</td>
+    <td>58</td>
+  </tr>
+  <tr>
+    <td>26</td>
+    <td>N/A</td>
+    <td>26</td>
+    <td>62</td>
+  </tr>
+  <tr>
+    <td>28</td>
+    <td>N/A</td>
+    <td>28</td>
+    <td>67</td>
+  </tr>
+  <tr>
+    <td>30</td>
+    <td>N/A</td>
+    <td>32</td>
+    <td>76</td>
+  </tr>
+  <tr>
+    <td>32</td>
+    <td>N/A</td>
+    <td>32</td>
+    <td>76</td>
+  </tr>
+  <tr>
+    <td>34</td>
+    <td>N/A</td>
+    <td>36</td>
+    <td>86</td>
+  </tr>
+  <tr>
+    <td>36</td>
+    <td>N/A</td>
+    <td>36</td>
+    <td>86</td>
+  </tr>
+</tbody>
+</table>
+</div>
