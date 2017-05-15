@@ -74,6 +74,19 @@ add_action('wp_enqueue_scripts', 'load_my_scripts');
         ));
     }
 
+    // Default Widget Sidebar French
+    if (function_exists('register_sidebar')) {
+        register_sidebar(array(
+            'name' => __('Widget Sidebar FR'),
+            'id'   => 'widget-sidebar-fr',
+            'description'   => __( 'These are widgets for the sidebar.'),
+            'before_widget' => '<div id="%1$s" class="widget %2$s">',
+            'after_widget'  => '</div>',
+            'before_title'  => '<h2>',
+            'after_title'   => '</h2>'
+        ));
+    }
+
 	// Product EN Widget Sidebar
     if (function_exists('register_sidebar')) {
         register_sidebar(array(
@@ -633,7 +646,7 @@ add_action('wp_enqueue_scripts', 'load_my_scripts');
         ));
     }
 
-      // Wear Pads Inspection Submenu Sidebar
+    // Wear Pads Inspection Submenu Sidebar
     if (function_exists('register_sidebar')) {
         register_sidebar(array(
             'name' => __('Wear Pads Inspection Sidebar'),
@@ -646,7 +659,7 @@ add_action('wp_enqueue_scripts', 'load_my_scripts');
         ));
     }
 
-      // Wear Pads Inspection Submenu Sidebar
+    // Technical Literature Submenu Sidebar
     if (function_exists('register_sidebar')) {
         register_sidebar(array(
             'name' => __('Technical Literature Sidebar'),
@@ -658,6 +671,7 @@ add_action('wp_enqueue_scripts', 'load_my_scripts');
             'after_title'   => '</h2>'
         ));
     }
+    
     // Load Release Systems Submenu Sidebar
     if (function_exists('register_sidebar')) {
         register_sidebar(array(
@@ -670,6 +684,7 @@ add_action('wp_enqueue_scripts', 'load_my_scripts');
             'after_title'   => '</h2>'
         ));
     }
+
     // Below the Hook Submenu Sidebar
     if (function_exists('register_sidebar')) {
         register_sidebar(array(

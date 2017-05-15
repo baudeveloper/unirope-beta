@@ -8,6 +8,10 @@
  	} elseif (is_page(array('cable-dacier','information-technique','selection-de-cables-dacier')) || has_term(array('wire-rope-fr'), 'rope-type', $post->ID)) {
       	include(TEMPLATEPATH . '/sidebar-templates/sidebar-wire-ropes.php');
 
+    /* Technical Literature */
+    } elseif (is_page(array('technical-literature','technical-bulletins','videos','certificates'))) {
+      	include(TEMPLATEPATH . '/sidebar-templates/fr/sidebar-technical-literature.php');
+
     /* Technical Information French Sidebar */
     } elseif (has_term( 'technical-information', 'category', $post->ID )) {
       	include(TEMPLATEPATH . '/sidebar-templates/sidebar-wr-tech-info.php');
@@ -207,6 +211,6 @@
 
     /* Default Sidebar */
 	} else {
-      	include(TEMPLATEPATH . '/sidebar-templates/sidebar-default.php');
+      	include(TEMPLATEPATH . '/sidebar-templates/fr/sidebar-default.php');
 	}
 ?>
