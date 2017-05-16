@@ -3845,7 +3845,21 @@ ul.general-list li a {
 }
 
 /* Tabber Styles */
-
+#contact_tab {
+	width: inherit;	
+}
+#contact_tab a {
+	width: auto;
+}
+#contact_tab .tabbernav a {
+	padding: 0 10px;
+}
+#contact_tab .tabbertab {
+	padding: 15px;	
+	width: inherit;
+	border: 1px solid #eee;
+	box-sizing: border-box;
+}
 #grade-products .tabbertab {
 	border: 1px solid #CCC;
 }
