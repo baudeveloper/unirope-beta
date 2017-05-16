@@ -1194,6 +1194,10 @@ ul.main-nav >li > ul > li.products-menu-header-fr {
 	margin-bottom: 20px;
 }
 
+html[lang="fr-FR"] ul.main-nav {
+	padding: 0 0 0 16px;
+}
+
 /*========= End main-nav CSS ============ */
 
 
