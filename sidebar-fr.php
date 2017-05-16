@@ -4,6 +4,14 @@
     if (is_page(array('a-propos-de-nous')) || is_child('a-propos-de-nous', $post->ID)) {
       	include(TEMPLATEPATH . '/sidebar-templates/fr/sidebar-about-us.php');
 
+    /* Products in Use Lifting Solutions Sidebar */
+ 	} elseif (is_page(array('lifting-solutions-sorted-by-industries')) || is_child('lifting-solutions-sorted-by-industries', $post->ID)) {
+      	include(TEMPLATEPATH . '/sidebar-templates/fr/sidebar-pui-lifting-solutions.php');
+
+    /* Products in Use Lifting Stories Sidebar */
+ 	} elseif (is_page(array('lifting-stories-and-background-information')) || is_child('lifting-stories-and-background-information', $post->ID)) {
+      	include(TEMPLATEPATH . '/sidebar-templates/fr/sidebar-pui-lifting-stories.php');
+
 	/* Wire Rope French Sidebar */
  	} elseif (is_page(array('cable-dacier','information-technique','selection-de-cables-dacier')) || has_term(array('wire-rope-fr'), 'rope-type', $post->ID)) {
       	include(TEMPLATEPATH . '/sidebar-templates/sidebar-wire-ropes.php');

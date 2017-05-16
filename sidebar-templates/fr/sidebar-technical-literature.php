@@ -1,1 +1,1 @@
-<?php if (function_exists('dynamic_sidebar') && dynamic_sidebar('Technical Literature Sidebar')) : else : endif; ?>
+<?php if (function_exists('dynamic_sidebar') && dynamic_sidebar('Technical Literature FR Sidebar')) : else : endif; ?>

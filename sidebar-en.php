@@ -4,6 +4,14 @@
  	if (is_page(array('about-us')) || is_child('about-us', $post->ID)) {
       	include(TEMPLATEPATH . '/sidebar-templates/sidebar-about-us.php');
 
+    /* Products in Use Lifting Solutions Sidebar */
+ 	} elseif (is_page(array('lifting-solutions-sorted-by-industries')) || is_child('lifting-solutions-sorted-by-industries', $post->ID)) {
+      	include(TEMPLATEPATH . '/sidebar-templates/sidebar-pui-lifting-solutions.php');
+
+    /* Products in Use Lifting Stories Sidebar */
+ 	} elseif (is_page(array('lifting-stories-and-background-information')) || is_child('lifting-stories-and-background-information', $post->ID)) {
+      	include(TEMPLATEPATH . '/sidebar-templates/sidebar-pui-lifting-stories.php');
+
 	/* Wire Rope Sidebar */
  	} elseif (is_page(array('wire-ropes','python-rope','wire-rope-selection')) || has_term(array('wire-rope'), 'rope-type', $post->ID)) {
       	include(TEMPLATEPATH . '/sidebar-templates/sidebar-wire-ropes.php');
