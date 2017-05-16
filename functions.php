@@ -134,8 +134,8 @@ add_action('wp_enqueue_scripts', 'load_my_scripts');
             'description'   => __( 'These are widgets for the sidebar.'),
             'before_widget' => '<div class="product-line-icons clearfix">',
             'after_widget'  => '</div>',
-            'before_title'  => '<h4>',
-            'after_title'   => '</h4>'
+            'before_title'  => '<h4><a href="/about-us">',
+            'after_title'   => '</a></h4>'
         ));
     }
 

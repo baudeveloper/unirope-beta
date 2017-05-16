@@ -3537,6 +3537,11 @@ display: block;
 	margin-bottom: 0;
 }
 
+.product-line-icons h4 a {
+	color:#888888;
+	text-decoration: none;
+}
+
 .product-line-icons ul {
 	width:100%;
 	margin:0 0 0 15px;
