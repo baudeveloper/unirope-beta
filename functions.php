@@ -148,6 +148,19 @@ add_action('wp_enqueue_scripts', 'load_my_scripts');
         ));
     }
 
+    // Product Line Logos French Sidebar
+    if (function_exists('register_sidebar')) {
+        register_sidebar(array(
+            'name' => __('Product Lines FR'),
+            'id'   => 'productline-fr-sidebar',
+            'description'   => __( 'These are widgets for the sidebar.'),
+            'before_widget' => '<div class="product-line-icons clearfix">',
+            'after_widget'  => '</div>',
+            'before_title'  => '<h4><a href="/fr/a-propos-de-nous/">',
+            'after_title'   => '</a></h4>'
+        ));
+    }
+
      // Wire Ropes Technical Information Sidebar
     if (function_exists('register_sidebar')) {
         register_sidebar(array(
@@ -634,6 +647,19 @@ add_action('wp_enqueue_scripts', 'load_my_scripts');
         register_sidebar(array(
             'name' => __('Test Beds Sidebar'),
             'id'   => 'test-beds-sidebar',
+            'description'   => __( 'These are widgets for the sidebar.'),
+            'before_widget' => '<div id="%1$s" class="widget %2$s">',
+            'after_widget'  => '</div>',
+            'before_title'  => '<h2>',
+            'after_title'   => '</h2>'
+        ));
+    }
+
+    // Test Beds Submenu French Sidebar
+    if (function_exists('register_sidebar')) {
+        register_sidebar(array(
+            'name' => __('Test Beds FR Sidebar'),
+            'id'   => 'test-beds-fr-sidebar',
             'description'   => __( 'These are widgets for the sidebar.'),
             'before_widget' => '<div id="%1$s" class="widget %2$s">',
             'after_widget'  => '</div>',

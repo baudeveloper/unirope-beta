@@ -1,3 +1,9 @@
+<?php
+	/* 
+		Template Name: News FR
+	*/
+?>
+
 <?php get_header();
  	if (have_posts()) : while (have_posts()) : the_post(); 
 	$category = get_the_category();
@@ -60,8 +66,8 @@
 					'post_type'=> 'article',
 					'orderby' => 'post_date',
 					'order' => 'DESC',
-					'post_status' => 'publish'
-					
+					'post_status' => 'publish',
+					'suppress_filters' => false					
 				);
 				$postslist = get_posts( $args );
 				foreach ($postslist as $post) :  setup_postdata($post); ?> 

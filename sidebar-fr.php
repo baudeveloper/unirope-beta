@@ -4,6 +4,10 @@
     if (is_page(array('a-propos-de-nous')) || is_child('a-propos-de-nous', $post->ID)) {
       	include(TEMPLATEPATH . '/sidebar-templates/fr/sidebar-about-us.php');
 
+    /* Test Beds Sidebar */
+ 	} elseif (is_page(array('test-beds')) || is_child('test-beds', $post->ID)) {
+      	include(TEMPLATEPATH . '/sidebar-templates/fr/sidebar-test-beds.php');
+
     /* Products in Use Lifting Solutions Sidebar */
  	} elseif (is_page(array('lifting-solutions-sorted-by-industries')) || is_child('lifting-solutions-sorted-by-industries', $post->ID)) {
       	include(TEMPLATEPATH . '/sidebar-templates/fr/sidebar-pui-lifting-solutions.php');

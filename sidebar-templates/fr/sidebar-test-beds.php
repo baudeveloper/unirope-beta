@@ -1,0 +1,1 @@
+<?php if (function_exists('dynamic_sidebar') && dynamic_sidebar('Test Beds FR Sidebar')) : else : endif; ?>

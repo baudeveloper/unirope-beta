@@ -2,6 +2,8 @@
 
 	if (has_term( 'wire-rope-fr', 'rope-type', $post->ID)) {
 		include(TEMPLATEPATH . '/templates/fr/single-wireropes-fr.php');
+	} elseif ('article' == get_post_type()) {
+		include(TEMPLATEPATH . '/templates/fr/single-news.php');
 	} elseif (has_term( 'python-ropes-fr', 'rope-type', $post->ID )) {
 		include(TEMPLATEPATH . '/templates/fr/single-python-ropes.php');
 	} elseif (has_term( 'wire-rope-slings-fr', 'sling-type', $post->ID)) {

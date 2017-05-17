@@ -51,7 +51,11 @@
 
 		<?php endwhile; endif; wp_reset_postdata();?>
 		<!-- Product Line Logos -->
-		<?php get_sidebar('productlines'); ?>	
+		<?php
+			if (is_page(array('home-fr'))) {
+				include(TEMPLATEPATH . '/sidebar-templates/fr/sidebar-productlines.php');
+			}
+		?>
 		<!-- Quick Links Here -->
 		<?php
 			if (is_page(array('home-fr'))) {
@@ -63,7 +67,7 @@
   		<aside id="home-sidebar">
   		
   		<div id="news">
-  		<h2>News Update</h2>
+  		<h2>News Update<a class="title-btn btn" href="/fr/news/">More<br/>News</a></h2>
   		<?php $args = array(
 			'posts_per_page'  => 1,
 			'post_type'=> 'article',

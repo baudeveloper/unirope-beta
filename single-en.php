@@ -10,8 +10,8 @@
 		}
 	}
 	elseif ('article' == get_post_type()) {
-		include(TEMPLATEPATH . '/single-news.php');
-	 }
+		include(TEMPLATEPATH . '/templates/en/single-news.php');
+	}
 	elseif (has_term( 'Python Ropes', 'rope-type', $post->ID )) {
 		include(TEMPLATEPATH . '/templates/en/single-python-ropes.php');
 	} elseif (has_term( 'Wire Rope End Attachments', 'rope-type', $post->ID )) {

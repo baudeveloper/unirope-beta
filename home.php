@@ -51,7 +51,11 @@
 
 		<?php endwhile; endif; wp_reset_postdata();?>
 		<!-- Product Line Logos -->
-		<?php get_sidebar('productlines'); ?>	
+		<?php
+			if (is_page(array('home'))) {
+				include(TEMPLATEPATH . '/sidebar-templates/sidebar-productlines.php');
+			}
+		?>
 		<!-- Quick Links Here -->
 		<?php
 			if (is_page(array('home'))) {
