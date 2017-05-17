@@ -3860,6 +3860,12 @@ ul.general-list li a {
 	border: 1px solid #eee;
 	box-sizing: border-box;
 }
+#contact_tab .tabbertab:last-child div {
+	float: left;
+	width: 80%;
+	max-width: 220px;
+	min-height: 120px;
+}
 #grade-products .tabbertab {
 	border: 1px solid #CCC;
 }
