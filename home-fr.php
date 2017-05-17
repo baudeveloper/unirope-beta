@@ -3,7 +3,7 @@
 		Template Name: Home Page French
 	*/
 ?>
-<?php wp_redirect( '/fr/a-propos-de-nous/' ); exit; ?>
+<?php //wp_redirect( '/fr/a-propos-de-nous/' ); exit; ?>
 <?php get_header(); ?>
 
 	<div id="main-slider">
@@ -32,7 +32,11 @@
 			<?php endwhile; wp_reset_postdata(); endif;?>
 		</div> <!-- end of .slide-container -->
 		</div> <!-- end of #main-slider -->
-	
+		<!-- Cran Rope Centres Banner Bottom -->
+		<div id="crane-rope-centres">
+			<a href="/fr/produits/cables/cable-dacier/"><img src="<?php echo get_stylesheet_directory_uri(); ?>/img/Banner.jpg"></a>
+		</div>
+		<!-- end of Cran Rope Centres Banner Bottom -->	
 						
 	</div> <!-- end of #header-wrap -->
 	
@@ -49,7 +53,11 @@
 		<!-- Product Line Logos -->
 		<?php get_sidebar('productlines'); ?>	
 		<!-- Quick Links Here -->
-		<?php get_sidebar('quicklinks'); ?>
+		<?php
+			if (is_page(array('home-fr'))) {
+				include(TEMPLATEPATH . '/sidebar-templates/fr/sidebar-quicklinks.php');
+			}
+		?>	
   		</section><!-- end of #home-content -->
   		
   		<aside id="home-sidebar">
@@ -57,7 +65,7 @@
   		<div id="news">
   		<h2>News Update</h2>
   		<?php $args = array(
-			'posts_per_page'  => 10,
+			'posts_per_page'  => 1,
 			'post_type'=> 'article',
 			'orderby' => 'post_date',
 			'order' => 'DESC',
@@ -81,12 +89,13 @@
   		</div><!-- end of .news -->
   		
   		<div id="industry-links">
-		<a href="/industry-links/" class="btn medium yellow"><span class="ql2">Industry Links</span><span class="click-here">click here</span></a>
+		<a href="/fr/industry-links/" class="btn medium yellow"><span class="ql2">Industry Links</span><span class="click-here">click here</span></a>
+		<a href="/fr/a-propos-de-nous/careers/" class="btn medium yellow additionalHeight"><span class="ql2">Careers / Openings</span><span class="click-here">apply now</span></a>
 		</div>
 
   		
   		<div id="products-in-use">
-  			<h2>Products In Use<a class="title-btn btn" href="/products-in-use/">Click<br/>Here</a></h2>
+  			<h2>Products In Use<a class="title-btn btn" href="/fr/products-in-use/">Click<br/>Here</a></h2>
   			<div id="product-slider">
   				<div class="slides_container">
   				<?php 

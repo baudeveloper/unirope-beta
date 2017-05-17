@@ -61,6 +61,15 @@ add_action('wp_enqueue_scripts', 'load_my_scripts');
         ));
     }
 
+    // Home Page Quick Links French
+    if (function_exists('register_sidebar')) {
+        register_sidebar(array(
+            'name' => __('Quick Links FR' ),
+            'id'   => 'quicklinks-fr-sidebar',
+            'description'   => __( 'These are widgets for the sidebar.')
+        ));
+    }
+
     // Default Widget Sidebar
     if (function_exists('register_sidebar')) {
         register_sidebar(array(

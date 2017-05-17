@@ -62,6 +62,7 @@
 		<div id="fsitemap">
 		<ul>
 			<?php if(ICL_LANGUAGE_CODE =='fr') {  ?>
+				<li><a href="<?php echo get_option('home'); ?>">Home</a></li>
 				<li><a href="/fr/a-propos-de-nous/">&Agrave; propos de nous</a></li>
 				<li><a href="/fr/a-propos-de-nous/contact/">Contact</a></li>
 				<li><a href="/fr/training-seminars/">Training<br>&amp; Seminars</a></li>

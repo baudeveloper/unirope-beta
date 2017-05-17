@@ -53,7 +53,11 @@
 		<!-- Product Line Logos -->
 		<?php get_sidebar('productlines'); ?>	
 		<!-- Quick Links Here -->
-		<?php get_sidebar('quicklinks'); ?>
+		<?php
+			if (is_page(array('home'))) {
+				include(TEMPLATEPATH . '/sidebar-templates/sidebar-quicklinks.php');
+			}
+		?>
   		</section><!-- end of #home-content -->
   		
   		<aside id="home-sidebar">

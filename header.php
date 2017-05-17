@@ -113,7 +113,7 @@
 </div>
   		<div id="logo">
 			<?php if (ICL_LANGUAGE_CODE == 'fr') {  ?>
-			<img src="<?php bloginfo('template_directory'); ?>/img/unirope-logo-banner.png"/>
+			<a href="<?php echo get_option('home'); ?>/"><img src="<?php bloginfo('template_directory'); ?>/img/unirope-logo-banner.png"/></a>
 			<?php } else { ?>
   			<a href="<?php echo get_option('home'); ?>/"><img src="<?php bloginfo('template_directory'); ?>/img/unirope-logo-banner.png"/></a>
 			<?php } ?>
@@ -123,12 +123,21 @@
 				<div id="tb-phone">
 					<span>1 800 457 9997</span> <i class="fa fa-phone" id="locations-icon"></i>
 				</div> <!-- end of #tb-phone -->
+				<?php if (ICL_LANGUAGE_CODE == 'fr') {  ?>				
+				<div id="tb-linker">
+					<a href="/fr/a-propos-de-nous/contact/">Locations</a><i id="locations-icon" class="fa fa-map-marker"></i>
+				</div>
+				<div id="tb-career">
+					<a href="/fr/a-propos-de-nous/careers/">Careers</a><i class="fa fa-sun-o" id="locations-icon"></i>
+				</div>
+				<?php } else {  ?>
 				<div id="tb-linker">
 					<a href="/contact/">Locations</a><i id="locations-icon" class="fa fa-map-marker"></i>
 				</div>
 				<div id="tb-career">
 					<a href="/about-us/careers/">Careers</a><i class="fa fa-sun-o" id="locations-icon"></i>
 				</div>
+				<?php } ?>
 				<div id="tb-search">
 				<?php include (TEMPLATEPATH . '/searchform.php' ); ?>
 				</div> <!-- end of #tb-search -->

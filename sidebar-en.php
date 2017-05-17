@@ -1,4 +1,4 @@
-<?php
+<?php    
 
     /* About Us Sidebar */
  	if (is_page(array('about-us')) || is_child('about-us', $post->ID)) {
