@@ -63,11 +63,15 @@
 		<ul>
 			<?php if(ICL_LANGUAGE_CODE =='fr') {  ?>
 				<li><a href="/fr/a-propos-de-nous/">&Agrave; propos de nous</a></li>
-				<li><a href="/contact/">Contact</a></li>
+				<li><a href="/fr/a-propos-de-nous/contact/">Contact</a></li>
+				<li><a href="/fr/training-seminars/">Training<br>&amp; Seminars</a></li>
+				<li><a href="/fr/inspection-testing/">Testing<br>&amp; Services</a></li>
+				<li><a href="/fr/faqs/">FAQ's</a></li>
+				<li><a href="/fr/products-in-use/">Products In Use</a>
 			<?php } else { ?>
 				<li><a href="<?php echo get_option('home'); ?>">Home</a></li>
 				<li><a href="/about-us/">About Us</a></li>
-				<li><a href="/contact/">Contact</a></li>
+				<li><a href="/about-us/contact/">Contact</a></li>
 				<li><a href="/training-seminars/">Training<br>&amp; Seminars</a></li>
 				<li><a href="/inspection-testing/">Testing<br>&amp; Services</a></li>
 				<li><a href="/faqs/">FAQ's</a></li>
