@@ -8,6 +8,10 @@
  	} elseif (is_page(array('test-beds')) || is_child('test-beds', $post->ID)) {
       	include(TEMPLATEPATH . '/sidebar-templates/fr/sidebar-test-beds.php');
 
+    /* Inspection Testing Sidebar */
+ 	} elseif (is_page(array('inspection-testing')) || is_child('inspection-testing', $post->ID)) {
+      	include(TEMPLATEPATH . '/sidebar-templates/fr/sidebar-inspection-testing.php');
+
     /* Products in Use Lifting Solutions Sidebar */
  	} elseif (is_page(array('lifting-solutions-sorted-by-industries')) || is_child('lifting-solutions-sorted-by-industries', $post->ID)) {
       	include(TEMPLATEPATH . '/sidebar-templates/fr/sidebar-pui-lifting-solutions.php');
