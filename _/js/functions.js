@@ -10,7 +10,7 @@ $(document).ready(function (){
 		});
 
 		// Atlas Copco script.
-		$(".column-atlas .sub-menu").append("<li class='seperator italic'><a href='http://www.atlascopco.ca/caus/' title='Visit Atlas Copco website to check their product range.' target='_blank'><img src='/wp-content/themes/unirope/img/logo-atlas.jpg'></a></li>");
+		$(".column-atlas .sub-menu").append("<li class='seperator italic'><a href='http://www.atlascopco.ca/en-ca/itba/products/Assembly-tools' title='Visit Atlas Copco website to check their product range.' target='_blank'><img src='/wp-content/themes/unirope/img/logo-atlas.jpg'></a></li>");
 
 
 		$(".zoooom").hover(function () {
