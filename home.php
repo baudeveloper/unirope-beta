@@ -67,7 +67,7 @@
   		<aside id="home-sidebar">
   		
   		<div id="news">
-  		<h2>News Update<a class="title-btn btn" href="/news/">More<br/>News</a></h2>
+  		<h2>Latest News<a class="title-btn btn" href="/news/">More<br/>News</a></h2>
   		<?php $args = array(
 			'posts_per_page'  => 1,
 			'post_type'=> 'article',

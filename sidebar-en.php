@@ -217,7 +217,7 @@
 
       /* Products English Sidebar */
 	  } elseif (is_page('Products')) {
-          include(TEMPLATEPATH . '/sidebar-templates/sidebar-product-en.php');
+          include(TEMPLATEPATH . '/sidebar-templates/sidebar-product.php');
 
   /* 4. Load Release Systems Page Sidebar */
   } elseif (is_page('auto-remote-load-release') || has_term( 'Load Release Systems', 'below-the-hook-type', $post->ID )) {

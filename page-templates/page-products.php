@@ -233,23 +233,23 @@
               </thead>
               <tbody>
                 <tr>
-                  <td style="padding-top:5px;"><a href="http://www.atlascopco.ca/caus/products/assembly-tools/1401261/" target="_blank"><img src="/wp-content/themes/unirope/img/atlas-thumbs/electric-assembly-tools-thumb.jpg" alt="Electric Assembly Tools" /><br />
+                  <td style="padding-top:5px;"><a href="http://www.atlascopco.ca/en-ca/itba/products/Assembly-tools/electric-assembly-tools" target="_blank"><img src="/wp-content/themes/unirope/img/atlas-thumbs/electric-assembly-tools-thumb.jpg" alt="Electric Assembly Tools" /><br />
                     Electric Assembly Tools</a></td>
-                  <td style="padding-top:5px;"><a href="http://www.atlascopco.ca/caus/products/assembly-tools/1401257/" target="_blank"><img src="/wp-content/themes/unirope/img/atlas-thumbs/pneumatic-assembly-tools-thumb.jpg" alt="Pneumatic Assembly Tools" /><br />
+                  <td style="padding-top:5px;"><a href="http://www.atlascopco.ca/en-ca/itba/products/Assembly-tools/Pneumatic-assembly-tools" target="_blank"><img src="/wp-content/themes/unirope/img/atlas-thumbs/pneumatic-assembly-tools-thumb.jpg" alt="Pneumatic Assembly Tools" /><br />
                     Pneumatic Assembly Tools</a></td>
-                  <td style="padding-top:5px;"><a href="http://www.atlascopco.ca/caus/products/assembly-tools/1401259/" target="_blank"><img src="/wp-content/themes/unirope/img/atlas-thumbs/fixtured-assembly-systems-thumb.jpg" alt="Fixtured Assembly Systems" /><br />
+                  <td style="padding-top:5px;"><a href="http://www.atlascopco.ca/en-ca/itba/products/assembly-solutions/Fixtured-assembly-solutions" target="_blank"><img src="/wp-content/themes/unirope/img/atlas-thumbs/fixtured-assembly-systems-thumb.jpg" alt="Fixtured Assembly Systems" /><br />
 										Fixtured Assembly Systems</a></td>
-                  <td><a href="http://www.atlascopco.ca/caus/products/assembly-tools/1469053/" target="_blank"><img src="/wp-content/themes/unirope/img/atlas-thumbs/error-proofing-solutions-thumb.jpg" alt="Error Proofing Solutions" /><br />
+                  <td><a href="http://www.atlascopco.ca/en-ca/itba/products/assembly-solutions/Error-proofing-solutions" target="_blank"><img src="/wp-content/themes/unirope/img/atlas-thumbs/error-proofing-solutions-thumb.jpg" alt="Error Proofing Solutions" /><br />
 										Error Proofing Solutions</a></td>
                 </tr>
                 <tr>
-									<td style="padding-top:5px;"><a href="http://www.atlascopco.ca/caus/products/assembly-tools/1401236/" target="_blank"><img src="/wp-content/themes/unirope/img/atlas-thumbs/quality-assurance-in-tightening-thumb.jpg" alt="Quality Assurance in Tightening" /><br />
+									<td style="padding-top:5px;"><a href="http://www.atlascopco.ca/en-ca/itba/products/Assembly-tools/Quality-assurance-in-tightening-and-fastening" target="_blank"><img src="/wp-content/themes/unirope/img/atlas-thumbs/quality-assurance-in-tightening-thumb.jpg" alt="Quality Assurance in Tightening" /><br />
                     Quality Assurance in Tightening</a></td>
-                  <td style="padding-top:5px;"><a href="http://www.atlascopco.ca/caus/products/assembly-tools/1401207/" target="_blank"><img src="/wp-content/themes/unirope/img/atlas-thumbs/sockets-bits-thumb.jpg" alt="Socket and Bits" /><br />
+                  <td style="padding-top:5px;"><a href="http://www.atlascopco.ca/en-ca/itba/products/assembly-solutions/Error-proofing-solutions/Socket-and-bit-selector" target="_blank"><img src="/wp-content/themes/unirope/img/atlas-thumbs/sockets-bits-thumb.jpg" alt="Socket and Bits" /><br />
                     Socket and Bits</a></td>
-                  <td style="padding-top:5px;"><a href="http://www.atlascopco.ca/caus/products/assembly-tools/1401231/" target="_blank"><img src="/wp-content/themes/unirope/img/atlas-thumbs/workplace-solutions-and-automation-thumb.jpg" alt="Workplace Solutions and Automation" /><br />
+                  <td style="padding-top:5px;"><a href="http://www.atlascopco.ca/en-ca/itba/products/Assembly-tools/Workplace-solutions-automation" target="_blank"><img src="/wp-content/themes/unirope/img/atlas-thumbs/workplace-solutions-and-automation-thumb.jpg" alt="Workplace Solutions and Automation" /><br />
 										Workplace Solutions and Automation</a></td>
-                  <td><a href="http://www.atlascopco.ca/caus/products/assembly-tools/1401238/" target="_blank"><img src="/wp-content/themes/unirope/img/atlas-thumbs/bits-thumb.jpg" alt="Bits" /><br />
+                  <td><a href="http://www.atlascopco.ca/en-ca/itba/products/Sockets-bits/bit-holder-and-bits" target="_blank"><img src="/wp-content/themes/unirope/img/atlas-thumbs/bits-thumb.jpg" alt="Bits" /><br />
 										Bits</a></td>
                 </tr>
               </tbody>

@@ -223,7 +223,7 @@
 
   /* Product FR Sidebar */
 	} elseif (is_page('Produits')) {
-    	include(TEMPLATEPATH . '/sidebar-templates/sidebar-product-fr.php');
+    	include(TEMPLATEPATH . '/sidebar-templates/fr/sidebar-product.php');
 
     /* Default Sidebar */
 	} else {
