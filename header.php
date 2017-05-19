@@ -128,7 +128,7 @@
 					<a href="/fr/a-propos-de-nous/contact/">Locations</a><i id="locations-icon" class="fa fa-map-marker"></i>
 				</div>
 				<div id="tb-career">
-					<a href="/fr/a-propos-de-nous/careers/">Careers</a><i class="fa fa-sun-o" id="locations-icon"></i>
+					<a href="/fr/a-propos-de-nous/carrieres/">Carrières</a><i class="fa fa-sun-o" id="locations-icon"></i>
 				</div>
 				<?php } else {  ?>
 				<div id="tb-linker">

@@ -5,11 +5,11 @@
       	include(TEMPLATEPATH . '/sidebar-templates/fr/sidebar-about-us.php');
 
     /* Test Beds Sidebar */
- 	} elseif (is_page(array('test-beds')) || is_child('test-beds', $post->ID)) {
+ 	} elseif (is_page(array('banc-dessai')) || is_child('banc-dessai', $post->ID)) {
       	include(TEMPLATEPATH . '/sidebar-templates/fr/sidebar-test-beds.php');
 
     /* Inspection Testing Sidebar */
- 	} elseif (is_page(array('inspection-testing')) || is_child('inspection-testing', $post->ID)) {
+ 	} elseif (is_page(array('services-et-test')) || is_child('services-et-test', $post->ID)) {
       	include(TEMPLATEPATH . '/sidebar-templates/fr/sidebar-inspection-testing.php');
 
     /* Products in Use Lifting Solutions Sidebar */
@@ -25,7 +25,7 @@
       	include(TEMPLATEPATH . '/sidebar-templates/sidebar-wire-ropes.php');
 
     /* Technical Literature */
-    } elseif (is_page(array('technical-literature','technical-bulletins','videos','certificates'))) {
+    } elseif (is_page(array('litterature-technique','bulletin-technique','videos','certificats'))) {
       	include(TEMPLATEPATH . '/sidebar-templates/fr/sidebar-technical-literature.php');
 
     /* Technical Information French Sidebar */

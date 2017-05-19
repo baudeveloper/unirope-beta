@@ -993,6 +993,11 @@ ul.main-nav > li > a {
 	text-shadow: 0px 1px 1px #fff;
 }
 
+html[lang="fr-FR"] ul.main-nav > li > a {
+	line-height: normal;
+	height: 31px;
+}
+
 .lt-ie9 ul.main-nav > li > a {
 	padding:8px 6px 46px 6px!important;
 }
@@ -1644,6 +1649,7 @@ input[type="reset"],
 input[type="button"]{*padding:7px 15px;}/*IE 7 ONLY*/
 
 	button.large, a.btn.large, a.button.large{ width: 174px; height: 78px; text-transform: uppercase;}
+	html[lang="fr-FR"] #home-content #quick-links a.btn.large { height: 98px; }
 	button.medium, a.btn.medium, a.button.medium{ width: 174px; height: 28px; text-transform: uppercase;}
 	a.btn.downloadPDF { width: 210px; height: 22px; text-transform: uppercase;}
 	a.btn.additionalHeight{ height: 36px; }
@@ -2332,6 +2338,10 @@ header nav.main-menu {
 	margin-bottom: 15px;
 }
 
+html[lang="fr-FR"] #home-content #quick-links {
+	height: 385px;
+}
+
 #industry-links {
 	margin-top: 28px; /* Original: 44 pixels */
 	width: 100%;
@@ -2439,6 +2449,10 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f1c500', end
 	filter: none!important;
 	background-color: #4c6279!important;
 	color: white!important
+}
+
+html[lang="fr-FR"] #home-sidebar #products-in-use .title-btn {
+	margin-right: 0;
 }
 
 #home-sidebar #products-in-use #product-slider {
@@ -2652,6 +2666,10 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#26d7d7d7', e
 	clear: left;
 	margin:0;
 	padding: 0 20px 0 20px;
+}
+
+html[lang="fr-FR"] #sidebar ul.featured-links li a.large--extra {
+	height: 98px;
 }
 
 #content {

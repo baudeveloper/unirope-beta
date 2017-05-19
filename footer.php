@@ -62,13 +62,13 @@
 		<div id="fsitemap">
 		<ul>
 			<?php if(ICL_LANGUAGE_CODE =='fr') {  ?>
-				<li><a href="<?php echo get_option('home'); ?>">Home</a></li>
+				<li><a href="<?php echo get_option('home'); ?>">Accueuil</a></li>
 				<li><a href="/fr/a-propos-de-nous/">&Agrave; propos de nous</a></li>
 				<li><a href="/fr/a-propos-de-nous/contact/">Contact</a></li>
-				<li><a href="/fr/training-seminars/">Training<br>&amp; Seminars</a></li>
-				<li><a href="/fr/inspection-testing/">Testing<br>&amp; Services</a></li>
-				<li><a href="/fr/faqs/">FAQ's</a></li>
-				<li><a href="/fr/products-in-use/">Products In Use</a>
+				<li><a href="/fr/formations-et-seminaires/">Formations Et Séminaires</a></li>
+				<li><a href="/fr/services-et-test/">Services Et Test</a></li>
+				<li><a href="/fr/questions-reponses/">Questions / Réponses</a></li>
+				<li><a href="/fr/produits-en-service/">Produits En Service</a>
 			<?php } else { ?>
 				<li><a href="<?php echo get_option('home'); ?>">Home</a></li>
 				<li><a href="/about-us/">About Us</a></li>
@@ -225,9 +225,14 @@
 		</div> <!-- end of fsitemap -->
 	</div> <!-- end of #footer-innerWrap -->
 	<div id="credit-wrap">
-		<div id="fcredits">
+		<div id="fcredits">			
+			<?php if(ICL_LANGUAGE_CODE =='fr') {  ?>
+			<span id="copyright-section" class="source-org vcard copyright">Droits d’auteur &copy; <?php echo date("Y"); echo " "; bloginfo('name'); ?></span>
+			<span id="credit">Conçu par: <strong><a href="http://www.baustein.ca/" target="_blank">Baustein Strategic Design Group Inc.</a></strong></span>
+			<?php } else { ?>
 			<span id="copyright-section" class="source-org vcard copyright">Copyright &copy; <?php echo date("Y"); echo " "; bloginfo('name'); ?></span>
 			<span id="credit">Designed By: <strong><a href="http://www.baustein.ca/" target="_blank">Baustein Strategic Design Group Inc.</a></strong></span>
+			<?php } ?>
 		</div>
 	</div>
   </footer>

@@ -4,7 +4,7 @@
 
 
 <div id="breadcrumbs-nav">
-  	<div id="primary-cat"><a href="/fr/news/">News</a></div> 
+  	<div id="primary-cat"><a href="/fr/actualites/">Actualités</a></div> 
   	<div id="secondary-cat">
   		<!--
 <ul>
@@ -26,7 +26,7 @@
     <div id="page-nav" class="clearfix">
       <ul class="details-nav">
         <li>
-          <a style="color: #960000;" href="/fr/news/">← Retourner à News Overview Page</a>
+          <a style="color: #960000;" href="/fr/actualites/">← Retourner à Actualités</a>
         </li>
       </ul>
     </div>
@@ -34,7 +34,7 @@
 	
   			<div id="featured-image">
   				<h1><?php the_title(); ?></h1>
-  				<div class="meta"><p>Posted: <b><?php the_time('F j, Y') ?></b></p></div>
+  				<div class="meta"><p>Publié le: <b><?php the_time('F j, Y') ?></b></p></div>
 				
   			</div>
   			<div id="details" class="page-shadow">

@@ -54,7 +54,7 @@
   	  	 <?php echo $anchorlinks; ?> 
   	 <?php } ?>
   	 <div id="featured-image" class="clearfix">
-  		<h1>Latest News</h1>
+  		<h1>Actualités</h1>
   	</div>
   	<div id="details" class="page-shadow">
   	<section class="details-full clearfix">
@@ -79,7 +79,7 @@
 						</div>
 						<div style="float:left;width:75%" class="news-content clearfix">
 						<h2><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h2>
-						<em>Posted: <?php the_date(); ?></em>
+						<em>Publié le: <?php the_date(); ?></em>
 						<br/><br/>
 						<?php print_excerpt(320); ?>
 						<a class="news-more" href="<?php the_permalink(); ?>">Read More...</a>

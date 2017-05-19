@@ -34,7 +34,7 @@
 		</div> <!-- end of #main-slider -->
 		<!-- Cran Rope Centres Banner Bottom -->
 		<div id="crane-rope-centres">
-			<a href="/fr/produits/cables/cable-dacier/"><img src="<?php echo get_stylesheet_directory_uri(); ?>/img/Banner.jpg"></a>
+			<a href="/fr/produits/cables/cable-dacier/"><img src="<?php echo get_stylesheet_directory_uri(); ?>/img/Banner-french.jpg"></a>
 		</div>
 		<!-- end of Cran Rope Centres Banner Bottom -->	
 						
@@ -67,7 +67,7 @@
   		<aside id="home-sidebar">
   		
   		<div id="news">
-  		<h2>Latest News<a class="title-btn btn" href="/fr/news/">More<br/>News</a></h2>
+  		<h2>Actualités<a class="title-btn btn" href="/fr/actualites/">Plus<br>D'actualités</a></h2>
   		<?php $args = array(
 			'posts_per_page'  => 1,
 			'post_type'=> 'article',
@@ -86,20 +86,20 @@
   						<?php echo $smalllogo; ?>
 					</div>
 				<?php } ?>
-				<?php print_excerpt(320); ?>
+				<?php print_excerpt(600); ?><a class="more" href="<?php the_permalink(); ?>">Lire La Suite &rsaquo;</a>
 				
-		<?php endforeach;  wp_reset_postdata(); ?>
+		<?php endforeach;  wp_reset_postdata(); ?> 
 		
   		</div><!-- end of .news -->
   		
   		<div id="industry-links">
-		<a href="/fr/industry-links/" class="btn medium yellow"><span class="ql2">Industry Links</span><span class="click-here">click here</span></a>
-		<a href="/fr/a-propos-de-nous/careers/" class="btn medium yellow additionalHeight"><span class="ql2">Careers / Openings</span><span class="click-here">apply now</span></a>
+		<a href="/fr/liens-industriels/" class="btn medium yellow"><span class="ql2">Liens Industriels</span><span class="click-here">cliquez ici</span></a>
+		<a href="/fr/a-propos-de-nous/carrieres/" class="btn medium yellow additionalHeight"><span class="ql2">Carrières / Ouvertures</span><span class="click-here">appliquer maintenant</span></a>
 		</div>
 
   		
   		<div id="products-in-use">
-  			<h2>Products In Use<a class="title-btn btn" href="/fr/products-in-use/">Click<br/>Here</a></h2>
+  			<h2>Produits En Service<a class="title-btn btn" href="/fr/produits-en-service/">Cliquez<br/>Ici</a></h2>
   			<div id="product-slider">
   				<div class="slides_container">
   				<?php 
