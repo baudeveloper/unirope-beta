@@ -29,7 +29,7 @@
           <a style="color: #960000;" href="/fr/actualites/">← Retourner à Actualités</a>
         </li>
       </ul>
-    </div>
+    </div> 
   	<?php if ($anchorlinks != "") { echo $anchorlinks; } ?>
 	
   			<div id="featured-image">
