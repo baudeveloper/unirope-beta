@@ -1,7 +1,7 @@
 <?php
 
     /* About Us Sidebar */
-    if (is_page(array('a-propos-de-nous')) || is_child('a-propos-de-nous', $post->ID)) {
+    if (is_page(array('a-propos-de-nous')) || is_child('a-propos-de-nous', $post->ID) || is_child('photos-des-usines', $post->ID)) {
       	include(TEMPLATEPATH . '/sidebar-templates/fr/sidebar-about-us.php');
 
     /* Test Beds Sidebar */

@@ -73,8 +73,8 @@
 			'post_type'=> 'article',
 			'orderby' => 'post_date',
 			'order' => 'DESC',
-			'post_status' => 'publish'
-			
+			'post_status' => 'publish',
+			'suppress_filters' => false	
 		);
 		$postslist = get_posts( $args );
 		foreach ($postslist as $post) :  setup_postdata($post); ?> 

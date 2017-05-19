@@ -1,7 +1,7 @@
 <?php    
 
     /* About Us Sidebar */
- 	if (is_page(array('about-us')) || is_child('about-us', $post->ID)) {
+ 	if (is_page(array('about-us')) || is_child('about-us', $post->ID) || is_child('plant-pictures', $post->ID)) {
       	include(TEMPLATEPATH . '/sidebar-templates/sidebar-about-us.php');
 
     /* Test Beds Sidebar */
