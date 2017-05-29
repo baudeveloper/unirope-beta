@@ -34,7 +34,7 @@
 		</div> <!-- end of #main-slider -->
 		<!-- Cran Rope Centres Banner Bottom -->
 		<div id="crane-rope-centres">
-			<a href="/fr/produits/cables/cable-dacier/"><img src="<?php echo get_stylesheet_directory_uri(); ?>/img/Banner-french.jpg"></a>
+			<a href="/fr/produits/cables/centres-de-cable-de-grues/"><img src="<?php echo get_stylesheet_directory_uri(); ?>/img/Banner-french.jpg"></a>
 		</div>
 		<!-- end of Cran Rope Centres Banner Bottom -->	
 						
