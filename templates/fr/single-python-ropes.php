@@ -3,7 +3,7 @@
 <?php if (have_posts()) : while (have_posts()) : the_post(); ?>
 
 <?php 
-$left_content = (types_render_field("left-content", array('show_name' => 'false')));
+	$left_content = (types_render_field("left-content", array('show_name' => 'false')));
 	$right_sidebar = (types_render_field("right-sidebar", array('show_name' => 'false')));
 	$additional_text = (types_render_field("additional-text", array('show_name' => 'false')));
 ?>
@@ -13,7 +13,7 @@ $left_content = (types_render_field("left-content", array('show_name' => 'false'
   	<div id="secondary-cat">
   		<ul>
   			<li><a href="/produits/cables/">Câbles</a></li>
-  			<li><a href="/produits/cables/cable-dacier/">Au sujet du câble Python</a></li>
+  			<li><a href="/produits/cables/centres-de-cable-de-grues/">Centres de câble de grues</a></li>
   			<li><?php the_title(); ?></li>
   		</ul>
 	</div>

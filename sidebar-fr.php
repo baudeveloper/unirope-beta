@@ -21,7 +21,7 @@
       	include(TEMPLATEPATH . '/sidebar-templates/fr/sidebar-pui-lifting-stories.php');
 
 	/* Wire Rope French Sidebar */
- 	} elseif (is_page(array('cable-dacier','information-technique','selection-de-cables-dacier')) || has_term(array('wire-rope-fr'), 'rope-type', $post->ID)) {
+ 	} elseif (is_page(array('centres-de-cable-de-grues','technical-information','wire-rope-selection')) || has_term(array('wire-rope-fr'), 'rope-type', $post->ID)) {
       	include(TEMPLATEPATH . '/sidebar-templates/sidebar-wire-ropes.php');
 
     /* Technical Literature */
@@ -32,7 +32,7 @@
     } elseif (has_term( 'technical-information', 'category', $post->ID )) {
       	include(TEMPLATEPATH . '/sidebar-templates/sidebar-wr-tech-info.php');
 
-      	/* Pyhton Ropes Sidebar */
+    /* Pyhton Ropes Sidebar */
 	} elseif (has_term( 'python-ropes-fr', 'rope-type', $post->ID)) {
       	include(TEMPLATEPATH . '/sidebar-templates/sidebar-python-ropes.php');
 
@@ -81,8 +81,12 @@
         include(TEMPLATEPATH . '/sidebar-templates/sidebar-sling-inspection.php');
 
      /* Wire Rope End-Attachments Sidebar */
-	} elseif (is_page(array('wire-rope-end-attachments', 2048, 2050, 2052, 2054, 2056  )) || has_term( 'wire-rope-end-attachments-fr', 'rope-type', $post->ID )) {
-      	include(TEMPLATEPATH . '/sidebar-templates/sidebar-wire-rope-end-attachments.php');
+	} elseif (is_page(array('embouts-de-cable-dacier', 2048, 7298, 2052, 2054, 2056  )) || has_term( 'wire-rope-end-attachments-fr', 'rope-type', $post->ID )) {
+      	include(TEMPLATEPATH . '/sidebar-templates/fr/sidebar-wire-rope-end-attachments.php');
+
+    /* Fiber Ropes Sidebar */
+	} elseif (is_page(array('cable-dacier','coatings','engineering-usage-care-inspection')) || has_term( 'Fiber Ropes', 'rope-type', $post->ID)) {
+      	include(TEMPLATEPATH . '/sidebar-templates/fr/sidebar-fiber-ropes.php');
 
       /* Below the Hooks Page Sidebar */
     } elseif (is_page('below-the-hook') || has_term( 'Below the Hook', 'below-the-hook-type', $post->ID )) {

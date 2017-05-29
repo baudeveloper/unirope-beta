@@ -52,7 +52,7 @@
 
 
           <!-- Ropes -->
-          <div class="table-2">
+          <div class="table-3">
             <table id="cordes" class="category-thumbs" style="width: 100%;" cellspacing="0" cellpadding="0">
               <thead>
                 <tr>
@@ -61,10 +61,12 @@
               </thead>
               <tbody>
                 <tr>
-                  <td><a href="/fr/produits/cables/cable-dacier/"><img src="/wp-content/themes/unirope/img/wire_rope_main_thumb.jpg" alt="" /><br />
-                   Câble D’acier</a></td>
-                   <td><a href="/fr/produits/cables/wire-rope-end-attachments/"><img src="/wp-content/themes/unirope/img/wire_rope_endattachments_main_thumb.jpg" alt="" /><br />
-                    Accessoires câble <br/>métallique fin</a></td>
+                  <td><a href="/fr/produits/cables/centres-de-cable-de-grues/"><img src="/wp-content/themes/unirope/img/wire_rope_main_thumb.jpg" alt="" /><br />
+                   Centres de câble de grues</a></td>
+                   <td><a href="/fr/produits/cables/embouts-de-cable-dacier/"><img src="/wp-content/themes/unirope/img/wire_rope_endattachments_main_thumb.jpg" alt="" /><br />
+                    Embouts de câble d’acier</a></td>
+                    <td><a href="/fr/produits/cables/cable-dacier/"><img src="/wp-content/uploads/2012/07/fiberrope-category-pic.gif" height="100" alt="" /><br />
+                    Câble d’acier</a></td>
                 </tr>
               </tbody>
             </table>

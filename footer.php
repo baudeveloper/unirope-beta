@@ -92,8 +92,8 @@
 						<li><a href="/fr/produits/cables/" class="sub-cat">Câbles</a></li>
 						<?php
 						$args = array(
-						  'sort_column'  => 'id',
-						  'sort_order'   => 'DESC',
+						  'sort_column'  => 'date',
+						  'sort_order'   => 'ASC',
 						  'title_li'     => '',
 						  'child_of'     => 5404,
 						  'depth'        => 1
@@ -105,8 +105,8 @@
 						<li><a href="/products/ropes/" class="sub-cat">Ropes</a></li>
 						<?php
 						$args = array(
-						  'sort_column'  => 'id',
-						  'sort_order'   => 'DESC',
+						  'sort_column'  => 'date',
+						  'sort_order'   => 'ASC',
 						  'title_li'     => '',
 						  'child_of'     => 94,
 						  'depth'        => 1
@@ -230,7 +230,7 @@
 			<span id="copyright-section" class="source-org vcard copyright">Droits d’auteur &copy; <?php echo date("Y"); echo " "; bloginfo('name'); ?></span>
 			<span id="credit">Conçu par: <strong><a href="http://www.baustein.ca/" target="_blank">Baustein Strategic Design Group Inc.</a></strong></span>
 			<?php } else { ?>
-			<span id="copyright-section" class="source-org vcard copyright">Copyright &copy; <?php echo date("Y"); echo " "; bloginfo('name'); ?></span>
+			<span id="copyright-section" class="source-org vcard copyright">Copyright: &copy; <?php echo date("Y"); echo " "; bloginfo('name'); ?></span>
 			<span id="credit">Designed By: <strong><a href="http://www.baustein.ca/" target="_blank">Baustein Strategic Design Group Inc.</a></strong></span>
 			<?php } ?>
 		</div>

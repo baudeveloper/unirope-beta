@@ -10,6 +10,8 @@
 		include(TEMPLATEPATH . '/templates/fr/slings/single-wireropeslings.php');
 	} elseif (has_term( 'wire-rope-end-attachments-fr', 'rope-type', $post->ID )) {
 		include(TEMPLATEPATH . '/templates/fr/single-wireropeendattachments.php');
+	} elseif (has_term( 'Fiber Ropes', 'rope-type', $post->ID)) {
+		include(TEMPLATEPATH . '/templates/fr/single-fiberropes.php');
 
 	// French Grade 100/80 Products Starts here.
 	} elseif (has_term( 'single-leg-grade-100-fr', 'sling-type', $post->ID)) {

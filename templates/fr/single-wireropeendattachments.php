@@ -14,7 +14,7 @@
   	<div id="secondary-cat">
   		<ul>
   			<li><a href="/fr/produits/cables/">Câbles</a></li>
-  			<li><a href="/fr/produits/cables/wire-rope-end-attachments/">Accessoires câble métallique fin</a></li>
+  			<li><a href="/fr/produits/cables/embouts-de-cable-dacier/">Embouts de câble d’acier</a></li>
   			<li><?php the_title(); ?></li>
   		</ul>
   	</div>

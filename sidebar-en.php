@@ -21,7 +21,7 @@
       	include(TEMPLATEPATH . '/sidebar-templates/sidebar-pui-lifting-stories.php');
 
 	/* Wire Rope Sidebar */
- 	} elseif (is_page(array('wire-ropes','python-rope','wire-rope-selection')) || has_term(array('wire-rope'), 'rope-type', $post->ID)) {
+ 	} elseif (is_page(array('wire-ropes','python-rope','technical-information','wire-rope-selection')) || has_term(array('wire-rope'), 'rope-type', $post->ID)) {
       	include(TEMPLATEPATH . '/sidebar-templates/sidebar-wire-ropes.php');
 
     /* Technical Literature */

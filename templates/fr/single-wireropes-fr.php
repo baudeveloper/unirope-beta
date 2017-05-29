@@ -27,8 +27,8 @@
   	<div id="secondary-cat">
   		<ul>
   			<li><a href="/fr/produits/cables/">Câbles</a></li>
-  			<li><a href="/fr/produits/cables/cable-dacier/">Câble D’acier</a></li>
-  			<?php if ( has_term('crane-ropes-fr', 'rope-type')) { ?><li><a href="/fr/ropes/metric-overhead-crane-wire-ropes-fr/">Autres câbles pour ponts roulants (métrique)</a></li><?php } ?>
+  			<li><a href="/fr/produits/cables/centres-de-cable-de-grues/">Centres de câble de grues</a></li>
+  			<?php if ( has_term('crane-ropes-fr', 'rope-type')) { ?><li><a href="/fr/ropes/metric-overhead-crane-wire-ropes-fr/">Metric Overhead Crane Ropes</a></li><?php } ?>
   			<li><?php the_title(); ?></li>
   		</ul>
 	</div>
@@ -46,11 +46,11 @@
 	<div id="page-nav" class="clearfix">
   				<!-- <a href="#">← Return to previous page</a> -->
   				<ul class="details-nav">
-  					<?php if ( has_term('crane-ropes-fr', 'rope-type')) { ?><li><a style="color:#960000;" href="/fr/ropes/metric-overhead-crane-wire-ropes-fr/">&larr; Revenir à Autres câbles pour Ponts Roulants (métrique)</a></li><?php } ?>
-  					<?php if ($mainapp != "") { ?><li><a href="#main-applications">Utilisations principales</a></li><?php } ?>
-  					<?php if ($ropechar != "") { ?><li><a href="#rope-characteristics">Caractéristiques du câble</a></li><?php } ?>
+  					<?php if ( has_term('crane-ropes-fr', 'rope-type')) { ?><li><a style="color:#960000;" href="/fr/ropes/metric-overhead-crane-wire-ropes-fr/">&larr; Back to Metric Overhead Crane Ropes</a></li><?php } ?>
+  					<?php if ($mainapp != "") { ?><li><a href="#main-applications">Main Applications</a></li><?php } ?>
+  					<?php if ($ropechar != "") { ?><li><a href="#rope-characteristics">Rope Characteristics</a></li><?php } ?>
   					<?php if ($std != "") { ?><li><a href="#standard">Standard</a></li><?php } ?>
-  					<?php if ($bstr != "") { ?><li><a href="#breaking-strengths">Forces de rupture</a></li><?php } ?>
+  					<?php if ($bstr != "") { ?><li><a href="#breaking-strengths">Breaking Strengths</a></li><?php } ?>
   				</ul>
   			</div> 
 	
@@ -70,12 +70,12 @@
   					
   				
   					<?php if ($mainapp != "") { ?>
-  					<h2 id="main-applications">Utilisations principales</h2>
+  					<h2 id="main-applications">Main Applications</h2>
   					<div class="clearfix" style="margin-bottom:10px;"><?php echo $mainapp; ?></div>
   					<?php } ?>
   					
   					<?php if ($ropechar != "") { ?>
-  					<h2 id="rope-characteristics">Caractéristiques du câble</h2>
+  					<h2 id="rope-characteristics">Rope Characteristics</h2>
   					<div class="clearfix" style="margin-bottom:10px;"><?php echo $ropechar; ?></div>
   					<?php } ?>
   					
@@ -116,7 +116,7 @@
   					
   					<?php if ($caution != "") { ?>
   					<div class="caution-section clearfix">
-  					<span class="caution-btn clearfix"><img src="<?php bloginfo('template_directory'); ?>/img/caution-sign.png" class="c-icon"/>Attention</span><br>
+  					<span class="caution-btn clearfix"><img src="<?php bloginfo('template_directory'); ?>/img/caution-sign.png" class="c-icon"/>Caution</span><br>
   					<?php echo $caution; ?>
   					</div>
   					<?php } ?>
@@ -132,7 +132,7 @@
   					<section class="details-full">
   					<hr>
   				  	<?php if ($bstr != "") { ?>
-  					<h2 id="breaking-strengths">Forces de rupture</h2>
+  					<h2 id="breaking-strengths">Breaking Strengths</h2>
   					<p><?php echo $bstr; ?></p>
   					<?php } ?>
   					
