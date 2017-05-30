@@ -196,6 +196,15 @@
 						?>
 						<?php wp_list_pages( $args ); ?>
 						<?php wp_reset_query(); ?>
+						<li><a href="http://www.atlascopco.ca/caus/" target="_blank" class="sub-cat" style="width:165px;">Atlas Copco Assembly Tools</a></li>
+						<li><a href="http://www.atlascopco.ca/caus/products/assembly-tools/1401261/" target="_blank">Electric Assembly Tools</a></li>
+						<li><a href="http://www.atlascopco.ca/caus/products/assembly-tools/1401257/" target="_blank">Pneumatic Assembly Tools</a></li>
+						<li><a href="http://www.atlascopco.ca/caus/products/assembly-tools/1401259/" target="_blank">Fixtured Assembly Systems</a></li>
+						<li><a href="http://www.atlascopco.ca/caus/products/assembly-tools/1469053/" target="_blank">Error Proofing Solutions</a></li>
+						<li><a href="http://www.atlascopco.ca/caus/products/assembly-tools/1401236/" target="_blank">Quality Assurance in Tightening</a></li>
+						<li><a href="http://www.atlascopco.ca/caus/products/assembly-tools/1401207/" target="_blank">Socket and Bits</a></li>
+						<li><a href="http://www.atlascopco.ca/caus/products/assembly-tools/1401231/" target="_blank">Workplace Solutions and Automation</a></li>
+						<li><a href="http://www.atlascopco.ca/caus/products/assembly-tools/1401238/" target="_blank">Bits</a></li>
 					<?php } else { ?>
 						<li><a href="/products/below-the-hook/" class="sub-cat">Below the Hook</a></li>
 						<?php

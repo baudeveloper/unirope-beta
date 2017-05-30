@@ -36,7 +36,6 @@
 <li><a href="#ropes">Ropes</a></li>
 <li><a href="#slings">Slings</a></li>
 <li><a href="#rigging_hardware">Rigging Hardware</a></li>
-<!-- <li><a href="#more_hardware">More Hardware</a></li> -->
 <li><a href="#below-the-hook">Below the Hook</a></li>
 <li><a href="#atlas-copco">Atlas Copco Assembly Tools</a></li>
 </ul>
@@ -69,13 +68,6 @@
                     Fiber Ropes</a></td>
                 </tr>
               </tbody>
-              <!--
-<tfoot>
-              	<tr>
-              		<td colspan="3" style="text-align:left;padding:5px;">Python® Ropes, General Purpose Ropes, Metric Ropes, die-formed Compac® Rope, Hoisting Ropes for Cranes, Non-Rotating Ropes, High Strength Ropes, PFV types, Aircraft Cables, Stainless Steel; plus Selection, Handling and Inspection of Wire Rope.</td>
-              	</tr>
-              </tfoot>
--->
             </table>
           </div>
 
@@ -137,8 +129,6 @@
                 <tr>
 									<td><a href="/products/rigging-hardware/load-securement/"><img src="/wp-content/themes/unirope/img/load_securement_main_thumb.jpg" alt="" /><br />
                     Load Securement</a></td>
-	                <!-- <td><a href="/products/rigging-hardware/hoists-pullers/"><img src="/wp-content/themes/unirope/img/hoists_pullers_main_thumb.jpg" alt="" /><br />
-                    Hoists and Pullers</a></td> -->
                     <td><a href="/products/rigging-hardware/utility-specific-products/"><img src="/wp-content/themes/unirope/img/utility_specific_products_main_thumb.jpg" alt="" /><br />
                     Utility Specific<br />Products</a></td>
                    <td><a href="/products/rigging-hardware/mckissick-blocks-137k-pdf-file/"><img src="/wp-content/themes/unirope/img/mckissick_blocks_main_thumb.jpg" alt="" /><br />
@@ -148,40 +138,6 @@
               </tbody>
             </table>
           </div>
-
-          <!-- More Hardware -->
-          <!--
-          <div class="table-4">
-            <table id="more_hardware" class="category-thumbs" style="width: 100%;" cellspacing="0" cellpadding="0">
-              <thead>
-                <tr>
-                  <th colspan="4">More Hardware</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr>
-                  <td><a href="/products/rigging-hardware/load-securement/"><img src="/wp-content/themes/unirope/img/load_securement_main_thumb.jpg" alt="" /><br />
-                    Load Securement</a></td>
-                  <td><a href="/products/rigging-hardware/clamps-magnets/"><img src="/wp-content/themes/unirope/img/clamps_magnets_main_theme.jpg" alt="" /><br />
-                    Clamps and Magnets</a></td>
-                  <td><a href="/products/rigging-hardware/hoists-pullers/"><img src="/wp-content/themes/unirope/img/hoists_pullers_main_thumb.jpg" alt="" /><br />
-                    Hoists and Pullers</a></td>
-                  <td><a href="/products/rigging-hardware/load-monitoring-systems/"><img src="/wp-content/themes/unirope/img/crane_scales_main_thumb.jpg" alt="" /><br />
-                    Load Monitoring Systems</a></td>
-                </tr>
-                <tr>
-                  <td><a href="/products/rigging-hardware/utility-specific-products/"><img src="/wp-content/themes/unirope/img/utility_specific_products_main_thumb.jpg" alt="" /><br />
-                    Utility Specific<br />Products</a></td>
-                  <td><a href="/products/rigging-hardware/mckissick-blocks-137k-pdf-file/"><img src="/wp-content/themes/unirope/img/mckissick_blocks_main_thumb.jpg" alt="" /><br />
-                    McKissick Blocks<br />(137k pdf file)</a></td>
-                  <td><a href="/products/rigging-hardware/auto-remote-load-release/"><img src="/wp-content/themes/unirope/img/ixtur-automatic-magnet-thumb-1.png" alt="" /><br />
-                    Automatic & Remote Controlled Load Release Systems</a></td>
-                  <td class="empty"></td>
-                </tr>
-              </tbody>
-            </table>
-          </div>
-          -->
 
           <!-- Below the Hooks -->
           <div class="table-4">
@@ -199,8 +155,6 @@
                     Mill-Duty</a></td>
                   <td style="padding-top:5px;"><a href="/products/below-the-hook/rig-master"><img src="/wp-content/uploads/2015/09/Concrete_Grabs_Tongs.png" alt="" /><br />
                   Rig-Master</a></td>
-                  <!-- <td><a href="/products/below-the-hook/clamps-magnets/"><img src="/wp-content/themes/unirope/img/clamps_magnets_main_theme.jpg" alt="" /><br />
-                    Clamps and Magnets</a></td> -->
 									<td style="padding-top:5px;"><a href="/products/below-the-hook/clamps-overview/"><img src="/wp-content/themes/unirope/img/clamps_magnets_main_theme.jpg" alt="" /><br />
                     Lifting and Beam Clamps</a></td>
                 </tr>

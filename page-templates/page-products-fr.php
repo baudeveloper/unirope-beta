@@ -37,7 +37,6 @@
 <li><a href="#slings">Élingues</a></li>
 <li><a href="#rigging_hardware">Accessoires de gréement</a></li>
 <li><a href="#below_the_hook">Below the Hook</a></li>
-<!-- <li><a href="#slings">Slings</a></li> -->
 </ul>
 </div>
     <div id="featured-image" class="clearfix">
@@ -112,8 +111,6 @@
 
                   <td><a href="/fr/produits/rigging-hardware/load-positioning-swivels-and-lifting-eyes/"><img src="/wp-content/themes/unirope/img/load_positioning_swivels_main_thumb.jpg" alt="" /><br />
                     Émerillons de <br/>positionnement de charge and Lifting Eyes</a></td>
-										<!--<td><a href="/fr/produits/rigging-hardware/rigging-turnbuckles/"><img src="/wp-content/uploads/2012/05/rigging-turnbuckles-main-thumb.jpg" alt="Rigging Turnbuckles" /><br />
-	                    Tendeur de<br />gréement</a></td>-->
                 </tr>
 								<tr>
 									<td><a href="/fr/produits/rigging-hardware/eye-bolts-hoist-rings/"><img src="/wp-content/themes/unirope/img/eye_bolts_hoist_rings_main_thumb.jpg" alt="" /><br />
@@ -122,32 +119,6 @@
               </tbody>
             </table>
           </div>
-
-
-          <!-- More Hardware -->
-
-         <!--  <div class="table-3">
-            <table id="slings" class="category-thumbs" style="width: 100%;" cellspacing="0" cellpadding="0">
-              <thead>
-                <tr>
-                  <th colspan="3">Slings</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr>
-                  <td><a href="/fr/produits/slings/wire-rope-slings/"><img src="/wp-content/themes/unirope/img/wire_rope_sling_main_thumb.jpg" alt="" /><br />
-                    Wire Rope<br />
-                    Slings</a></td>
-                  <td><a href="/fr/produits/slings/chain-wire-mesh-slings/"><img src="/wp-content/themes/unirope/img/chain_wire_mesh_slings_main_thumb.jpg" alt="" /><br />
-                    Chain and Wire Mesh<br />
-                    Slings</a></td>
-                  <td><a href="/fr/produits/slings/twin-path-and-synthetic-lifting-slings/"><img src="/wp-content/themes/unirope/img/twin_path_slings_main_thumb.jpg" alt="" /><br />
-                    Twin-Path® and Synthetic<br />
-                    Lifting Slings</a></td>
-                </tr>
-              </tbody>
-            </table>
-          </div> -->
 
           <!-- Below the Hooks -->
           <div class="table-4">
@@ -180,7 +151,39 @@
               </tbody>
             </table>
           </div>
-
+          
+          <!-- Atlas -->
+          <div class="table-4">
+            <table id="atlas-copco" class="category-thumbs" style="width: 100%;" cellspacing="0" cellpadding="0">
+              <thead>
+                <tr>
+                  <th colspan="4">Atlas Copco Assembly Tools</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td style="padding-top:5px;"><a href="http://www.atlascopco.ca/en-ca/itba/products/Assembly-tools/electric-assembly-tools" target="_blank"><img src="/wp-content/themes/unirope/img/atlas-thumbs/electric-assembly-tools-thumb.jpg" alt="Electric Assembly Tools" /><br />
+                    Electric Assembly Tools</a></td>
+                  <td style="padding-top:5px;"><a href="http://www.atlascopco.ca/en-ca/itba/products/Assembly-tools/Pneumatic-assembly-tools" target="_blank"><img src="/wp-content/themes/unirope/img/atlas-thumbs/pneumatic-assembly-tools-thumb.jpg" alt="Pneumatic Assembly Tools" /><br />
+                    Pneumatic Assembly Tools</a></td>
+                  <td style="padding-top:5px;"><a href="http://www.atlascopco.ca/en-ca/itba/products/assembly-solutions/Fixtured-assembly-solutions" target="_blank"><img src="/wp-content/themes/unirope/img/atlas-thumbs/fixtured-assembly-systems-thumb.jpg" alt="Fixtured Assembly Systems" /><br />
+										Fixtured Assembly Systems</a></td>
+                  <td><a href="http://www.atlascopco.ca/en-ca/itba/products/assembly-solutions/Error-proofing-solutions" target="_blank"><img src="/wp-content/themes/unirope/img/atlas-thumbs/error-proofing-solutions-thumb.jpg" alt="Error Proofing Solutions" /><br />
+										Error Proofing Solutions</a></td>
+                </tr>
+                <tr>
+									<td style="padding-top:5px;"><a href="http://www.atlascopco.ca/en-ca/itba/products/Assembly-tools/Quality-assurance-in-tightening-and-fastening" target="_blank"><img src="/wp-content/themes/unirope/img/atlas-thumbs/quality-assurance-in-tightening-thumb.jpg" alt="Quality Assurance in Tightening" /><br />
+                    Quality Assurance in Tightening</a></td>
+                  <td style="padding-top:5px;"><a href="http://www.atlascopco.ca/en-ca/itba/products/assembly-solutions/Error-proofing-solutions/Socket-and-bit-selector" target="_blank"><img src="/wp-content/themes/unirope/img/atlas-thumbs/sockets-bits-thumb.jpg" alt="Socket and Bits" /><br />
+                    Socket and Bits</a></td>
+                  <td style="padding-top:5px;"><a href="http://www.atlascopco.ca/en-ca/itba/products/Assembly-tools/Workplace-solutions-automation" target="_blank"><img src="/wp-content/themes/unirope/img/atlas-thumbs/workplace-solutions-and-automation-thumb.jpg" alt="Workplace Solutions and Automation" /><br />
+										Workplace Solutions and Automation</a></td>
+                  <td><a href="http://www.atlascopco.ca/en-ca/itba/products/Sockets-bits/bit-holder-and-bits" target="_blank"><img src="/wp-content/themes/unirope/img/atlas-thumbs/bits-thumb.jpg" alt="Bits" /><br />
+										Bits</a></td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
 
         </div>
       </section>
