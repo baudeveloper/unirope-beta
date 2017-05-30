@@ -37,6 +37,7 @@
 <li><a href="#slings">Élingues</a></li>
 <li><a href="#rigging_hardware">Accessoires de gréement</a></li>
 <li><a href="#below_the_hook">Below the Hook</a></li>
+<li><a href="#atlas-copco">Atlas Copco Assembly Tools</a></li>
 </ul>
 </div>
     <div id="featured-image" class="clearfix">
