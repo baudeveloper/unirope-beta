@@ -11,8 +11,8 @@
   	<div id="primary-cat"><a href="/fr/produits/">Produits</a></div> 
   	<div id="secondary-cat">
   		<ul>
-  			<li><a href="/fr/produits/below-the-hook/">Below the Hook</a></li>
-  			<li><a href="/fr/produits/below-the-hook/automatic-remote-controlled-load-release-systems/">Automatic & Remote Controlled Load Release Systems</a></li>
+  			<li><a href="/fr/produits/sous-le-crochet/">Sous le Crochet</a></li>
+  			<li><a href="/fr/produits/sous-le-crochet/systemes-automatiques-et-a-distance-de-controle-de-charge-controlee/">Systèmes automatiques et à distance de contrôle de charge contrôlée</a></li>
   		  	<li><?php the_title(); ?></li>
   		</ul>
 	</div>

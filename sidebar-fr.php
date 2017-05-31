@@ -89,13 +89,13 @@
       	include(TEMPLATEPATH . '/sidebar-templates/fr/sidebar-fiber-ropes.php');
 
       /* Below the Hooks Page Sidebar */
-    } elseif (is_page('below-the-hook') || has_term( 'Below the Hook', 'below-the-hook-type', $post->ID )) {
+    } elseif (is_page('sous-le-crochet') || has_term( 'Below the Hook', 'below-the-hook-type', $post->ID )) {
         include(TEMPLATEPATH . '/sidebar-templates/fr/sidebar-below-the-hook.php');
 
 		/* 0. Girder Clamps and Trolleys Page Sidebar */
 	} elseif (
-			is_page('girder-clamps-and-trolleys') ||
-			is_child('girder-clamps-and-trolleys', $post->ID) ||
+			is_page('pinces-a-poutres-et-treuils') ||
+			is_child('pinces-a-poutres-et-treuils', $post->ID) ||
 			(has_term( 'Girder Clamps and Trolleys', 'below-the-hook-type', $post->ID ) &&
 			!has_term(array('Beam Trolleys', 'Beam Clamps'), 'below-the-hook-type', $post->ID))
 		) {
@@ -205,32 +205,37 @@
       } elseif (has_term('Synthetic Sling End Fittings', 'below-the-hook-type', $post->ID)) {
           include(TEMPLATEPATH . '/sidebar-templates/fr/sidebar-synthetic-sling-end-fittings.php');
 
-  /* 4. Load Release Systems Page Sidebar */
-  } elseif (is_page('automatic-remote-controlled-load-release-systems') || has_term( 'Load Release Systems FR', 'below-the-hook-type', $post->ID )) {
-      include(TEMPLATEPATH . '/sidebar-templates/fr/sidebar-load-release-systems.php');
+/* 4. Load Release Systems Page Sidebar */
+} elseif (is_page('systemes-automatiques-et-a-distance-de-controle-de-charge-controlee') || has_term( 'Load Release Systems FR', 'below-the-hook-type', $post->ID )) {
+    include(TEMPLATEPATH . '/sidebar-templates/fr/sidebar-load-release-systems.php');
 
-  /* 5. Load Monitoring Systems Page Sidebar */
-  } elseif (is_page('load-monitoring-systems') || has_term( 'Load Monitoring Systems', 'below-the-hook-type', $post->ID )) {
-      include(TEMPLATEPATH . '/sidebar-templates/fr/sidebar-load-monitoring-systems-submenu-sidebar.php');
+/* 5. Load Monitoring Systems Page Sidebar */
+} elseif (is_page('systemes-de-surveillance-de-charge') || has_term( 'Load Monitoring Systems', 'below-the-hook-type', $post->ID )) {
+    include(TEMPLATEPATH . '/sidebar-templates/fr/sidebar-load-monitoring-systems-submenu-sidebar.php');
 
-  /* 6. Clamps and Magnets Page Sidebar */
-  } elseif (is_page('clamps-magnets') || has_term( 'Clamps and Magnets', 'below-the-hook-type', $post->ID )) {
-      include(TEMPLATEPATH . '/sidebar-templates/fr/sidebar-clamps-magnets-submenu-sidebar.php');
+/* 6. Clamps and Magnets Page Sidebar */
+} elseif (is_page('clamps-magnets') || has_term( 'Clamps and Magnets', 'below-the-hook-type', $post->ID )) {
+    include(TEMPLATEPATH . '/sidebar-templates/fr/sidebar-clamps-magnets-submenu-sidebar.php');
 
-	/* 7. Clamps Page Sidebar */
-  } elseif (is_page('clamps-overview')) {
-      include(TEMPLATEPATH . '/sidebar-templates/fr/sidebar-clamps-submenu.php');
+/* 7. Clamps Page Sidebar */
+} elseif (is_page('pinces-de-levage-et-de-poutre')) {
+    include(TEMPLATEPATH . '/sidebar-templates/fr/sidebar-clamps-submenu.php');
 
-  /* 8. Magnets Page Sidebar */
-  } elseif (is_page('magnets-overview')) {
-      include(TEMPLATEPATH . '/sidebar-templates/fr/sidebar-magnets-submenu.php');
+/* 8. Magnets Page Sidebar */
+} elseif (is_page('aimants')) {
+    include(TEMPLATEPATH . '/sidebar-templates/fr/sidebar-magnets-submenu.php');
 
-  /* Product FR Sidebar */
-	} elseif (is_page('Produits')) {
-    	include(TEMPLATEPATH . '/sidebar-templates/fr/sidebar-product.php');
+/* 9. Magnets for Lifting, Moving and Transferring Page Sidebar */
+} elseif (has_term('magnets-for-lifting-moving-and-transferring-fr')) {
+    include(TEMPLATEPATH . '/sidebar-templates/sidebar-magnets-for-lifting-moving-and-transferring.php');
 
-    /* Default Sidebar */
-	} else {
-      	include(TEMPLATEPATH . '/sidebar-templates/fr/sidebar-default.php');
-	}
+/* Product FR Sidebar */
+} elseif (is_page('Produits')) {
+    include(TEMPLATEPATH . '/sidebar-templates/fr/sidebar-product.php');
+
+/* Default Sidebar */
+} else {
+    include(TEMPLATEPATH . '/sidebar-templates/fr/sidebar-default.php');
+}
+
 ?>

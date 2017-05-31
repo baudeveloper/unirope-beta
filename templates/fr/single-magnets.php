@@ -11,8 +11,8 @@
   	<div id="primary-cat"><a href="/fr/produits/">Produits</a></div>
   	<div id="secondary-cat">
   		<ul>
-  			<li><a href="/fr/produits/below-the-hook/">Below the Hook</a></li>
-        <li><a href="/fr/produits/below-the-hook/magnets-overview/">Magnets</a></li>
+  			<li><a href="/fr/produits/sous-le-crochet/">Sous le Crochet</a></li>
+			<li><a href="/fr/produits/sous-le-crochet/aimants/">Aimants</a></li>
 		 	<li><?php the_title(); ?></li>
   		</ul>
 	</div>

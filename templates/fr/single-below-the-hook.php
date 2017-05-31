@@ -26,67 +26,67 @@
     <div id="secondary-cat">
       <ul>
         <!-- Main section - Grand Parent -->
-        <li><a href="/fr/produits/below-the-hook/">Below the Hook</a></li>
+        <li><a href="/fr/produits/sous-le-crochet/">Sous le Crochet</a></li>
 
         <!-- Below the Hook section - Parent -->
         <?php if ( has_term('strong-bac-fr', 'below-the-hook-type')) { ?>
-        <li><a href="/fr/produits/below-the-hook/strong-bac/">Strong-Bac</a></li><?php } ?>
+        <li><a href="/fr/produits/sous-le-crochet/strong-bac/">Strong-Bac</a></li><?php } ?>
         <?php if ( has_term('mill-duty-fr', 'below-the-hook-type')) { ?>
-        <li><a href="/fr/produits/below-the-hook/mill-duty/">Mill-Duty</a></li><?php } ?>
+        <li><a href="/fr/produits/sous-le-crochet/mill-duty/">Mill-Duty</a></li><?php } ?>
         <?php if ( has_term('rig-master-fr', 'below-the-hook-type')) { ?>
-        <li><a href="/fr/produits/below-the-hook/rig-master/">Rig-Master</a></li><?php } ?>
+        <li><a href="/fr/produits/sous-le-crochet/rig-master/">Rig-Master</a></li><?php } ?>
 
         <!-- Load Release Systems section - Sub Pages -->
         <?php if ( has_term('load-release-systems-fr', 'below-the-hook-type')) { ?>
-        <li><a href="/fr/produits/below-the-hook/automatic-remote-controlled-load-release-systems/">Load Release Systems</a></li><?php } ?>
+        <li><a href="/fr/produits/sous-le-crochet/automatic-remote-controlled-load-release-systems/">Load Release Systems</a></li><?php } ?>
 
         <!-- Mill Duty section - Sub Pages -->
         <?php if ( has_term('coil-handling-fr', 'below-the-hook-type')) { ?>
-        <li><a href="/fr/produits/below-the-hook/mill-duty/coil-handling/">Coil Handling</a></li><?php } ?>
+        <li><a href="/fr/produits/sous-le-crochet/mill-duty/coil-handling/">Coil Handling</a></li><?php } ?>
         <?php if ( has_term('ingot-and-slab-handling-fr', 'below-the-hook-type')) { ?>
-        <li><a href="/fr/produits/below-the-hook/mill-duty/ingot-and-slab-handling/">Ingot and Slab Handling</a></li><?php } ?>
+        <li><a href="/fr/produits/sous-le-crochet/mill-duty/ingot-and-slab-handling/">Ingot and Slab Handling</a></li><?php } ?>
         <?php if ( has_term('sheet-and-plate-handling-fr', 'below-the-hook-type')) { ?>
-        <li><a href="/fr/produits/below-the-hook/mill-duty/sheet-and-plate-handling/">Sheet and Plate Handling</a></li><?php } ?>
+        <li><a href="/fr/produits/sous-le-crochet/mill-duty/sheet-and-plate-handling/">Sheet and Plate Handling</a></li><?php } ?>
         <?php if ( has_term('lifting-beams-mill-duty-fr', 'below-the-hook-type')) { ?>
-        <li><a href="/fr/produits/below-the-hook/mill-duty/lifting-beams/">Lifting Beams</a></li><?php } ?>
+        <li><a href="/fr/produits/sous-le-crochet/mill-duty/lifting-beams/">Lifting Beams</a></li><?php } ?>
 
         <!-- Strong Bac section - Sub Pages -->
         <?php if ( has_term('dura-lite-composite-products-fr', 'below-the-hook-type')) { ?>
-        <li><a href="/fr/produits/below-the-hook/strong-bac/dura-lite-composite-products/">Dura-Lite™ Composite Products</a></li><?php } ?>
+        <li><a href="/fr/produits/sous-le-crochet/strong-bac/dura-lite-composite-products/">Dura-Lite™ Composite Products</a></li><?php } ?>
         <?php if ( has_term('lifting-beams-strong-bac-fr', 'below-the-hook-type')) { ?>
-        <li><a href="/fr/produits/below-the-hook/strong-bac/lifting-beams/">Lifting Beams</a></li><?php } ?>
+        <li><a href="/fr/produits/sous-le-crochet/strong-bac/lifting-beams/">Lifting Beams</a></li><?php } ?>
         <?php if ( has_term('spreader-beams-fr', 'below-the-hook-type')) { ?>
-        <li><a href="/fr/produits/below-the-hook/strong-bac/spreader-beams/">Spreader Beams</a></li><?php } ?>
+        <li><a href="/fr/produits/sous-le-crochet/strong-bac/spreader-beams/">Spreader Beams</a></li><?php } ?>
         <?php if ( has_term('roll-lifters-fr', 'below-the-hook-type')) { ?>
-        <li><a href="/fr/produits/below-the-hook/strong-bac/roll-lifters/">Roll Lifters</a></li><?php } ?>
+        <li><a href="/fr/produits/sous-le-crochet/strong-bac/roll-lifters/">Roll Lifters</a></li><?php } ?>
         <?php if ( has_term('coil-lifters-fr', 'below-the-hook-type')) { ?>
-        <li><a href="/fr/produits/below-the-hook/strong-bac/coil-lifters/">Coil Lifters</a></li><?php } ?>
+        <li><a href="/fr/produits/sous-le-crochet/strong-bac/coil-lifters/">Coil Lifters</a></li><?php } ?>
         <?php if ( has_term('sheet-lifters-fr', 'below-the-hook-type')) { ?>
-        <li><a href="/fr/produits/below-the-hook/strong-bac/sheet-lifters/">Sheet Lifters</a></li><?php } ?>
+        <li><a href="/fr/produits/sous-le-crochet/strong-bac/sheet-lifters/">Sheet Lifters</a></li><?php } ?>
         <?php if ( has_term('pallet-lifters-fr', 'below-the-hook-type')) { ?>
-        <li><a href="/fr/produits/below-the-hook/strong-bac/pallet-lifters/">Pallet Lifters</a></li><?php } ?>
+        <li><a href="/fr/produits/sous-le-crochet/strong-bac/pallet-lifters/">Pallet Lifters</a></li><?php } ?>
         <?php if ( has_term('lifting-tongs-fr', 'below-the-hook-type')) { ?>
-        <li><a href="/fr/produits/below-the-hook/strong-bac/lifting-tongs/">Lifting Tongs</a></li><?php } ?>
+        <li><a href="/fr/produits/sous-le-crochet/strong-bac/lifting-tongs/">Lifting Tongs</a></li><?php } ?>
         <?php if ( has_term('material-handling-fr', 'below-the-hook-type')) { ?>
-        <li><a href="/fr/produits/below-the-hook/strong-bac/material-handling/">Material Handling</a></li><?php } ?>
+        <li><a href="/fr/produits/sous-le-crochet/strong-bac/material-handling/">Material Handling</a></li><?php } ?>
 
         <!-- Rig Master section - Sub Pages -->
         <?php if ( has_term('concrete-grabs-tongs-fr', 'below-the-hook-type')) { ?>
-        <li><a href="/fr/produits/below-the-hook/rig-master/concrete-grabs-tongs/">Concrete Grabs and Tongs</a></li><?php } ?>
+        <li><a href="/fr/produits/sous-le-crochet/rig-master/concrete-grabs-tongs/">Concrete Grabs and Tongs</a></li><?php } ?>
         <?php if ( has_term('beam-girder-and-rail-grabs-fr', 'below-the-hook-type')) { ?>
-        <li><a href="/fr/produits/below-the-hook/rig-master/beam-girder-rail-grabs/">Beam, Girder and Rail Grabs</a></li><?php } ?>
+        <li><a href="/fr/produits/sous-le-crochet/rig-master/beam-girder-rail-grabs/">Beam, Girder and Rail Grabs</a></li><?php } ?>
         <?php if ( has_term('pipe-and-manhole-handling-fr', 'below-the-hook-type')) { ?>
-        <li><a href="/fr/produits/below-the-hook/rig-master/pipe-manhole-handling/">Pipe and Manhole Handling</a></li><?php } ?>
+        <li><a href="/fr/produits/sous-le-crochet/rig-master/pipe-manhole-handling/">Pipe and Manhole Handling</a></li><?php } ?>
         <?php if ( has_term('load-leveling-slings-fr', 'below-the-hook-type')) { ?>
-        <li><a href="/fr/produits/below-the-hook/rig-master/load-leveling-slings/">Load Leveling Slings</a></li><?php } ?>
+        <li><a href="/fr/produits/sous-le-crochet/rig-master/load-leveling-slings/">Load Leveling Slings</a></li><?php } ?>
         <?php if ( has_term('lifting-and-spreader-beams-fr', 'below-the-hook-type')) { ?>
-        <li><a href="/fr/produits/below-the-hook/rig-master/lifting-spreader-beams/">Lifting and Spreader Beams</a></li><?php } ?>
+        <li><a href="/fr/produits/sous-le-crochet/rig-master/lifting-spreader-beams/">Lifting and Spreader Beams</a></li><?php } ?>
         <?php if ( has_term('beam-end-fittings-fr', 'below-the-hook-type')) { ?>
-        <li><a href="/fr/produits/below-the-hook/rig-master/beam-end-fittings/">Beam End Fittings</a></li><?php } ?>
+        <li><a href="/fr/produits/sous-le-crochet/rig-master/beam-end-fittings/">Beam End Fittings</a></li><?php } ?>
         <?php if ( has_term('specialty-grabs-fr', 'below-the-hook-type')) { ?>
-        <li><a href="/fr/produits/below-the-hook/rig-master/specialty-grabs/">Specialty Grabs</a></li><?php } ?>
+        <li><a href="/fr/produits/sous-le-crochet/rig-master/specialty-grabs/">Specialty Grabs</a></li><?php } ?>
         <?php if ( has_term('synthetic-sling-end-fittings-fr', 'below-the-hook-type')) { ?>
-        <li><a href="/fr/produits/below-the-hook/rig-master/synthetic-sling-end-fittings/">Synthetic Sling End Fittings</a></li><?php } ?>
+        <li><a href="/fr/produits/sous-le-crochet/rig-master/synthetic-sling-end-fittings/">Synthetic Sling End Fittings</a></li><?php } ?>
 
         <li><?php the_title(); ?></li>
       </ul>

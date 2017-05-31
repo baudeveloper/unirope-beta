@@ -8,12 +8,11 @@
 ?>
 
 <div id="breadcrumbs-nav">
-  	<div id="primary-cat"><a href="/products/">Products</a></div>
+  	<div id="primary-cat"><a href="/fr/produits/">Produits</a></div>
   	<div id="secondary-cat">
   		<ul>
   			<li><a href="/fr/produits/sous-le-crochet/">Sous le Crochet</a></li>
-  			<li><a href="/fr/produits/sous-le-crochet/pinces-a-poutres-et-treuils/">Pinces à poutres et treuils</a></li>
-			<li><a href="/fr/produits/sous-le-crochet/pinces-a-poutres-et-treuils/beam-trolleys">Beam Trolleys</a></li>
+			<li><a href="/fr/produits/sous-le-crochet/aimants/">Aimants</a></li>
 		 	<li><?php the_title(); ?></li>
   		</ul>
 	</div>
@@ -27,7 +26,7 @@
 
   	<!--<?php get_sidebar(); ?>-->
   	<aside id="sidebar" class="equalize clearfix">
-  	<?php if (function_exists('dynamic_sidebar') && dynamic_sidebar('Beam Trolleys Sidebar')) : else : ?><?php endif; ?>
+  	<?php if (function_exists('dynamic_sidebar') && dynamic_sidebar('Magnets for Lifting Moving and Transferring Submenu Sidebar')) : else : ?><?php endif; ?>
   	</aside>
 
   	<section id="content">

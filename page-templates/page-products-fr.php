@@ -36,7 +36,7 @@
 <li><a href="#cables">Câbles</a></li>
 <li><a href="#slings">Élingues</a></li>
 <li><a href="#rigging_hardware">Accessoires de gréement</a></li>
-<li><a href="#below_the_hook">Below the Hook</a></li>
+<li><a href="#below_the_hook">Sous le Crochet</a></li>
 <li><a href="#atlas-copco">Outils D'assemblage Atlas Copco</a></li>
 </ul>
 </div>
@@ -126,28 +126,34 @@
             <table id="below_the_hook" class="category-thumbs" style="width: 100%;" cellspacing="0" cellpadding="0">
               <thead>
                 <tr>
-                  <th colspan="4">Below the Hook</th>
+                  <th colspan="4">Sous le Crochet</th>
                 </tr>
               </thead>
               <tbody>
                 <tr>
-                  <td style="padding-top:5px;"><a href="/fr/produits/below-the-hook/strong-bac"><img src="/wp-content/uploads/2015/09/Lifting_Beams_New_Bail_Style_Triangle_Beam.png" alt="" /><br />
+                  <td style="padding-top:5px;"><a href="/fr/produits/sous-le-crochet/strong-bac"><img src="/wp-content/uploads/2015/09/Lifting_Beams_New_Bail_Style_Triangle_Beam.png" alt="" /><br />
                     Strong-Bac</a></td>
-                  <td style="padding-top:5px;"><a href="/fr/produits/below-the-hook/mill-duty"><img src="/wp-content/uploads/2015/09/Coil_Handling.png" alt="" /><br />
+                  <td style="padding-top:5px;"><a href="/fr/produits/sous-le-crochet/mill-duty"><img src="/wp-content/uploads/2015/09/Coil_Handling.png" alt="" /><br />
                     Mill-Duty</a></td>
-                  <td style="padding-top:5px;"><a href="/fr/produits/below-the-hook/rig-master"><img src="/wp-content/uploads/2015/09/Concrete_Grabs_Tongs.png" alt="" /><br />
+                  <td style="padding-top:5px;"><a href="/fr/produits/sous-le-crochet/rig-master"><img src="/wp-content/uploads/2015/09/Concrete_Grabs_Tongs.png" alt="" /><br />
                   Rig-Master</a></td>
-                  <td><a href="/fr/produits/below-the-hook/clamps-overview/"><img src="/wp-content/themes/unirope/img/clamps_magnets_main_theme.jpg" alt="" /><br />
-                    Lifting and Beam Clamps</a></td>
+                  <td><a href="/fr/produits/sous-le-crochet/pinces-de-levage-et-de-poutre/"><img src="/wp-content/themes/unirope/img/clamps_magnets_main_theme.jpg" alt="" /><br />
+                    Pinces de levage et de poutre</a></td>
                 </tr>
                 <tr>
-									<td><a href="/fr/produits/below-the-hook/magnets-overview/"><img src="/wp-content/themes/unirope/img/product-images/clamps-magnets/clamps-thumb-65.jpg" alt="" /><br />
-                    Magnets</a></td>
-                  <td style="padding-top:5px;"><a href="/fr/produits/below-the-hook/load-monitoring-systems/"><img src="/wp-content/themes/unirope/img/crane_scales_main_thumb.jpg" alt="" /><br />
-                    Load Monitoring Systems</a></td>
-                  <td style="padding-top: 5px;"><a href="/fr/produits/below-the-hook/automatic-remote-controlled-load-release-systems/"><img src="/wp-content/themes/unirope/img/elebia-remote-controlled-autohook-thumb-1.png" alt=""><br>
-                    Automatic &amp; Remote Controlled Load Release Systems</a></td>
-                  <td class="empty"></td>
+									<td><a href="/fr/produits/sous-le-crochet/aimants/"><img src="/wp-content/themes/unirope/img/product-images/clamps-magnets/clamps-thumb-65.jpg" alt="" /><br />
+                    Aimants</a></td>
+                  <td style="padding-top: 5px;"><a href="/fr/produits/sous-le-crochet/pinces-a-poutres-et-treuils/"><img src="/wp-content/themes/unirope/img/thumbs/girder-thumb.jpg" alt=""><br>Pinces à poutres et treuils</a></td>
+                  <td style="padding-top: 5px;"><a href="/fr/produits/sous-le-crochet/palans-et-tireurs/"><img src="/wp-content/themes/unirope/img/hoists_pullers_main_thumb.jpg" alt=""><br>Palans et tireurs</a></td>
+                  <td style="padding-top:5px;"><a href="/fr/produits/sous-le-crochet/systemes-de-surveillance-de-charge/"><img src="/wp-content/themes/unirope/img/crane_scales_main_thumb.jpg" alt="" /><br />
+                    Systèmes de surveillance de charge</a></td>                                    
+                </tr>
+                <tr>
+									<td style="padding-top: 5px;"><a href="/fr/produits/sous-le-crochet/systemes-automatiques-et-a-distance-de-controle-de-charge-controlee/"><img src="/wp-content/themes/unirope/img/elebia-remote-controlled-autohook-thumb-1.png" alt=""><br>
+                    Systèmes automatiques et à distance de contrôle de charge contrôlée</a></td>
+									<td class="empty"></td>
+									<td class="empty"></td>
+									<td class="empty"></td>
                 </tr>
               </tbody>
             </table>

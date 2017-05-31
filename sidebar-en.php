@@ -219,33 +219,33 @@
 	  } elseif (is_page('Products')) {
           include(TEMPLATEPATH . '/sidebar-templates/sidebar-product.php');
 
-  /* 4. Load Release Systems Page Sidebar */
-  } elseif (is_page('auto-remote-load-release') || has_term( 'Load Release Systems', 'below-the-hook-type', $post->ID )) {
-      include(TEMPLATEPATH . '/sidebar-templates/sidebar-load-release-systems.php');
+    /* 4. Load Release Systems Page Sidebar */
+    } elseif (is_page('auto-remote-load-release') || has_term( 'Load Release Systems', 'below-the-hook-type', $post->ID )) {
+        include(TEMPLATEPATH . '/sidebar-templates/sidebar-load-release-systems.php');
 
-  /* 5. Load Monitoring Systems Page Sidebar */
-  } elseif (is_page('load-monitoring-systems') || has_term( 'Load Monitoring Systems', 'below-the-hook-type', $post->ID )) {
-      include(TEMPLATEPATH . '/sidebar-templates/sidebar-load-monitoring-systems-submenu-sidebar.php');
+    /* 5. Load Monitoring Systems Page Sidebar */
+    } elseif (is_page('load-monitoring-systems') || has_term( 'Load Monitoring Systems', 'below-the-hook-type', $post->ID )) {
+        include(TEMPLATEPATH . '/sidebar-templates/sidebar-load-monitoring-systems-submenu-sidebar.php');
 
-  /* 6. Clamps and Magnets Page Sidebar */
-  } elseif (is_page('clamps-magnets') || has_term( 'Clamps and Magnets', 'below-the-hook-type', $post->ID )) {
-      include(TEMPLATEPATH . '/sidebar-templates/sidebar-clamps-magnets-submenu-sidebar.php');
+    /* 6. Clamps and Magnets Page Sidebar */
+    } elseif (is_page('clamps-magnets') || has_term( 'Clamps and Magnets', 'below-the-hook-type', $post->ID )) {
+        include(TEMPLATEPATH . '/sidebar-templates/sidebar-clamps-magnets-submenu-sidebar.php');
 
-	/* 7. Clamps Page Sidebar */
-  } elseif (is_page('clamps-overview')) {
-      include(TEMPLATEPATH . '/sidebar-templates/sidebar-clamps-submenu.php');
+    /* 7. Clamps Page Sidebar */
+    } elseif (is_page('clamps-overview')) {
+        include(TEMPLATEPATH . '/sidebar-templates/sidebar-clamps-submenu.php');
 
-  /* 8. Magnets Page Sidebar */
-  } elseif (is_page('magnets-overview')) {
-      include(TEMPLATEPATH . '/sidebar-templates/sidebar-magnets-submenu.php');
+    /* 8. Magnets Page Sidebar */
+    } elseif (is_page('magnets-overview')) {
+        include(TEMPLATEPATH . '/sidebar-templates/sidebar-magnets-submenu.php');
 
-	/* 9. Magnets for Lifting, Moving and Transferring Page Sidebar */
-  } elseif (has_term('magnets-for-lifting-moving-and-transferring')) {
+    /* 9. Magnets for Lifting, Moving and Transferring Page Sidebar */
+    } elseif (has_term('magnets-for-lifting-moving-and-transferring')) {
       include(TEMPLATEPATH . '/sidebar-templates/sidebar-magnets-for-lifting-moving-and-transferring.php');
 
-  /* Default Sidebar */
-	} else {
-    	include(TEMPLATEPATH . '/sidebar-templates/sidebar-default.php');
-	}
+    /* Default Sidebar */
+    } else {
+        include(TEMPLATEPATH . '/sidebar-templates/sidebar-default.php');
+    }
 
 ?>

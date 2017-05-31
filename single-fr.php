@@ -114,6 +114,8 @@
 		include(TEMPLATEPATH . '/templates/fr/single-clamps.php');
 	} elseif (has_term( 'magnets-fr', 'below-the-hook-type', $post->ID)) {
 		include(TEMPLATEPATH . '/templates/fr/single-magnets.php');
+	} elseif (has_term( 'magnets-for-lifting-moving-and-transferring-fr', 'below-the-hook-type', $post->ID)) {
+		include(TEMPLATEPATH . '/templates/fr/single-magnets-for-lifting-moving-and-transferring.php');
 	} elseif (has_term( 'clamps-overview-fr', 'below-the-hook-type', $post->ID)) {
 		include(TEMPLATEPATH . '/templates/fr/single-clamps-overview.php');
 	} elseif (has_term( 'magnets-overview-fr', 'below-the-hook-type', $post->ID)) {

@@ -11,8 +11,8 @@
   	<div id="primary-cat"><a href="/fr/produits/">Produits</a></div>
   	<div id="secondary-cat">
   		<ul>
-  			<li><a href="/fr/produits/below-the-hook/">Below the Hook</a></li>
-  			<li><a href="/fr/produits/below-the-hook/girder-clamps-and-trolleys/">Girder Clamps and Trolleys</a></li>
+  			<li><a href="/fr/produits/sous-le-crochet/">Sous le Crochet</a></li>
+  			<li><a href="/fr/produits/sous-le-crochet/pinces-a-poutres-et-treuils/">Pinces à poutres et treuils</a></li>
   		  	<li><?php the_title(); ?></li>
   		</ul>
 	</div>

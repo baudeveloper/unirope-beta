@@ -184,7 +184,7 @@
 			<li><br>
 				<ul>
 					<?php if(ICL_LANGUAGE_CODE =='fr') {  ?>
-						<li><a href="/fr/produits/below-the-hook/" class="sub-cat">Below the Hook</a></li>
+						<li><a href="/fr/produits/sous-le-crochet/" class="sub-cat">Sous le Crochet</a></li>
 						<?php
 							$args = array(
 							  'sort_column'  => 'post_date',

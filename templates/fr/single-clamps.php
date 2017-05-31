@@ -11,8 +11,8 @@
   	<div id="primary-cat"><a href="/fr/produits/">Products</a></div>
   	<div id="secondary-cat">
   		<ul>
-  			<li><a href="/fr/produits/below-the-hook/">Below the Hook</a></li>
-        <li><a href="/fr/produits/below-the-hook/clamps-overview/">Lifting and Beam Clamps</a></li>
+  			<li><a href="/fr/produits/sous-le-crochet/">Sous le Crochet</a></li>
+			<li><a href="/fr/produits/sous-le-crochet/pinces-de-levage-et-de-poutre/">Pinces de levage et de poutre</a></li>
 		 	<li><?php the_title(); ?></li>
   		</ul>
 	</div>
