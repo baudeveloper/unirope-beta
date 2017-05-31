@@ -37,7 +37,7 @@
 <li><a href="#slings">Élingues</a></li>
 <li><a href="#rigging_hardware">Accessoires de gréement</a></li>
 <li><a href="#below_the_hook">Below the Hook</a></li>
-<li><a href="#atlas-copco">Atlas Copco Assembly Tools</a></li>
+<li><a href="#atlas-copco">Outils D'assemblage Atlas Copco</a></li>
 </ul>
 </div>
     <div id="featured-image" class="clearfix">
@@ -158,29 +158,29 @@
             <table id="atlas-copco" class="category-thumbs" style="width: 100%;" cellspacing="0" cellpadding="0">
               <thead>
                 <tr>
-                  <th colspan="4">Atlas Copco Assembly Tools</th>
+                  <th colspan="4">Outils D'assemblage Atlas Copco</th>
                 </tr>
               </thead>
               <tbody>
                 <tr>
-                  <td style="padding-top:5px;"><a href="http://www.atlascopco.ca/en-ca/itba/products/Assembly-tools/electric-assembly-tools" target="_blank"><img src="/wp-content/themes/unirope/img/atlas-thumbs/electric-assembly-tools-thumb.jpg" alt="Electric Assembly Tools" /><br />
-                    Electric Assembly Tools</a></td>
-                  <td style="padding-top:5px;"><a href="http://www.atlascopco.ca/en-ca/itba/products/Assembly-tools/Pneumatic-assembly-tools" target="_blank"><img src="/wp-content/themes/unirope/img/atlas-thumbs/pneumatic-assembly-tools-thumb.jpg" alt="Pneumatic Assembly Tools" /><br />
-                    Pneumatic Assembly Tools</a></td>
-                  <td style="padding-top:5px;"><a href="http://www.atlascopco.ca/en-ca/itba/products/assembly-solutions/Fixtured-assembly-solutions" target="_blank"><img src="/wp-content/themes/unirope/img/atlas-thumbs/fixtured-assembly-systems-thumb.jpg" alt="Fixtured Assembly Systems" /><br />
-										Fixtured Assembly Systems</a></td>
-                  <td><a href="http://www.atlascopco.ca/en-ca/itba/products/assembly-solutions/Error-proofing-solutions" target="_blank"><img src="/wp-content/themes/unirope/img/atlas-thumbs/error-proofing-solutions-thumb.jpg" alt="Error Proofing Solutions" /><br />
-										Error Proofing Solutions</a></td>
+                  <td style="padding-top:5px;"><a href="http://www.atlascopco.ca/en-ca/itba/products/Assembly-tools/electric-assembly-tools" target="_blank"><img src="/wp-content/themes/unirope/img/atlas-thumbs/electric-assembly-tools-thumb.jpg" alt="Outils d'assemblage électrique" /><br />
+                    Outils d'assemblage électrique</a></td>
+                  <td style="padding-top:5px;"><a href="http://www.atlascopco.ca/en-ca/itba/products/Assembly-tools/Pneumatic-assembly-tools" target="_blank"><img src="/wp-content/themes/unirope/img/atlas-thumbs/pneumatic-assembly-tools-thumb.jpg" alt="Outils d'assemblage pneumatique" /><br />
+                    Outils d'assemblage pneumatique</a></td>
+                  <td style="padding-top:5px;"><a href="http://www.atlascopco.ca/en-ca/itba/products/assembly-solutions/Fixtured-assembly-solutions" target="_blank"><img src="/wp-content/themes/unirope/img/atlas-thumbs/fixtured-assembly-systems-thumb.jpg" alt="Systèmes d'assemblage de fixations" /><br />
+										Systèmes d'assemblage de fixations</a></td>
+                  <td><a href="http://www.atlascopco.ca/en-ca/itba/products/assembly-solutions/Error-proofing-solutions" target="_blank"><img src="/wp-content/themes/unirope/img/atlas-thumbs/error-proofing-solutions-thumb.jpg" alt="Solutions d'épreuve d'erreur" /><br />
+										Solutions d'épreuve d'erreur</a></td>
                 </tr>
                 <tr>
-									<td style="padding-top:5px;"><a href="http://www.atlascopco.ca/en-ca/itba/products/Assembly-tools/Quality-assurance-in-tightening-and-fastening" target="_blank"><img src="/wp-content/themes/unirope/img/atlas-thumbs/quality-assurance-in-tightening-thumb.jpg" alt="Quality Assurance in Tightening" /><br />
-                    Quality Assurance in Tightening</a></td>
-                  <td style="padding-top:5px;"><a href="http://www.atlascopco.ca/en-ca/itba/products/assembly-solutions/Error-proofing-solutions/Socket-and-bit-selector" target="_blank"><img src="/wp-content/themes/unirope/img/atlas-thumbs/sockets-bits-thumb.jpg" alt="Socket and Bits" /><br />
-                    Socket and Bits</a></td>
-                  <td style="padding-top:5px;"><a href="http://www.atlascopco.ca/en-ca/itba/products/Assembly-tools/Workplace-solutions-automation" target="_blank"><img src="/wp-content/themes/unirope/img/atlas-thumbs/workplace-solutions-and-automation-thumb.jpg" alt="Workplace Solutions and Automation" /><br />
-										Workplace Solutions and Automation</a></td>
-                  <td><a href="http://www.atlascopco.ca/en-ca/itba/products/Sockets-bits/bit-holder-and-bits" target="_blank"><img src="/wp-content/themes/unirope/img/atlas-thumbs/bits-thumb.jpg" alt="Bits" /><br />
-										Bits</a></td>
+									<td style="padding-top:5px;"><a href="http://www.atlascopco.ca/en-ca/itba/products/Assembly-tools/Quality-assurance-in-tightening-and-fastening" target="_blank"><img src="/wp-content/themes/unirope/img/atlas-thumbs/quality-assurance-in-tightening-thumb.jpg" alt="Assurance de la qualité dans le serrage" /><br />
+                    Assurance de la qualité dans le serrage</a></td>
+                  <td style="padding-top:5px;"><a href="http://www.atlascopco.ca/en-ca/itba/products/assembly-solutions/Error-proofing-solutions/Socket-and-bit-selector" target="_blank"><img src="/wp-content/themes/unirope/img/atlas-thumbs/sockets-bits-thumb.jpg" alt="Douilles et embouts" /><br />
+                    Douilles et embouts</a></td>
+                  <td style="padding-top:5px;"><a href="http://www.atlascopco.ca/en-ca/itba/products/Assembly-tools/Workplace-solutions-automation" target="_blank"><img src="/wp-content/themes/unirope/img/atlas-thumbs/workplace-solutions-and-automation-thumb.jpg" alt="Solutions et automatisation sur le lieu de travail" /><br />
+										Solutions et automatisation sur le lieu de travail</a></td>
+                  <td><a href="http://www.atlascopco.ca/en-ca/itba/products/Sockets-bits/bit-holder-and-bits" target="_blank"><img src="/wp-content/themes/unirope/img/atlas-thumbs/bits-thumb.jpg" alt="Embouts" /><br />
+										Embouts</a></td>
                 </tr>
               </tbody>
             </table>
