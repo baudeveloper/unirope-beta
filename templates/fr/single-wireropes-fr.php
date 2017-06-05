@@ -28,7 +28,7 @@
   		<ul>
   			<li><a href="/fr/produits/cables/">Câbles</a></li>
   			<li><a href="/fr/produits/cables/centres-de-cable-de-grues/">Centres de câble de grues</a></li>
-  			<?php if ( has_term('crane-ropes-fr', 'rope-type')) { ?><li><a href="/fr/ropes/metric-overhead-crane-wire-ropes-fr/">Metric Overhead Crane Ropes</a></li><?php } ?>
+  			<?php if ( has_term('crane-ropes-fr', 'rope-type')) { ?><li><a href="/fr/cables/metric-overhead-crane-wire-ropes-fr/">Metric Overhead Crane Ropes</a></li><?php } ?>
   			<li><?php the_title(); ?></li>
   		</ul>
 	</div>
