@@ -1,690 +1,120 @@
-<?php if(ICL_LANGUAGE_CODE =='fr') {  ?>
-<div class="table-full scroll">
-  <table class="data" border="0" cellspacing="0" cellpadding="0" width="120%">
-    <thead>
-      <tr>
-        <th colspan="13"></th>
-      </tr>
-      <tr>
-        <th>&nbsp;</th>
-        <th>Strength</th>
-        <th>Elastic Elongation</th>
-        <th>Weight</th>
-        <th>Application Factor:1</th>
-        <th>UV Stability</th>
-        <th>Working Energy Absorption Capacity Ft. Lbs/Lb. Of Rope&thinsp;</th>
-        <th>Maximum Energy Absorption Capacity Ft. Lbs/Lb. Of Rope</th>
-        <th>Specific Gravity</th>
-        <th>Firmness<br />
-          1=Firm</th>
-        <th><strong>Spliceability         5=very easy</strong></th>
-        <th><strong>Dielectric Strength<br />
-MA Leakage<br />
-@60KV DC</strong></th>
-        <th><strong>Military Specification         Number</strong></th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><a href="/fr/ropes/pobon/">PoBOn</a></td>
-        <td>4.6</td>
-        <td>&lt;1.0</td>
-        <td>1.6</td>
-        <td>5</td>
-        <td>G</td>
-        <td>185</td>
-        <td>4,444</td>
-        <td>1.56</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td><a href="/fr/ropes/crystalyne/">Crystalyne</a></td>
-        <td>3.2</td>
-        <td>1.0</td>
-        <td>1.5</td>
-        <td>4</td>
-        <td>G</td>
-        <td>242</td>
-        <td>3,200</td>
-        <td>1.40</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td><a href="/fr/ropes/ultrex-plus/">Ultrex Plus</a></td>
-        <td>3.1</td>
-        <td>1.0</td>
-        <td>1.1</td>
-        <td>5</td>
-        <td>E</td>
-        <td>219</td>
-        <td>3,617</td>
-        <td>1.18</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td><a href="/fr/ropes/maxibraid-plus/">Maxibraid Plus</a></td>
-        <td>3.0</td>
-        <td>1.0</td>
-        <td>1.1</td>
-        <td>5</td>
-        <td>E</td>
-        <td>160</td>
-        <td>2,645</td>
-        <td>1.18</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td><a href="/fr/ropes/double-esterlon/">Double Esterlon</a></td>
-        <td>1.8</td>
-        <td>5.5</td>
-        <td>1.4</td>
-        <td>4</td>
-        <td>E</td>
-        <td>544</td>
-        <td>8,000</td>
-        <td>1.38</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td><a href="/fr/ropes/polydyne/">Polydyne</a></td>
-        <td>1.9</td>
-        <td>6.9</td>
-        <td>1.2</td>
-        <td>4</td>
-        <td>E</td>
-        <td>1,040</td>
-        <td>9,700</td>
-        <td>1.24</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td><a href="/fr/ropes/yalon/">Yalon</a></td>
-        <td>1.5</td>
-        <td>7.7</td>
-        <td>1.1</td>
-        <td>5</td>
-        <td>G</td>
-        <td>910</td>
-        <td>10,100</td>
-        <td>1.14</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td><a href="/fr/ropes/kernmaster/">Kernmaster</a></td>
-        <td>1.7</td>
-        <td>6.0</td>
-        <td>1.2</td>
-        <td>10</td>
-        <td>E</td>
-        <td>-</td>
-        <td>-</td>
-        <td>1.23</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td><a href="/fr/ropes/aracom-miniline/">Aramid Ropes</a></td>
-        <td>3.5</td>
-        <td>1.0</td>
-        <td>1.5</td>
-        <td>4</td>
-        <td>G</td>
-        <td>225</td>
-        <td>2,395</td>
-        <td>1.40</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td><a href="/fr/ropes/yalex/">Yalex</a></td>
-        <td>1.9</td>
-        <td>5.8</td>
-        <td>1.4</td>
-        <td>5</td>
-        <td>E</td>
-        <td>545</td>
-        <td>11,025</td>
-        <td>1.38</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td><a href="/fr/ropes/vectrus/">Vectrus</a></td>
-        <td>3.6</td>
-        <td>&lt;1.0</td>
-        <td>1.4</td>
-        <td>4</td>
-        <td>G</td>
-        <td>318</td>
-        <td>4,140</td>
-        <td>1.44</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td><a href="/fr/ropes/yale-poly-plus/">Poly Plus</a></td>
-        <td>1.1</td>
-        <td>6.8</td>
-        <td>1.0</td>
-        <td>5</td>
-        <td>F</td>
-        <td>440</td>
-        <td>10,110</td>
-        <td>1.25</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>T-Line</td>
-        <td>1.0</td>
-        <td>6.1</td>
-        <td>1.1</td>
-        <td>5</td>
-        <td>E</td>
-        <td>415</td>
-        <td>5,960</td>
-        <td>1.38</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>MIL-R-24536</td>
-      </tr>
-    </tbody>
-    <tfoot>
-      <tr>
-        <td colspan="13">
-        <div class="footnote">
-        <p><sup class="special">1</sup>&emsp;If used as a bull rope<br>
-            <sup class="special">2</sup>&emsp;Conforms to Canadian Spec. 40-GP-16M Type 3/MOT.-NATO Class 4020 Supp. 1972<br>
-            <sup class="special">3</sup>&emsp;Conforms to Canadian Spec 40-OP-16M Type 1/MOT-NATO Class 4020 Supp. 1972<br>
-            <sup class="special">4</sup>&emsp;Conforms to Canadian Spec. 40-GP-16M Type 2/MOT-NATO Class 4020 Supp. 1972</p>
-          </div></td>
-      </tr>
-    </tfoot>
-  </table>
-</div>
+<p>Over the past 10 years advancement in fiber technology and chemistry have created an entire new breed of 'high strength' fibers. Names like &#34;Spectra&#34;, &#34;Dyneema&#34;, &#34;Technora&#34;, &#34;Vectran&#34;, &#34;Dacron&#34;, &#34;Zylon&#34; PBO, and &#34;Kevlar&#34; became familiar within the fiber rope industry. Certainly, high strength fiber ropes are starting to be introduced into application formerly dominated by traditional steel wire ropes (e.g. elevator ropes, crane hoisting ropes).</p>
+<p>The advantages of fiber ropes are obvious: low weight, non-conductivity, easy and clean handling, non corrosive, to just name a few. Some rope may even require smaller drums and sheaves as compared to their 'steel' cousins. The drawback of UV degradation has been overcome by either compact overbraids or special coatings. However, some compelling arguments still persists and that is: ruggedness, abrasion-, cut-, and temperature resistance. These points dictate that fiber ropes shall be used in 'controlled' environments where these mechanics are either well understood or can be minimized.</p>
+<p>Fiber ropes have an incredible 'fatigue' life; far higher than ropes made from steel. The trick is to provide equipment which ensures that fiber rope can perform as intended. Depending on the application one can choose a fiber rope with a very high degree of 'energy absorption', commonly known as 'elongation', or fiber rope types which have a energy absorption similar to steel; that is very low elongation. In the 'steel world' we would classify this as the 'modulus of elasticity' however, synthetic fibers can not be quantified by sqinch of material, and as such the 'old steel' engineering terms can not be applied. The fiber rope community describes this as 'ft.lbs of energy absorption per lbs. of rope'. And for all of you who want to 'know' just go to our link <strong><a style="font-size: 1em" title="Engineering, Usage, Care, Inspection" href="/fr/produits/cables/cable-dacier/engineering-usage-care-inspection/">&#34;Engineering&#34;</a></strong> to get more info on that subject.</p>
 <div class="table-full">
-  <table class="data" border="0" cellspacing="0" cellpadding="0" width="100%">
-    <thead>
-      <tr>
-        <th colspan="8"></th>
-      </tr>
-      <tr>
-        <th>Fiber Comparison Data</th>
-        <th>Strength</th>
-        <th>Weight</th>
-        <th>Elastic Elongation</th>
-        <th>Water Absorption % @ 65%RH</th>
-        <th>Melt Point &deg;F</th>
-        <th>&nbsp;</th>
-        <th>Cost Ratio</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Nylon</td>
-        <td>1.00</td>
-        <td>1.00</td>
-        <td>1.0</td>
-        <td>1.14</td>
-        <td>4.0</td>
-        <td>460</td>
-        <td>1.0</td>
-      </tr>
-      <tr>
-        <td>Polyester</td>
-        <td>0.90 - 1.10</td>
-        <td>1.20</td>
-        <td>0.6</td>
-        <td>1.38</td>
-        <td>0.4</td>
-        <td>480</td>
-        <td>1.0+</td>
-      </tr>
-      <tr>
-        <td>Polypropylene</td>
-        <td>0.55</td>
-        <td>0.80</td>
-        <td>0.9</td>
-        <td>0.91</td>
-        <td>Neg</td>
-        <td>330</td>
-        <td>0.8</td>
-      </tr>
-      <tr>
-        <td>Polyethylene</td>
-        <td>0.55</td>
-        <td>0.83</td>
-        <td>0.6</td>
-        <td>0.95</td>
-        <td>Neg</td>
-        <td>280</td>
-        <td>0.8</td>
-      </tr>
-      <tr>
-        <td>Kevlar</td>
-        <td>2.70</td>
-        <td>1.26</td>
-        <td>0.1</td>
-        <td>1.44</td>
-        <td>7.5</td>
-        <td>800*</td>
-        <td>8.0</td>
-      </tr>
-      <tr>
-        <td>Vectran</td>
-        <td>3.80</td>
-        <td>1.26</td>
-        <td>0.1</td>
-        <td>1.44</td>
-        <td>Neg</td>
-        <td>620</td>
-        <td>22.0</td>
-      </tr>
-      <tr>
-        <td>Zylon PBO</td>
-        <td>5.40</td>
-        <td>1.40</td>
-        <td>&lt;0.1</td>
-        <td>1.56</td>
-        <td>0.6</td>
-        <td>1,200**</td>
-        <td>60.0</td>
-      </tr>
-      <tr>
-        <td>Manila</td>
-        <td>0.30</td>
-        <td>1.10</td>
-        <td>0.5</td>
-        <td>1.38</td>
-        <td>High</td>
-        <td>275*</td>
-        <td>0.9</td>
-      </tr>
-    </tbody>
-    <tfoot>
-      <tr>
-        <td colspan="8"><div class="footnote"><p>&nbsp;&nbsp;*&emsp;(Chars)<br>
-            **&emsp;Decomposition temperature</p>
-          </div></td>
-      </tr>
-    </tfoot>
-  </table>
+    <table id="double_braids" class="category-thumbs" style="width: 100%" cellspacing="0" cellpadding="0">
+        <thead>
+            <tr>
+                <th colspan="5">Double Braids</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>
+                    <a title="PoBOn™" href="/fr/cables/pobon/"><img src="/wp-content/themes/unirope/img/fr_PoBOn.jpg" alt="" width="134" height="100" /><br /> PoBOn™</a>
+                </td>
+                <td>
+                    <a title="Crystalyne™" href="/fr/cables/crystalyne/"><img src="/wp-content/themes/unirope/img/fr_crystalyne.jpg" alt="" width="134" height="100" /><br />                        Crystalyne™</a>
+                </td>
+                <td>
+                    <a title="Polydyne™" href="/fr/cables/polydyne/"><img src="/wp-content/themes/unirope/img/fr_polydyne.jpg" alt="" width="134" height="100" /><br /> Polydyne™</a>
+                </td>
+                <td>
+                    <a title="Ultrex Plus™" href="/fr/cables/ultrex-plus/"><img src="/wp-content/themes/unirope/img/fr_ultrex-plus.jpg" alt="" width="134" height="100" /><br />                        Ultrex Plus™</a>
+                </td>
+                <td>
+                    <a title="Maxibraid Plus™" href="/fr/cables/maxibraid-plus/"><img src="/wp-content/themes/unirope/img/fr_maxibraid-plus.jpg" alt="" width="134" height="100" /><br
+                        /> Maxibraid Plus™</a>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <a title="Yalon™" href="/fr/cables/yalon/"><img src="/wp-content/themes/unirope/img/fr_yalon.jpg" alt="" width="134" height="100" /><br /> Yalon™</a>
+                </td>
+                <td>
+                    <a title="Enduralon™" href="/fr/cables/enduralon/"><img src="/wp-content/themes/unirope/img/fr_enduralon.jpg" alt="" width="134" height="100" /><br /> Enduralon™</a>
+                </td>
+                <td>
+                    <a title="Double Esterlon™" href="/fr/cables/double-esterlon/"><img src="/wp-content/themes/unirope/img/fr_double-esterlon.jpg" alt="" width="134" height="100" /><br
+                        /> Double Esterlon™</a>
+                </td>
+                <td>
+                    <a title="Aracom T®" href="/fr/cables/aracom-t/"><img src="/wp-content/themes/unirope/img/fr_aracom-t.jpg" alt="" width="134" height="100" /><br /> Aracom
+                        T®</a>
+                </td>
+                <td>
+                    <a title="Aracom® Miniline®" href="/fr/cables/aracom-miniline/"><img src="/wp-content/themes/unirope/img/fr_aracom-miniline.jpg" alt="" width="134" height="100" /><br
+                        /> Aracom® Miniline®</a>
+                </td>
+            </tr>
+        </tbody>
+    </table>
 </div>
-
-<?php } else { ?>
-<div class="table-full scroll">
-  <table class="data" border="0" cellspacing="0" cellpadding="0" width="120%">
-    <thead>
-      <tr>
-        <th colspan="13"></th>
-      </tr>
-      <tr>
-        <th>&nbsp;</th>
-        <th>Strength</th>
-        <th>Elastic Elongation</th>
-        <th>Weight</th>
-        <th>Application Factor:1</th>
-        <th>UV Stability</th>
-        <th>Working Energy Absorption Capacity Ft. Lbs/Lb. Of Rope&thinsp;</th>
-        <th>Maximum Energy Absorption Capacity Ft. Lbs/Lb. Of Rope</th>
-        <th>Specific Gravity</th>
-        <th>Firmness<br />
-          1=Firm</th>
-        <th><strong>Spliceability         5=very easy</strong></th>
-        <th><strong>Dielectric Strength<br />
-MA Leakage<br />
-@60KV DC</strong></th>
-        <th><strong>Military Specification         Number</strong></th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><a href="/ropes/pobon/">PoBOn</a></td>
-        <td>4.6</td>
-        <td>&lt;1.0</td>
-        <td>1.6</td>
-        <td>5</td>
-        <td>G</td>
-        <td>185</td>
-        <td>4,444</td>
-        <td>1.56</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td><a href="/ropes/crystalyne/">Crystalyne</a></td>
-        <td>3.2</td>
-        <td>1.0</td>
-        <td>1.5</td>
-        <td>4</td>
-        <td>G</td>
-        <td>242</td>
-        <td>3,200</td>
-        <td>1.40</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td><a href="/ropes/ultrex-plus/">Ultrex Plus</a></td>
-        <td>3.1</td>
-        <td>1.0</td>
-        <td>1.1</td>
-        <td>5</td>
-        <td>E</td>
-        <td>219</td>
-        <td>3,617</td>
-        <td>1.18</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td><a href="/ropes/maxibraid-plus/">Maxibraid Plus</a></td>
-        <td>3.0</td>
-        <td>1.0</td>
-        <td>1.1</td>
-        <td>5</td>
-        <td>E</td>
-        <td>160</td>
-        <td>2,645</td>
-        <td>1.18</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td><a href="/ropes/double-esterlon/">Double Esterlon</a></td>
-        <td>1.8</td>
-        <td>5.5</td>
-        <td>1.4</td>
-        <td>4</td>
-        <td>E</td>
-        <td>544</td>
-        <td>8,000</td>
-        <td>1.38</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td><a href="/ropes/polydyne/">Polydyne</a></td>
-        <td>1.9</td>
-        <td>6.9</td>
-        <td>1.2</td>
-        <td>4</td>
-        <td>E</td>
-        <td>1,040</td>
-        <td>9,700</td>
-        <td>1.24</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td><a href="/ropes/yalon/">Yalon</a></td>
-        <td>1.5</td>
-        <td>7.7</td>
-        <td>1.1</td>
-        <td>5</td>
-        <td>G</td>
-        <td>910</td>
-        <td>10,100</td>
-        <td>1.14</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td><a href="/ropes/kernmaster/">Kernmaster</a></td>
-        <td>1.7</td>
-        <td>6.0</td>
-        <td>1.2</td>
-        <td>10</td>
-        <td>E</td>
-        <td>-</td>
-        <td>-</td>
-        <td>1.23</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td><a href="/ropes/aracom-miniline/">Aramid Ropes</a></td>
-        <td>3.5</td>
-        <td>1.0</td>
-        <td>1.5</td>
-        <td>4</td>
-        <td>G</td>
-        <td>225</td>
-        <td>2,395</td>
-        <td>1.40</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td><a href="/ropes/yalex/">Yalex</a></td>
-        <td>1.9</td>
-        <td>5.8</td>
-        <td>1.4</td>
-        <td>5</td>
-        <td>E</td>
-        <td>545</td>
-        <td>11,025</td>
-        <td>1.38</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td><a href="/ropes/vectrus/">Vectrus</a></td>
-        <td>3.6</td>
-        <td>&lt;1.0</td>
-        <td>1.4</td>
-        <td>4</td>
-        <td>G</td>
-        <td>318</td>
-        <td>4,140</td>
-        <td>1.44</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td><a href="/ropes/yale-poly-plus/">Poly Plus</a></td>
-        <td>1.1</td>
-        <td>6.8</td>
-        <td>1.0</td>
-        <td>5</td>
-        <td>F</td>
-        <td>440</td>
-        <td>10,110</td>
-        <td>1.25</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>T-Line</td>
-        <td>1.0</td>
-        <td>6.1</td>
-        <td>1.1</td>
-        <td>5</td>
-        <td>E</td>
-        <td>415</td>
-        <td>5,960</td>
-        <td>1.38</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>MIL-R-24536</td>
-      </tr>
-    </tbody>
-    <tfoot>
-      <tr>
-        <td colspan="13">
-        <div class="footnote">
-        <p><sup class="special">1</sup>&emsp;If used as a bull rope<br>
-            <sup class="special">2</sup>&emsp;Conforms to Canadian Spec. 40-GP-16M Type 3/MOT.-NATO Class 4020 Supp. 1972<br>
-            <sup class="special">3</sup>&emsp;Conforms to Canadian Spec 40-OP-16M Type 1/MOT-NATO Class 4020 Supp. 1972<br>
-            <sup class="special">4</sup>&emsp;Conforms to Canadian Spec. 40-GP-16M Type 2/MOT-NATO Class 4020 Supp. 1972</p>
-          </div></td>
-      </tr>
-    </tfoot>
-  </table>
+<div class="table-3">
+    <table id="single_braids" class="category-thumbs" style="width: 100%" cellspacing="0" cellpadding="0">
+        <thead>
+            <tr>
+                <th colspan="3">Single Braids</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>
+                    <a title="Yalex™" href="/fr/cables/yalex/"><img src="/wp-content/themes/unirope/img/fr_yalex.jpg" alt="" width="134" height="100" /><br /> Yalex™</a>
+                </td>
+                <td>
+                    <a title="Vectrus™" href="/fr/cables/vectrus/"><img src="/wp-content/themes/unirope/img/fr_vectrus_ultrex.jpg" alt="" width="134" height="100" /><br
+                        /> Vectrus™</a>
+                </td>
+                <td>
+                    <a title="Yale Poly Plus™" href="/fr/cables/yale-poly-plus/"><img src="/wp-content/themes/unirope/img/fr_yale-poly-plus.jpg" alt="" width="134" height="100" /><br
+                        /> Yale Poly Plus™</a>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <a title="Maxibraid™" href="/fr/cables/maxibraid/"><img src="/wp-content/themes/unirope/img/fr_maxibraid.jpg" alt="" width="134" height="100" /><br /> Maxibraid™</a>
+                </td>
+                <td>
+                    <a title="Ultrex™" href="/fr/cables/ultrex/"><img src="/wp-content/themes/unirope/img/fr_vectrus_ultrex.jpg" alt="" width="134" height="100" /><br
+                        /> Ultrex™</a>
+                </td>
+                <td>
+                    <a title="Aracom® 100" href="/fr/cables/aracom-100/"><img src="/wp-content/themes/unirope/img/fr_aracom-100.jpg" alt="" width="134" height="100" /><br />                        Aracom® 100</a>
+                </td>
+            </tr>
+        </tbody>
+    </table>
 </div>
-<div class="table-full">
-  <table class="data" border="0" cellspacing="0" cellpadding="0" width="100%">
-    <thead>
-      <tr>
-        <th colspan="8"></th>
-      </tr>
-      <tr>
-        <th>Fiber Comparison Data</th>
-        <th>Strength</th>
-        <th>Weight</th>
-        <th>Elastic Elongation</th>
-        <th>Water Absorption % @ 65%RH</th>
-        <th>Melt Point &deg;F</th>
-        <th>&nbsp;</th>
-        <th>Cost Ratio</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Nylon</td>
-        <td>1.00</td>
-        <td>1.00</td>
-        <td>1.0</td>
-        <td>1.14</td>
-        <td>4.0</td>
-        <td>460</td>
-        <td>1.0</td>
-      </tr>
-      <tr>
-        <td>Polyester</td>
-        <td>0.90 - 1.10</td>
-        <td>1.20</td>
-        <td>0.6</td>
-        <td>1.38</td>
-        <td>0.4</td>
-        <td>480</td>
-        <td>1.0+</td>
-      </tr>
-      <tr>
-        <td>Polypropylene</td>
-        <td>0.55</td>
-        <td>0.80</td>
-        <td>0.9</td>
-        <td>0.91</td>
-        <td>Neg</td>
-        <td>330</td>
-        <td>0.8</td>
-      </tr>
-      <tr>
-        <td>Polyethylene</td>
-        <td>0.55</td>
-        <td>0.83</td>
-        <td>0.6</td>
-        <td>0.95</td>
-        <td>Neg</td>
-        <td>280</td>
-        <td>0.8</td>
-      </tr>
-      <tr>
-        <td>Kevlar</td>
-        <td>2.70</td>
-        <td>1.26</td>
-        <td>0.1</td>
-        <td>1.44</td>
-        <td>7.5</td>
-        <td>800*</td>
-        <td>8.0</td>
-      </tr>
-      <tr>
-        <td>Vectran</td>
-        <td>3.80</td>
-        <td>1.26</td>
-        <td>0.1</td>
-        <td>1.44</td>
-        <td>Neg</td>
-        <td>620</td>
-        <td>22.0</td>
-      </tr>
-      <tr>
-        <td>Zylon PBO</td>
-        <td>5.40</td>
-        <td>1.40</td>
-        <td>&lt;0.1</td>
-        <td>1.56</td>
-        <td>0.6</td>
-        <td>1,200**</td>
-        <td>60.0</td>
-      </tr>
-      <tr>
-        <td>Manila</td>
-        <td>0.30</td>
-        <td>1.10</td>
-        <td>0.5</td>
-        <td>1.38</td>
-        <td>High</td>
-        <td>275*</td>
-        <td>0.9</td>
-      </tr>
-    </tbody>
-    <tfoot>
-      <tr>
-        <td colspan="8"><div class="footnote"><p>&nbsp;&nbsp;*&emsp;(Chars)<br>
-            **&emsp;Decomposition temperature</p>
-          </div></td>
-      </tr>
-    </tfoot>
-  </table>
+<div class="table-2">
+    <table id="plaited" class="category-thumbs" style="width: 100%" cellspacing="0" cellpadding="0">
+        <thead>
+            <tr>
+                <th colspan="2">Plaited</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td colspan="2">
+                    <a title="Nylon Brait™" href="/fr/cables/nylon-brait/"><img src="/wp-content/themes/unirope/img/fr_nylon-brait.jpg" alt="" width="268" height="100" /><br />                        Nylon Brait™</a>
+                </td>
+            </tr>
+        </tbody>
+    </table>
 </div>
-<?php } ?>
+<div class="table-2">
+    <table id="kernmantle" class="category-thumbs" style="width: 100%" cellspacing="0" cellpadding="0">
+        <thead>
+            <tr>
+                <th colspan="2">Kernmantle</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td colspan="2">
+                    <a title="Kernmaster" href="/fr/cables/kernmaster/"><img src="/wp-content/themes/unirope/img/fr_kernmaster.jpg" alt="" width="268" height="100" /><br />                        Kernmaster</a>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
