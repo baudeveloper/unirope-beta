@@ -46,7 +46,7 @@
 	<div id="page-nav" class="clearfix">
   				<!-- <a href="#">← Return to previous page</a> -->
   				<ul class="details-nav">
-  					<?php if ( has_term('crane-ropes-fr', 'rope-type')) { ?><li><a style="color:#960000;" href="/fr/ropes/metric-overhead-crane-wire-ropes-fr/">&larr; Back to Metric Overhead Crane Ropes</a></li><?php } ?>
+  					<?php if ( has_term('crane-ropes-fr', 'rope-type')) { ?><li><a style="color:#960000;" href="/fr/cables/metric-overhead-crane-wire-ropes-fr/">&larr; Back to Metric Overhead Crane Ropes</a></li><?php } ?>
   					<?php if ($mainapp != "") { ?><li><a href="#main-applications">Main Applications</a></li><?php } ?>
   					<?php if ($ropechar != "") { ?><li><a href="#rope-characteristics">Rope Characteristics</a></li><?php } ?>
   					<?php if ($std != "") { ?><li><a href="#standard">Standard</a></li><?php } ?>
