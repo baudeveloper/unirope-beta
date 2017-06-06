@@ -35,7 +35,7 @@
 <ul class="details-nav">
 <li><a href="#cables">Câbles</a></li>
 <li><a href="#slings">Élingues</a></li>
-<li><a href="#rigging_hardware">Accessoires de gréement</a></li>
+<li><a href="#rigging_hardware">Quincaillerie de Gréage</a></li>
 <li><a href="#below_the_hook">Sous le Crochet</a></li>
 <li><a href="#atlas-copco">Outils D'assemblage Atlas Copco</a></li>
 </ul>
@@ -100,23 +100,37 @@
             <table id="rigging_hardware" class="category-thumbs" style="width: 100%;" cellspacing="0" cellpadding="0">
               <thead>
                 <tr>
-                  <th colspan="4">Accessoires de gréement</th>
+                  <th colspan="4">Quincaillerie de Gréage</th>
                 </tr>
               </thead>
               <tbody>
                 <tr>
-                  <td><a href="/fr/produits/rigging-hardware/shackles-hooks/"><img src="/wp-content/themes/unirope/img/shackles_hooks_main_thumb.jpg" alt="" /><br />
+                  <td><a href="/fr/produits/quincaillerie-de-greage/rud/"><img src="/wp-content/themes/unirope/img/product-images/rud/products/starpoint-vrs-metric-thread.gif" alt="" /><br />
+                    RUD point<br>d’ancrage de<br>levage et d’arrimage</a></td>
+                  <td><a href="/fr/produits/quincaillerie-de-greage/manilles-et-crochet/"><img src="/wp-content/themes/unirope/img/shackles_hooks_main_thumb.jpg" alt="" /><br />
                     Manilles & Crochets</a></td>
-                  <td><a href="/fr/produits/rigging-hardware/cable-clips/"><img src="/wp-content/themes/unirope/img/cable_clips_main_thumb.jpg" alt="" /><br />
-                    Serre-câbles</a></td>
-
-                  <td><a href="/fr/produits/rigging-hardware/load-positioning-swivels-and-lifting-eyes/"><img src="/wp-content/themes/unirope/img/load_positioning_swivels_main_thumb.jpg" alt="" /><br />
-                    Émerillons de <br/>positionnement de charge and Lifting Eyes</a></td>
+                  <td><a href="/fr/produits/quincaillerie-de-greage/cosses-protecteur-de-coin/"><img src="/wp-content/themes/unirope/img/thimble_corner_protector_main_thumb.jpg" alt="" /><br />
+                    Cosses &<br>Protecteur de coin</a></td>                  
+                  <td><a href="/fr/produits/quincaillerie-de-greage/serre-cables/"><img src="/wp-content/themes/unirope/img/cable_clips_main_thumb.jpg" alt="" /><br />
+                    Serre-câbles</a></td>                  
                 </tr>
-								<tr>
-									<td><a href="/fr/produits/rigging-hardware/eye-bolts-hoist-rings/"><img src="/wp-content/themes/unirope/img/eye_bolts_hoist_rings_main_thumb.jpg" alt="" /><br />
-	                    Pitons à œil & Anneaux <br/>de levage articulés</a></td>
-								</tr>
+                <tr>
+                  <td><a href="/fr/produits/quincaillerie-de-greage/emerillons-de-positionnement-de-charge-et-oeil-de-levage/"><img src="/wp-content/themes/unirope/img/load_positioning_swivels_main_thumb.jpg" alt="" /><br />
+                    Émerillons de<br>positionnement de charge<br>et œil de levage</a></td>
+                  <td><a href="/fr/produits/quincaillerie-de-greage/tendeurs/"><img src="/wp-content/uploads/2012/05/rigging-turnbuckles-main-thumb.jpg" alt="Tendeurs" /><br />Tendeurs</a></td>
+                  <td><a href="/fr/produits/quincaillerie-de-greage/pitons-a-oeil-et-anneaux-de-levage-articule/"><img src="/wp-content/themes/unirope/img/eye_bolts_hoist_rings_main_thumb.jpg" alt="" /><br />
+                    Pitons à œil et<br>Anneaux de<br>levage articulé</a></td>
+                  <td><a href="/fr/produits/quincaillerie-de-greage/coupe-cable-et-pinces-a-sertir/"><img src="/wp-content/themes/unirope/img/rope_cutters_hand_swagers_main_thumb.jpg" alt="" /><br />
+                    Coupe-câble et<br>pinces à sertir</a></td>
+                </tr>
+								<tr>					
+                  <td><a href="/fr/produits/quincaillerie-de-greage/securisation-de-charge/"><img src="/wp-content/themes/unirope/img/load_securement_main_thumb.jpg" alt="" /><br />
+                    Sécurisation de charge</a></td>				
+                  <td><a href="/fr/produits/quincaillerie-de-greage/produits-specifiques-a-lutilite/"><img src="/wp-content/themes/unirope/img/utility_specific_products_main_thumb.jpg" alt="" /><br />
+                    Produits spécifiques<br />à l’utilité</a></td>
+                  <td><a href="/fr/produits/quincaillerie-de-greage/blocs-mckissick-137k-pdf/"><img src="/wp-content/themes/unirope/img/mckissick_blocks_main_thumb.jpg" alt="" /><br />
+                Blocs McKissick <br />(137k pdf)</a></td>
+								</tr>                
               </tbody>
             </table>
           </div>

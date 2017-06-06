@@ -11,8 +11,8 @@
   	<div id="primary-cat"><a href="/fr/produits/">Produits</a></div> 
   	<div id="secondary-cat">
   		<ul>
-  			<li><a href="/fr/produits/rigging-hardware/">Accessoires de gréement</a></li>
-  			<li><a href="/fr/produits/rigging-hardware/cable-clips/">Serre-câbles</a></li>
+  			<li><a href="/fr/produits/quincaillerie-de-greage/">Quincaillerie de Gréage</a></li>
+  			<li><a href="/fr/produits/quincaillerie-de-greage/serre-cables/">Serre-câbles</a></li>
   		  	<li><?php the_title(); ?></li>
   		</ul>
 	</div>

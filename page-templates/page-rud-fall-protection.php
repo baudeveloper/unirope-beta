@@ -51,6 +51,7 @@
     <div id="details" class="page-shadow">
       <section class="details-full">
         <div class="entry">
+<?php if(ICL_LANGUAGE_CODE =='fr') {  ?>
          <p>The PSA-Fall Protection Anchorage Points PSA-VRS (STAR-POINT) and PSA-INOX-STAR are not lifting <br />
 points of the traditional type. According to the assembly, they are used as fixing points. That means that <br />
 they can be used for personnel protection equipments (PSA).</p>
@@ -59,8 +60,49 @@ The PSA-Fall Protection Anchorage Points have been certified successfully by the
 Insurance Association and the Building Industry (BG Bau).</p>
     <p>The components correspond to the European Directive for &ldquo;personnel protection equipment&rdquo; (89/686/EWG) <br />
 and are marked with the CE-Stamp as well as with the number of persons (1 or 2 persons) which can be carried.</p>
-         
-          
+          <!-- PSA INOX-STAR -->
+          <div class="table-2">
+            <table id="psa_inox_star" class="category-thumbs" style="width: 100%;" cellspacing="0" cellpadding="0">
+              <thead>
+                <tr>
+                  <th>PSA INOX-STAR</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td><a href="/fr/quincaillerie-de-greage/psa-inox-star/"><img src="/wp-content/themes/unirope/img/product-images/rud/products/psa-inox-star.gif" alt="" /><br />
+                    PSA INOX-STAR</a></td>
+                </tr>
+              </tbody>
+            </table>
+          </div>          
+          <!-- PSA STARPOINT -->
+          <div class="table-2">
+            <table id="psa_starpoint" class="category-thumbs" style="width: 100%;" cellspacing="0" cellpadding="0">
+              <thead>
+                <tr>
+                  <th colspan="2">PSA STARPOINT</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td><a href="/fr/quincaillerie-de-greage/psa-starpoint-metric-thread/"><img src="/wp-content/themes/unirope/img/product-images/rud/products/psa-starpoint-metric.gif" alt="" /><br />
+                    PSA STARPOINT<br>Metric Thread</a></td>
+                  <td><a href="/fr/quincaillerie-de-greage/psa-starpoint-unc-thread/"><img src="/wp-content/themes/unirope/img/product-images/rud/products/psa-starpoint-metric.gif" alt="" /><br />
+                    PSA STARPOINT<br>UNC Thread</a></td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        <?php } else { ?>
+        <p>The PSA-Fall Protection Anchorage Points PSA-VRS (STAR-POINT) and PSA-INOX-STAR are not lifting <br />
+points of the traditional type. According to the assembly, they are used as fixing points. That means that <br />
+they can be used for personnel protection equipments (PSA).</p>
+    <p>These fixing points can also be fixed permanently on a structure to lift personnel protection equipment. <br />
+The PSA-Fall Protection Anchorage Points have been certified successfully by the Employers Liability <br />
+Insurance Association and the Building Industry (BG Bau).</p>
+    <p>The components correspond to the European Directive for &ldquo;personnel protection equipment&rdquo; (89/686/EWG) <br />
+and are marked with the CE-Stamp as well as with the number of persons (1 or 2 persons) which can be carried.</p>
           <!-- PSA INOX-STAR -->
           <div class="table-2">
             <table id="psa_inox_star" class="category-thumbs" style="width: 100%;" cellspacing="0" cellpadding="0">
@@ -76,8 +118,7 @@ and are marked with the CE-Stamp as well as with the number of persons (1 or 2 p
                 </tr>
               </tbody>
             </table>
-          </div>
-          
+          </div>          
           <!-- PSA STARPOINT -->
           <div class="table-2">
             <table id="psa_starpoint" class="category-thumbs" style="width: 100%;" cellspacing="0" cellpadding="0">
@@ -96,8 +137,7 @@ and are marked with the CE-Stamp as well as with the number of persons (1 or 2 p
               </tbody>
             </table>
           </div>
-        
-          
+        <?php } ?>          
         </div>
       </section>
     </div>

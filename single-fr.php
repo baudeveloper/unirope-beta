@@ -108,6 +108,22 @@
 		include(TEMPLATEPATH . '/templates/fr/single-beam-clamps.php');
 	} elseif (has_term( 'beam-trolleys-fr', 'below-the-hook-type', $post->ID)) {
 		include(TEMPLATEPATH . '/templates/fr/single-beam-trolleys.php');
+	} elseif (has_term( 'load-securement-fr', 'rigging-hardware-type', $post->ID)) {
+		include(TEMPLATEPATH . '/templates/fr/single-load-securement.php');
+	} elseif (has_term( 'utility-specific-products-fr', 'rigging-hardware-type', $post->ID)) {
+		include(TEMPLATEPATH . '/templates/fr/single-utility-specific-products.php');
+	} elseif (has_term( 'thimbles-corner-protectors-fr', 'rigging-hardware-type', $post->ID)) {
+		include(TEMPLATEPATH . '/templates/fr/single-thimbles-corner-protectors.php');
+	} elseif (has_term( 'rope-cutters-and-hand-swagers-fr', 'rigging-hardware-type', $post->ID)) {
+		include(TEMPLATEPATH . '/templates/fr/single-rope-cutters-and-hand-swagers.php');
+	} elseif (has_term( 'fall-protection-anchorage-points-fr', 'rigging-hardware-type', $post->ID)) {
+		include(TEMPLATEPATH . '/templates/fr/single-rud-fall-protection.php');
+	} elseif (has_term( 'Lifting Points for Welding', 'rigging-hardware-type', $post->ID)) {
+		include(TEMPLATEPATH . '/templates/fr/single-rud-lifting-points-welding.php');
+	} elseif (has_term( 'Lifting Points for Bolting', 'rigging-hardware-type', $post->ID)) {
+		include(TEMPLATEPATH . '/templates/fr/single-rud-lifting-points-bolting.php');
+	} elseif (has_term( 'manilles-et-crochet', 'rigging-hardware-type', $post->ID)) {
+		include(TEMPLATEPATH . '/templates/fr/single-shackles-hooks.php');
 	} elseif (has_term( 'clamps-and-magnets-fr', 'below-the-hook-type', $post->ID)) {
 		include(TEMPLATEPATH . '/templates/fr/single-clamps-magnets.php');
 	} elseif (has_term( 'clamps-fr', 'below-the-hook-type', $post->ID)) {

@@ -88,6 +88,14 @@
 	} elseif (is_page(array('cable-dacier','coatings','engineering-usage-care-inspection')) || has_term( 'Fiber Ropes', 'rope-type', $post->ID)) {
       	include(TEMPLATEPATH . '/sidebar-templates/fr/sidebar-fiber-ropes.php');
 
+    /* RUD Main Menu Sidebar */
+    } elseif (is_page('lifting-points-for-bolting') || is_page('lifting-points-for-welding') || is_page('fall-protection-anchorage-points-psa')) {
+      	include(TEMPLATEPATH . '/sidebar-templates/sidebar-rud.php');
+
+    /* RUD Sub Menu Sidebar */
+    } elseif (has_term('rud-fr', 'rigging-hardware-type', $post->ID)) {
+      	include(TEMPLATEPATH . '/sidebar-templates/fr/sidebar-rud-submenu.php');
+
       /* Below the Hooks Page Sidebar */
     } elseif (is_page('sous-le-crochet') || has_term( 'Below the Hook', 'below-the-hook-type', $post->ID )) {
         include(TEMPLATEPATH . '/sidebar-templates/fr/sidebar-below-the-hook.php');

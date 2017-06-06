@@ -151,7 +151,7 @@
 			<li><br>
 				<ul>
 					<?php if(ICL_LANGUAGE_CODE =='fr') {  ?>
-						<li><a href="/fr/produits/rigging-hardware/" class="sub-cat">Accessoires de gréement</a></li>
+						<li><a href="/fr/produits/quincaillerie-de-greage/" class="sub-cat">Quincaillerie de Gréage</a></li>
 						<?php
 							$args = array(
 							  'sort_column'  => 'post_date',

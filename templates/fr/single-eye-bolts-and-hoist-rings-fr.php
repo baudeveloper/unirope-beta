@@ -11,8 +11,8 @@
   	<div id="primary-cat"><a href="/fr/produits/">Produits</a></div> 
   	<div id="secondary-cat">
   		<ul>
-  			<li><a href="/fr/produits/rigging-hardware/">Accessoires de gréement</a></li>
-  			<li><a href="/fr/produits/rigging-hardware/eye-bolts-hoist-rings/">Pitons à œil et Anneaux de levage articulés</a></li>
+  			<li><a href="/fr/produits/quincaillerie-de-greage/">Quincaillerie de Gréage</a></li>
+  			<li><a href="/fr/produits/quincaillerie-de-greage/pitons-a-oeil-et-anneaux-de-levage-articule/">Pitons à œil et Anneaux de levage articulé</a></li>
   		  	<li><?php the_title(); ?></li>
   		</ul>
 	</div>

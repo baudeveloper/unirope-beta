@@ -123,8 +123,6 @@
                     Eye Bolts<br />and Hoist Rings</a></td>
                   <td><a href="/products/rigging-hardware/rope-cutters-hand-sawgers/"><img src="/wp-content/themes/unirope/img/rope_cutters_hand_swagers_main_thumb.jpg" alt="" /><br />
                     Rope Cutters<br />and Hand Swagers</a></td>
-                  <!-- <td class="empty"></td> -->
-
                 </tr>
                 <tr>
 									<td><a href="/products/rigging-hardware/load-securement/"><img src="/wp-content/themes/unirope/img/load_securement_main_thumb.jpg" alt="" /><br />
