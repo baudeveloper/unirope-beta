@@ -8,11 +8,11 @@
 ?>
 
 <div id="breadcrumbs-nav">
-  	<div id="primary-cat"><a href="/products/">Products</a></div>
+  	<div id="primary-cat"><a href="/fr/produits/">Produits</a></div>
   	<div id="secondary-cat">
   		<ul>
-  			<li><a href="/fr/produits/rigging-hardware/">Accessoires de gréement</a></li>
-  			<li><a href="/fr/produits/rigging-hardware/tendeurs/">Tendeurs</a></li>
+  			<li><a href="/fr/produits/quincaillerie-de-greage/">Quincaillerie de Gréage</a></li>
+  			<li><a href="/fr/produits/quincaillerie-de-greage/tendeurs/">Tendeurs</a></li>
   		  	<li><?php the_title(); ?></li>
   		</ul>
 	</div>

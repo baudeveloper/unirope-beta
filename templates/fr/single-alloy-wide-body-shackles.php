@@ -12,7 +12,7 @@
   	<div id="secondary-cat">
   		<ul>
   			<li><a href="/fr/produits/quincaillerie-de-greage/">Quincaillerie de Gréage</a></li>
-  			<li><a href="/fr/produits/quincaillerie-de-greage/shackles-hooks/">Manilles & Crochets</a></li>
+  			<li><a href="/fr/produits/quincaillerie-de-greage/manilles-et-crochet/">Manilles & Crochets</a></li>
 			<li><a href="/fr/quincaillerie-de-greage/alloy-wide-body-shackles/">Alloy Wide Body Shackles</a></li>
   		  	<li><?php the_title(); ?></li>
   		</ul>
