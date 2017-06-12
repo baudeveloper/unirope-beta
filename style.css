@@ -4061,11 +4061,11 @@ a.btn-clamps-magnets:hover {
 
 /* FIELDID Styles - FR */
 
-.postid-7246 #featured-image h1 span:first-of-type,
+.postid-7246 #featured-image h1 span:last-of-type,
 .page-id-12151 #featured-image h1 span:last-of-type {
 	color: #960000;
 }
-.postid-7246 #featured-image h1 span:last-of-type,
+.postid-7246 #featured-image h1 span:first-of-type,
 .page-id-12151 #featured-image h1 span:first-of-type {
 	color: #000;
 }

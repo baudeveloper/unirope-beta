@@ -5,7 +5,7 @@
           <ul>
             <li><a href="/fr/produits/elingues/">Élingues</a></li>
             <li><a href="/fr/produits/elingues/elingues-de-chaine/">Élingues de chaîne et métalliques</a></li>
-            <li><a href="/fr/sling/types-de-elingues/">Types de Élingues</a></li>
+            <li><a href="/fr/sling/chain-sling-types/">Chain Sling Types</a></li>
             <li>Three Leg Grade 80</li>
           </ul>
         </div>
