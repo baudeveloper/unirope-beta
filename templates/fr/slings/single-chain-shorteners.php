@@ -13,7 +13,7 @@
   		<ul>
   			<li><a href="/fr/produits/elingues/">&Eacute;lingues</a></li>
   			<li><a href="/fr/produits/elingues/chain-wire-mesh-slings/">Éli­­­­­ngues de chaîne et élingues métalliques</a></li>
-  			<li><a href="/fr/sling/chain-shorteners/">Chain Shorteners</a></li>
+  			<li><a href="/fr/elingue/chain-shorteners/">Chain Shorteners</a></li>
   		  	<li><?php the_title(); ?></li>
   		</ul>
 	</div>

@@ -12,7 +12,7 @@
   	<div id="secondary-cat">
   		<ul>
   			<li><a href="/fr/produits/elingues/">&Eacute;lingues</a></li>
-  			<li><a href="/fr/sling/inspection-criteria-and-sling-properties/">Inspection Criteria and Sling Properties</a></li>
+  			<li><a href="/fr/elingue/inspection-criteria-and-sling-properties/">Inspection Criteria and Sling Properties</a></li>
   		  	<li><?php the_title(); ?></li>
   		</ul>
 	</div>

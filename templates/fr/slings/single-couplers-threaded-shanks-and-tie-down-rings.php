@@ -13,7 +13,7 @@
   		<ul>
   			<li><a href="/fr/produits/elingues/">&Eacute;lingues</a></li>
   			<li><a href="/fr/produits/elingues/chain-wire-mesh-slings/">Éli­­­­­ngues de chaîne et élingues métalliques</a></li>
-  			<li><a href="/fr/sling/couplers-threaded-shanks-and-tie-down-rings/">Couplers, Threaded Shanks, and Tie-Down Rings</a></li>
+  			<li><a href="/fr/elingue/couplers-threaded-shanks-and-tie-down-rings/">Couplers, Threaded Shanks, and Tie-Down Rings</a></li>
   		  	<li><?php the_title(); ?></li>
   		</ul>
 	</div>

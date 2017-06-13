@@ -13,7 +13,7 @@
   		<ul>
   			<li><a href="/fr/produits/elingues/">&Eacute;lingues</a></li>
   			<li><a href="/fr/produits/elingues/elingues-de-levage-twin-path-et-elingues-de-levage-synthetiques/">&Eacute;lingues de levage TWIN PATH&reg;</a></li>
-  			<li><a href="/fr/sling/boat-lifting-slings/">Boat Lifting Slings</a></li>
+  			<li><a href="/fr/elingue/boat-lifting-slings/">Boat Lifting Slings</a></li>
   		  	<li><?php the_title(); ?></li>
   		</ul>
 	</div>

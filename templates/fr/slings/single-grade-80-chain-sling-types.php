@@ -13,7 +13,7 @@
   		<ul>
   			<li><a href="/fr/produits/elingues/">&Eacute;lingues</a></li>
   			<li><a href="/fr/produits/elingues/elingues-de-chaine/">Éli­­­­­ngues de chaîne et élingues métalliques</a></li>
-  			<li><a href="/fr/sling/grade-80-chain-sling-types/">Grade 80 Chain Sling Types</a></li>
+  			<li><a href="/fr/elingue/grade-80-chain-sling-types/">Grade 80 Chain Sling Types</a></li>
   		  	<li><?php the_title(); ?></li>
   		</ul>
 	</div>
