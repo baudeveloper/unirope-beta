@@ -7,7 +7,7 @@
 <?php get_header(); ?>
 
 	<div id="main-slider">
-			<div class="slides_container">
+			<div class="slides_containe">
 			
 			<?php
 			$args = array(
