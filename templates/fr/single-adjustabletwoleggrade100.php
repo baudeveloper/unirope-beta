@@ -5,7 +5,7 @@
           <ul>
             <li><a href="/fr/produits/elingues/">Élingues</a></li>
             <li><a href="/fr/produits/elingues/elingues-de-chaine/">Élingues de chaîne et métalliques</a></li>
-            <li><a href="/fr/sling/chain-sling-types/">Chain Sling Types</a></li>
+            <li><a href="/fr/elingue/chain-sling-types/">Chain Sling Types</a></li>
             <li>Adjustable Two Leg Grade 100</li>
           </ul>
         </div>
