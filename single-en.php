@@ -68,6 +68,8 @@
 		include(TEMPLATEPATH . '/templates/en/single-chain-shorteners.php');
 	} elseif (has_term( 'twin-path-and-synthetic-lifting-slings', 'sling-type', $post->ID)) {
 		include(TEMPLATEPATH . '/templates/en/single-syntheticslings.php');
+	} elseif (has_term( 'Technical Information', 'category', $post->ID )) {
+		include(TEMPLATEPATH . '/templates/en/single-wr-special.php');
 	} elseif (has_term( 'inspection-criteria-and-sling-properties', 'sling-type', $post->ID)) {
 		include(TEMPLATEPATH . '/templates/en/single-inspection-criteria-and-sling-properties.php');
 	} elseif (has_term( 'wear-pads-inspection-criteria-and-sling-properties', 'sling-type', $post->ID)) {

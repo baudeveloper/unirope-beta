@@ -21,8 +21,8 @@ Single Post Template: Wire Rope Special French
   	<div id="secondary-cat">
   		<ul>
   			<li><a href="/fr/produits/cables/">Câbles</a></li>
-  			<li><a href="/fr/produits/cables/cable-dacier/">Câble D’acier</a></li>
-  			<li><a href="/fr/produits/cables/cable-dacier/information-technique/">Information Technique</a></li>
+  			<li><a href="/fr/produits/cables/centres-de-cable-de-grues/">Centres de câble de grues</a></li>
+  			<li><a href="/fr/produits/cables/centres-de-cable-de-grues/technical-information/">Technical Information</a></li>
   			<li><?php the_title(); ?></li>
   		</ul>
 	</div>

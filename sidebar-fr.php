@@ -76,6 +76,9 @@
     } elseif (is_page(array('elingues-de-levage-twin-path-et-elingues-de-levage-synthetiques',7148)) || (is_single('3507')) || has_term( array('twin-path-and-synthetic-lifting-slings-fr','uni-path-round-slings-fr','uni-web-nylon-slings-fr','uni-web-polyester-slings-fr','boat-lifting-slings-fr','wear-pads-fr','synthetic-sling-hardware-fr','twin-path-lifting-slings-fr'), 'sling-type', $post->ID)) {
         include(TEMPLATEPATH . '/sidebar-templates/sidebar-syntheticslings.php');
 
+    } elseif (has_term( array('wear-pads-inspection-criteria-and-sling-properties-fr'), 'sling-type', $post->ID)) {
+      	include(TEMPLATEPATH . '/sidebar-templates/sidebar-wearpads-inspection.php');
+
     /* Sling Inspection */
     } elseif (has_term('inspection-criteria-and-sling-properties-fr', 'sling-type', $post->ID)) {
         include(TEMPLATEPATH . '/sidebar-templates/sidebar-sling-inspection.php');

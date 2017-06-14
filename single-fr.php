@@ -10,6 +10,8 @@
 		include(TEMPLATEPATH . '/templates/fr/slings/single-wireropeslings.php');
 	} elseif (has_term( 'wire-rope-end-attachments-fr', 'rope-type', $post->ID )) {
 		include(TEMPLATEPATH . '/templates/fr/single-wireropeendattachments.php');
+	} elseif (has_term( 'Technical Information', 'category', $post->ID )) {
+		include(TEMPLATEPATH . '/templates/fr/single-wr-special.php');
 	} elseif (has_term( 'Fiber Ropes', 'rope-type', $post->ID)) {
 		include(TEMPLATEPATH . '/templates/fr/single-fiberropes.php');
 

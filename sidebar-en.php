@@ -69,8 +69,11 @@
       	include(TEMPLATEPATH . '/sidebar-templates/sidebar-chain-wire-mesh-slings.php');
 
     /* Twin-Path® And Synthetic Lifting Slings Sidebar */
-    } elseif (is_page(array('twin-path-and-synthetic-lifting-slings',4776)) || (is_single('3507')) || has_term( array('twin-path-and-synthetic-lifting-slings','uni-path-round-slings','uni-web-nylon-slings','uni-web-polyester-slings','boat-lifting-slings','wear-pads','synthetic-sling-hardware','twin-path-lifting-slings'), 'sling-type', $post->ID)) {
+    } elseif (is_page(array('twin-path-and-synthetic-lifting-slings',4776)) || (is_single('3507')) || has_term( array('twin-path-and-synthetic-lifting-slings','uni-path-round-slings','uni-web-nylon-slings','wear-pads','uni-web-polyester-slings','boat-lifting-slings','synthetic-sling-hardware','twin-path-lifting-slings'), 'sling-type', $post->ID)) {
       	include(TEMPLATEPATH . '/sidebar-templates/sidebar-syntheticslings.php');
+
+    } elseif (has_term( array('wear-pads-inspection-criteria-and-sling-properties'), 'sling-type', $post->ID)) {
+      	include(TEMPLATEPATH . '/sidebar-templates/sidebar-wearpads-inspection.php');
 
 		/* Twin-Path® Lifting Slings Sidebar */
   	/*
