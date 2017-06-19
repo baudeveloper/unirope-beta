@@ -125,7 +125,7 @@
 				</div> <!-- end of #tb-phone -->
 				<?php if (ICL_LANGUAGE_CODE == 'fr') {  ?>				
 				<div id="tb-linker">
-					<a href="/fr/a-propos-de-nous/contact/">Locations</a><i id="locations-icon" class="fa fa-map-marker"></i>
+					<a href="/fr/a-propos-de-nous/contact/">Emplacement</a><i id="locations-icon" class="fa fa-map-marker"></i>
 				</div>
 				<div id="tb-career">
 					<a href="/fr/a-propos-de-nous/carrieres/">Carrières</a><i class="fa fa-sun-o" id="locations-icon"></i>
