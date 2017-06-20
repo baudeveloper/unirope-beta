@@ -113,7 +113,7 @@
 </div>
   		<div id="logo">
 			<?php if (ICL_LANGUAGE_CODE == 'fr') {  ?>
-			<a href="<?php echo get_option('home'); ?>/"><img src="<?php bloginfo('template_directory'); ?>/img/unirope-logo-banner.png"/></a>
+			<a href="<?php echo get_option('home'); ?>/"><img src="<?php bloginfo('template_directory'); ?>/img/unirope-logo-banner-fr.png"/></a>
 			<?php } else { ?>
   			<a href="<?php echo get_option('home'); ?>/"><img src="<?php bloginfo('template_directory'); ?>/img/unirope-logo-banner.png"/></a>
 			<?php } ?>
